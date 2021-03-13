@@ -1,0 +1,4144 @@
+ 
+
+ 
+
+ 
+ 
+
+    
+ 
+ARGENTINA 
+
+ 
+ 
+
+Informe de Terminación de 
+Proyecto (PCR) 
+ 
+ 
+ 
+Programa de Fortalecimiento 
+Institucional de la Secretaría 
+de Política Económica 
+(AR-L1001;1575/OC-AR) 
+ 
+
+ 
+
+ 
+ 
+Marzo 2011 
+
+ 
+
+i 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Sector: Modernización del Estado 
+
+Equipo  de  Proyecto  Original:  Dino  Caprirolo  (RE1/SC1)  Jefe;    Valnora  Leister 
+(LEG/OPR);  Eduardo  Rodal  (SDS/ICT);  Fernando  Straface  (SDS/SGC);  Pedro  Farias 
+(RE1/SC1);  Claudete  Camarano,  Normando  Birolo  y  Mario  Ferreira  (COF/CAR);  y 
+Margarita Fuentes e Irene Cartín (RE1/SC1) 
+
+ 
+
+Número de Proyecto: AR L1001 
+
+ 
+
+Número de Préstamo: 1575/OC-AR 
+
+ 
+
+Fecha del QRR: 1 marzo 2011 
+
+ 
+
+Fecha de Aprobación Final del PCR:  
+ 
+PCR  Equipo - Autor Principal y Miembros: Dino Caprirolo (ICS/CAR), Maximiliano 
+Marques (consultor), Florencia Serale (ICS/CAR) y Luz Melody Ladrón de Guevara. 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ii 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+ 
+Índice 
+ 
+
+I. 
+
+INFORMACIÓN BÁSICA ........................................................................................ 1 
+
+II. 
+
+EL PROYECTO ........................................................................................................ 2 
+
+A.  CONTEXTO DEL PROYECTO ................................................................................ 2 
+B.  DESCRIPCIÓN DEL PROYECTO ............................................................................. 4 
+i.  Objetivo de Desarrollo ................................................................................................................... 4 
+ii.  Componentes ................................................................................................................................. 5 
+C.  REVISIÓN DE LA CALIDAD DEL DISEÑO ................................................................. 5 
+
+III.  RESULTADOS ........................................................................................................ 6 
+
+A.  EFECTOS DIRECTOS ......................................................................................... 6 
+B.  EXTERNALIDADES ............................................................................................ 8 
+C.  PRODUCTOS .................................................................................................. 8 
+D.  COSTOS DEL PROGRAMA ................................................................................. 11 
+
+IV. 
+
+IMPLEMENTACIÓN DEL PROGRAMA ................................................................... 11 
+
+A.  ANÁLISIS DE LOS FACTORES CRÍTICOS ................................................................ 11 
+B.  DESEMPEÑO DEL PRESTATARIO/AGENCIA EJECUTORA ............................................. 12 
+C.  DESEMPEÑO DEL BANCO ................................................................................. 13 
+
+V. 
+
+SOSTENIBILIDAD ............................................................................................... 13 
+
+A.  ANÁLISIS DE FACTORES CRÍTICOS ..................................................................... 13 
+B.  RIESGOS POTENCIALES ................................................................................... 14 
+C.  CAPACIDAD INSTITUCIONAL ............................................................................. 15 
+
+VI. 
+
+EVALUACIÓN Y SEGUIMIENTO ........................................................................... 15 
+
+A.  INFORMACIÓN SOBRE RESULTADOS .................................................................... 15 
+B.  SEGUIMIENTO FUTURO Y EVALUACIÓN EX-POST .................................................... 15 
+
+VII.  LECCIONES APRENDIDAS ................................................................................... 15 
+
+VIII.  ANEXOS ............................................................................................................... 17 
+
+ 
+
+ 
+
+iii 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+ 
+Abreviaturas y Acrónimos 
+ 
+BAPIN 
+BID 
+DAGPYPS 
+DCPP 
+DNIP 
+DNPOIC 
+
+Banco de Proyectos de Inversión  
+Banco Interamericano de Desarrollo 
+Dirección de análisis de gasto público y políticas sociales 
+Dirección de coordinación de políticas productivas 
+Dirección Nacional de Inversión Pública 
+Dirección Nacional de Proyectos con Organismos Internacionales de 
+Crédito 
+Dirección Nacional de Programación Macroeconómica 
+Dirección Nacional de Programación Económica Regional 
+Dirección de Políticas Económicas Externas  
+Dirección Provincial de Presupuesto 
+Programa de Fortalecimiento Institucional de la Secretaría de Política 
+Económica 
+Instituto Nacional de Estadística y Censos 
+Matriz de Insumo Producto 
+Programa de Apoyo al Diseño de Estrategias y Políticas  
+Producto Interno Bruto 
+Plan Nacional de Inversión Pública  
+Ministerio de Economía 
+Sistema integral de monitoreo de política económica 
+Sub-Secretaría de Coordinación Económica 
+Sub-Secretaría de Programación Económica 
+Secretaría de Política Económica 
+Unidad Ejecutora del Programa de Fortalecimiento Institucional de la SPE 
+Unidad Ejecutora de Préstamos Externos 
+Unidad de Desarrollo de Estrategias, Planificación y Diseño de Políticas 
+Económicas 
+
+DNPM 
+DNPER 
+DPEE  
+DPP 
+FISPE 
+
+INDEC 
+MIP 
+PAEP 
+PIB 
+PNIP 
+MECON 
+SIMPE  
+SSCE 
+SSPE 
+SPE 
+UEPFI 
+UEPEX 
+UEPPE 
+
+ 
+
+iv 
+
+ 
+Fecha aprobación Directorio: 8 sep. 2004 
+Fecha efectividad contrato préstamo: 4 may 2005 
+
+Fecha elegibilidad primer desembolso: 31 ago 2005 
+ 
+Meses en ejecución 
+* desde aprobación: 75 
+* desde efectividad del contrato: 67 
+
+ 
+Períodos de desembolso 
+
+Fecha original desembolso final: 4 may 2008 
+Fecha actual desembolso final: 31 dic 2010                                   
+Extensión acumulativa (meses): 32 
+Extensión especial (meses): 32 
+ 
+Monto préstamo(s) 
+* Monto original: US$ 4.800.000 
+* Monto actual: US$ 4.390.410 
+* Pari Passu (si aplica): 73,85% 
+ 
+Desembolsos 
+Monto a la fecha: 81,97% 
+ 
+Costo Total del Proyecto (Estimado Original): US$ 6.800.000 
+ 
+Redireccionamiento  
+Este proyecto: 
+- recibió fondos de otro proyecto? 
+- Envió fondos a otro proyecto?  
+- N/A   
+De/Para 
+No. Proyecto 
+
+ 
+Para 
+No. Sub-préstamo 
+
+[    ] 
+[    ] 
+[  x  ] 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+Monto 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+
+ 
+
+I.  Información Básica  
+
+ 
+
+DATOS BÁSICOS (MONTO EN US$) 
+
+TITULO: Fortalecimiento de la Secretaría de Política Económica 
+
+NO. PROYECTO: ARL1001 
+ 
+Prestatario: República Argentina  
+Agencia ejecutora (AE): Ministerio de Economía y 
+Finanzas Publicas -Secretaría de Política Económica 
+(MECON/SPE) 
+ 
+Préstamo(s):  1575/OC-AR 
+Sector: Modernización del Estado 
+ 
+Instrumento de préstamo: Inversión 
+
+ 
+
+ 
+
+ 
+
+ 
+* Monto actual (ajustado para redireccionamiento) 
+
+ 
+
+ 
+ 
+En estado de “Alerta 
+Está el proyecto "en alerta" por PAIS: No 
+De ser afirmativo, favor indicar razones (Clasificaciones OD, PI,  
+y/o indicadores relevantes de PAIS): N/A 
+Comentarios de relevancia de la clasificación de alerta de este 
+proyecto (si aplica): N/A 
+ 
+
+Reducción de Pobreza (PTI): No 
+Equidad Social (SEQ): No  
+
+Clasificación ambiental: C 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+Resumen de la Clasificación de Desempeño 
+ 
+
+OD 
+
+PI 
+
+SO 
+
+[ ] Muy Probable(MP) 
+
+[ x ] Probable (P) 
+
+[] Poco Probable (PP) 
+
+[ ] Improbable (MI) 
+
+[ ] Muy Satisfactorio (MS) 
+
+[ x ] Satisfactorio (S) 
+
+[ ] Poco Satisfactorio (I) 
+
+[ ] Muy Insatisfactorio (MI) 
+
+[ ] Muy Satisfactorio (MS) 
+
+[ x ] Satisfactorio (S) 
+
+[ ] Poco Satisfactorio (PS) 
+
+[ ] Muy Insatisfactorio (MI) 
+
+ 
+
+1 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+
+II.  El Proyecto 
+
+a.  Contexto del Proyecto  
+
+importantes 
+
+Los  antecedentes  del  Proyecto  se  remontan  a  la  década  de  los  años  noventa,  periodo 
+marcado  por  muchos  contrastes  en  cuanto  a  la  evolución  de  las  principales  variables 
+macroeconómicas  del  país.  Después  de  episodios  de  hiperinflación  a  fines  de  los  años 
+ochenta y comienzos de los noventa, el programa implementado en el marco de la ley 
+de convertibilidad (1991) fue un instrumento eficaz para frenar la espiral inflacionaria. El 
+Índice de Precios al Consumidor (IPC) bajó a un dígito en al año 1993 y se asistió a un 
+período  de 
+ingresos  de  capitales  al  país.  La  economía  argentina 
+experimentó  durante  los  primeros  dos  años  de  la  implementación  del  modelo,  un 
+crecimiento promedio del PIB real de 10%, y de aproximadamente el 5% promedio en 
+los dos años subsiguientes (93 y 94). Sin embargo, el mantenimiento de este programa 
+en el tiempo impuso rigideces al normal desempeño de la economía que, sumados a las 
+crisis  financieras  internacionales  de  mediados  y  fines  de  la  década  del  noventa, 
+desembocó  en  la  gran  crisis  del  año  2001,  marcada  por  un  período  de  recesión 
+económica  de  más  de  40  meses.  El  mantenimiento  del  modelo  de  convertibilidad 
+implicó  déficits  recurrentes  de  la  balanza  comercial,  incremento  del  déficit  fiscal, 
+aumento de la deuda externa y ajustes en el gasto público por parte del gobierno.  
+
+En este contexto, se produjo la renuncia del Presidente de la Nación a fines del 2001 lo 
+que agravó la crisis política e institucional, que culminó con la declaración de cesación 
+de  pagos  de  la  deuda  externa.  En  el  2002,  la  economía  argentina  alcanzó  una  tasa  de 
+desempleo del 19,7% y sufrió una caída del 10,9% del PIB, llevando a una disminución 
+acumulada del PIB per cápita de alrededor del 24% desde mediados de 1998.  
+
+Las  políticas  implementadas,  a  partir  del  2003,  permitieron  la  reactivación  de  la 
+economía  con  tasas  de  crecimiento  superiores  al  8%  promedio  y  disminuciones 
+sustanciales en las tasas de desempleo y pobreza. En ese contexto, se establecieron  con 
+el  Banco  los  objetivos  del  programa  que    se  vincularon  con  la  necesidad  de  apoyar  el 
+diseño de estrategias y políticas de mediano y largo plazo que contribuyan a: (i) generar 
+las  condiciones  para  lograr  un  crecimiento  sostenido  del  PIB;  y  (ii)  mejorar  la 
+distribución del ingreso. 
+
+Consecuentemente,  el  Ministerio  de  Economía  y  Finanzas  Públicas  (MECON),  cuyas 
+funciones  se  vinculan  con  la  formulación  de  las  políticas  macroeconómicas  (fiscal  y 
+financiera)  y  los  lineamientos  sectoriales  estratégicos  relacionados  con  los  sectores 
+productivos,  solicitó  el  apoyo  del  BID  a  fin  de  fortalecer  a  la  Secretaría  de  Política 
+Económica  (SPE),  debido  a  que  durante  la  década  de  los  90  las  actividades  vinculadas 
+con 
+la  planificación  estratégica  en  el  Ministerio  no  habían  sido  priorizadas. 
+Específicamente,  las  responsabilidades  de  la  SPE  en  la  estructura  del  Ministerio  son 
+planificar y determinar los  objetivos e instrumentos de política, que permitan alcanzar 
+las metas de desarrollo de mediano y largo plazo del país.  
+
+ 
+
+2 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+El diagnóstico realizado de la SPE indicaba que esta requería una estructura orgánica y 
+funcional con competencias e instrumentos efectivos para llevar adelante su mandato. 
+Entre  estos  requerimientos,  se  destacaban  contar  con:  (i)  un  marco  jurídico  e 
+institucional  adecuado,  que  le  permitiera  desarrollar  sus  funciones  y  fortalecer  la 
+coordinación  institucional  con  otros  actores  del  Poder  Ejecutivo;  y  (ii)  los  recursos 
+técnicos  y  de  gestión  necesarios  para  la  formulación  y  el  análisis  de  la  política 
+económica.  Además,  la  toma  de  decisiones en  materia de política  económica  requiere 
+de información relevante, precisa y oportuna, tarea para la cual era esencial contar con 
+un sistema integrado de datos estadísticos. 
+
+En mayo de 2005, el gobierno firmó el Contrato de Préstamo con el Banco, declarándose 
+elegible  la  operación para  desembolsos  en  agosto  del  mismo  año.  De  esta  manera,  se 
+iniciarían  las  actividades  vinculadas  con  el  desarrollo  de  instrumentos  de  gestión 
+operativa,  metodologías  de  análisis  económicos,  y  la  definición  de  lineamientos  que 
+contribuyan al diseño de una estrategia nacional de desarrollo. Los trabajos se iniciaron 
+con las actividades vinculadas con la definición de una propuesta de estructura orgánica 
+y  funcional  para  la  SPE,  la  cual  incluyó  la  definición  de  sus  principales  productos, 
+procesos e indicadores de desempeño por área. Este trabajo contemplo la participación 
+de  todo  el  equipo  directivo  de  la  secretaria  incluyendo  al  Secretario,  Subsecretarios, 
+Directores Nacionales y Directores. Paralelamente, se iniciaron los trabajos vinculados a 
+la  conformación  de  la  Unidad  de  Desarrollo  de  Estrategias,  Planificación  y  Diseño  de 
+Políticas  (UEPPE)  y  a  la  conformación  del  mecanismo  operativo  de  apoyo  para  el 
+financiamiento  de  estudios  y  actividades  vinculadas  con  el  diseño  de  estrategias  y 
+políticas  (PAEP).  Pese  a  que  dichos  instrumentos  fueron  constituidos,  no  se  pudo 
+avanzar, en los primeros dos años de ejecución del proyecto, en el apoyo al desarrollo 
+de  la  Estrategia  Nacional,  cuyo  objetivo  había  sido  priorizado  por  las  autoridades 
+nacionales. Ello se dio en función a que los aspectos de coyuntura habían absorbido la 
+mayor  parte  de  la  gestión  y  a  los  sucesivos  cambios  de  la  autoridad  superior  de  la 
+Secretaría. 
+
+Durante  la  ejecución  del  programa  se  sucedieron  cuatro  Secretarios  distintos  y  cinco 
+Coordinadores  Generales  de  la  Unidad  Ejecutora  de  proyecto,  cuyas  prioridades  de 
+gestión  tuvieron  diferentes  enfoques.  Finalmente,  se  acordó  con  las  autoridades 
+avanzar con el desarrollo metodológico y la definición de lineamientos estratégicos que 
+contribuyeran  al  desarrollo  de  una  Estrategia  Nacional  cuya  materialización  tendría 
+lugar de contarse con los consensos necesarios a nivel nacional. Esta situación provocó 
+que el programa no pudiera ejecutarse en el plazo previsto originalmente (3 años). En 
+efecto,  el  Programa  no  había  alcanzado  su  objetivo  de  desarrollo  en  el  tiempo 
+establecido  originalmente.  Por  ello,  en  el  marco  de  un  taller  de  evaluación  de  medio 
+término  del  programa  (27  de  Junio  de  2008)  se  acordó  con  las  autoridades  del 
+Organismo  Ejecutor  un  nuevo  Plan  de  Acción,  el  cual  incorporó  la  redefinición  de 
+actividades e indicadores de logro a nivel de componente, en función de las prioridades 
+de  política  del  nuevo  Secretario  y  en  el  marco  de  los  objetivos  de  desarrollo  del 
+Programa. 
+
+ 
+
+3 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+Entre  los  factores  que  han  contribuido  al  atraso  en  la  ejecución  de  la  operación  se 
+destacan los siguientes: (i) dificultades en los procesos de contratación de servicios de 
+consultoría;  (ii)  cambios  en  las  autoridades  del  INDEC  que  imposibilitaron  la  ejecución 
+de  las  actividades  programadas;  y  (iii)  dificultades  para  la  implementación  de  los 
+instrumentos  propuestos  en  el  Programa,  en  especial  el  relativo  al  diseño  de  una 
+Estrategia  Nacional  de  Desarrollo;  razón  por  la  cual  se  autorizó  una  extensión  de  31 
+meses,  inicialmente  hasta  el  4  de  julio  de  2010  y,  luego  por  recursos  comprometidos 
+hasta el 31 de diciembre de 2010.  
+
+En  el  período  extensión  del  plazo  de  ejecución  los  productos  han  sido  cumplidos  con 
+calidad y los mismos se han ido implementando gradualmente; por ejemplo, el proyecto 
+de nueva estructura orgánico funcional de la SPE que crea dos nuevas Direcciones, una 
+de  ellas  encargada  de  la  planificación  estratégica,  fue  aprobado  por  el  Ministerio  de 
+Economía y Finanzas y la Secretaria de la Función Pública de la Jefatura de Gabinete de 
+Ministros y el Decreto correspondiente se encuentra a consideración de la  Presidencia 
+de la Nación.1 Asimismo  se han implementado algunos  Planes de Gestión Anual (PGA) 
+en  ciertas  áreas  de  la  Secretaria:  (i)  DNPM  y  DNPER  dentro  de  la  Subsecretaría  de 
+Programación  Económica;  (ii)  DNIP  DCPP,  DAGP  y  PS  dentro  de  la    Subsecretaría  de 
+Coordinación  Económica;  y  (iii)  DNPOIC.  El  desarrollo  institucional  de  las  nuevas 
+direcciones a ser creadas en la SPE así como la implementación de los Planes de Gestión 
+Anual en el resto de las unidades de la Secretaria constituye una asignatura pendiente.  
+
+A partir de marzo de 2009 el Secretario de Política Económica realizó modificaciones en 
+la  coordinación  de  la  Unidad  Ejecutora  a  fin  de  alinear  el  Programa  a  los  nuevos 
+objetivos  estratégicos  de  la  SPE  y  reforzar  el  seguimiento  de  la  implementación  del 
+mismo. En este nuevo marco se realizó una articulación más  estrecha de las actividades 
+financiadas  con  los  diferentes  actores  Subsecretarias  y  Direcciones,  asegurando  una 
+mayor apropiación institucional de los productos obtenidos. Finalmente, como parte de 
+extensión  del  último  desembolso  del  Programa,  el  Banco  autorizó  una  prórroga  que 
+contempló  una  cancelación  parcial  de  USD  409.589,97  cuyo  monto  no  fue 
+comprometido dentro del plazo previsto. 
+
+b.  Descripción del Proyecto 
+
+i. 
+
+Objetivo de Desarrollo  
+
+ 
+El objetivo es contribuir a mejorar la capacidad institucional de la Secretaría de Política 
+Económica del Ministerio de Economía y Finanzas para: (i) formular, implementar, hacer 
+seguimiento y evaluar la política económica y la estrategia nacional de desarrollo; y (ii) 
+realizar  la  coordinación  institucional  con  otros  actores  concurrentes  en  la  formulación 
+de la política económica. 
+ 
+
+                                                      
+1  Como  parte  de  este  proceso  ya  se  cuenta  con  el  Decreto  No.1907  aprobado  el  día  7  de  diciembre  de  2010    que 
+convierte  a  la  Unidad  de  Preinversión  (UNPRE)    en  Dirección  Nacional  de  Preinversión  dependiente  del  Secretario  de 
+Política Económica (SPE). 
+
+ 
+
+4 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+
+ii. 
+
+Componentes  
+
+Para alcanzar los objetivos específicos de la operación, se diseñó un Programa con dos 
+componentes: 
+
+(i)  Desarrollo  institucional:  El  componente  de  desarrollo  institucional  tiene  como 
+propósito apoyar el establecimiento de una estructura de organización, funcionamiento 
+e imagen institucional adecuada para el logro de la misión y objetivos de la SPE y que 
+responda a una planificación estratégica de acuerdo a un nuevo modelo de control y a 
+una gestión por resultados. 
+
+(ii) Apoyo al diseño de estrategias y políticas de desarrollo: El componente de apoyo al 
+diseño  de  estrategias  y  políticas  de  desarrollo  tiene  como  propósito  mejorar  los 
+sistemas de gestión y articulación de la política económica a fin de aumentar los niveles 
+de eficiencia y eficacia y su impacto en el logro de los objetivos de la estrategia nacional 
+de desarrollo. 
+
+c.  Revisión de la Calidad del Diseño 
+
+Revisión de la Calidad del Diseño  
+[ ] Muy Satisfactorio (MS) 
+
+[x] Plenamente Satisfactorio (PS) 
+
+ 
+
+[ ] Menos que  Satisfactorio (MS) 
+
+[ ] Insatisfactorio (I) 
+
+Se considera que el diseño del programa ha sido adecuado para el logro del objetivo de 
+desarrollo,  dado  que  las  actividades  y  productos  previstos  en  los  dos  componentes 
+contribuyeron  a  este  fin.  Sin  embargo, el  plazo de  ejecución  proyectado  fue  optimista 
+tomando en consideración el alcance del programa y la naturaleza de las intervenciones, 
+las cuales requieren para su ejecución el logro de consensos y la coordinación adecuada 
+entre los involucrados. Este es el caso del Componente 1, vinculado con la propuesta de 
+una  nueva  estructura  orgánica  y  funcional  para  la  Secretaria,  la  cual  fue  diseñada  con 
+amplia  participación  de  las  diferentes  unidades  de  la  SPE  y  la  intervención  de  la 
+Secretaría de la Función Pública de la Jefatura de Gabinete de Ministros, cuyo período 
+de maduración tomo tiempo. En cuanto al Componente 2 se destaca que su diseño fue 
+lo  suficientemente  flexible  para  atender  las  demandas  de  la  Secretaría  tales  como 
+estudios, asistencia técnica y actividades de búsquedas de consensos, que permitieron 
+disponer de estrategias sectoriales y políticas especificas a ser implementadas. Todo ello 
+se  desarrolló  en  el  marco  de  un  Reglamento  Operativo  para  el  Componente  2  que 
+definió  los  criterios  de  financiamiento,  la  modalidad  de  desarrollo  y  los  resultados 
+esperados de las actividades a ser financiadas. Finalmente, se previó que la selección de 
+las  actividades  a  ser  financiadas  debía  ser  aprobada  por  un  Comité  Técnico  Asesor 
+presidido  por  el  Secretario,  lo  cual  aseguró  que  las  mismas  estén  alineadas  con  las 
+prioridades  de  política  y,  consecuentemente,  representen 
+interés 
+institucional.   
+
+iniciativas  de 
+
+Finalmente, si bien se utilizó el Mecanismo Sectorial de Desarrollo Institucional para la 
+pronta  aprobación  del  Proyecto,  éste  establece  un  plazo  máximo  de  ejecución  de  3 
+años,  el  cual  resultó  insuficiente  para  la  ejecución  del  Programa,  debido  a  que  las 
+reformas institucionales requieren de plazos de maduración mayores, aun mas cuando 
+
+ 
+
+5 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+se  prevén  ajustes  a  las  estructuras  orgánico-funcionales  de  las  instituciones,  que 
+requieren  para  ser  exitosas  de  la  participación  activa  de  los  involucrados  y  de  las 
+concurrencia de las otras entidades del sector publico encargadas de evaluar y procesar 
+los cambios en la estructura de los organismos de Poder Ejecutivo. 
+
+III.  Resultados  
+
+a.  Efectos Directos 
+
+ 
+
+ 
+
+6 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+
+LOGRO DEL LOS OBJETIVOS DE DESARROLLO  (OD) 
+
+Objetivos de Desarrollo(s) (Propósito)  
+El  objetivo  es  contribuir  a  mejorar  la  capacidad  institucional  de  la  Secretaría  de  Política  Económica  del  Ministerio  de  Economía  y  Producción  para:  (i) 
+formular, implementar, hacer seguimiento y evaluar la política económica y la estrategia nacional de desarrollo; y (ii) realizar la coordinación institucional 
+con otros actores concurrentes en la formulación de la política económica. 
+1. Clasificación: P 
+
+Clasificación: MP, P, PP, I. 
+
+Capacidad  institucional  de  la  Secretaría  de 
+Política  Económica  del  Ministerio  de 
+Economía y Finanzas Públicas mejorada. 
+
+ 
+1.  Lineamientos 
+
+estratégicos 
+
+de 
+desarrollo  sectorial  elaborados  por 
+equipos  de  análisis  constituidos  con 
+personal de la SPE. 
+
+ 
+ 
+ 
+ 
+2.  Propuesta de estructura orgánica y 
+funcional adecuada a los objetivos 
+estratégicos de la SPE. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  Unidades dependientes de la SPE 
+
+trabajando sobre Planes de Gestión 
+Anual (PGA) orientado a resultados. 
+
+ 
+ 
+ 
+ 
+ 
+4.  Nuevas metodologías y sistemas de 
+
+información desarrollados y 
+disponibles en apoyo a la gestión de la 
+SPE. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.  Mecanismo de consulta y participación 
+
+en la formulación de estrategias de 
+desarrollo sectorial entre los 
+organismos públicos nacionales, 
+provinciales, sector privado e 
+implementado 
+
+Indicadores Claves de Efectos Directos 
+
+Resultado esperado 
+
+ 
+
+ 
+ 
+ 
+La SPE ha definido políticas 
+sectoriales conforme a 
+lineamientos estratégicos 
+elaborados en el marco del 
+Programa: 5 (cinco) lineamientos 
+estratégicos elaborados. 
+ 
+ 
+La SPE se ha convertido en un actor 
+relevante en el diseño, seguimiento 
+y evaluación de la política 
+económica y sus impactos 
+distributivos y fiscales: 1 (una) 
+propuesta de estructura elaborada. 
+La SPE opera de acuerdo a un 
+nuevo modelo de gestión y control 
+por resultados, permitiéndole 
+mejorar su eficiencia operativa y 
+aprendizaje organizacional: al 
+menos 4 (cuatro) unidades 
+trabajando sobre PGAs. 
+ 
+La SPE facilita la toma de decisiones 
+del sector público y privado 
+generando, consolidando y 
+poniendo a disposición información 
+económica oportuna, confiable y 
+relevante:  25 (veinticinco) nuevas 
+metodologías y sistemas de 
+información. 
+La SPE contribuye a mejorar la 
+inversión pública provincial, y el 
+impacto de las intervenciones 
+sectoriales a nivel nacional a través 
+del apoyo la formulación de 
+estrategias de desarrollo a nivel 
+sectorial: al menos 3 (tres) 
+mecanismos de consulta y 
+participación implementados 
+
+Resultado alcanzado 
+
+(seis) 
+
+ 
+ 
+ 
+ 
+Se  han  desarrollado  6 
+lineamientos  estratégicos  de 
+desarrollo  sectorial  de  apoyo  a  la  definición  de  políticas  (ver 
+detalle en el anexo 3.2).  
+ 
+ 
+ 
+ 
+ 
+Se  ha  desarrollado  1  (una)  propuesta  de  estructura  orgánica 
+funcional de la SPE (visión, misión, objetivos y metas estratégicas), 
+la  cual  fue  aprobada  por  el  Secretario  de  Política  Económica  y, 
+durante  2010,  fue  elevada  para  su  consideración  y  posterior 
+aprobación de la Presidencia de la Nación (ver detalle anexo 3.1). A 
+la  fecha  una  de  las  Unidades  se  ha  convertido  en  Dirección 
+Nacional,  y  la  otra    se  encuentra  en  proceso  de  aprobación 
+mediante expediente S01-0230336/2010. 
+ 
+ 
+7 (siete) dependencias de la SPE trabajan sobre Planes de Gestión 
+Anual orientados a resultados.  La DNPOIC tiene uno, la SSPE tiene 
+dos y la  SSCE tiene cuatro.  
+ 
+ 
+ 
+ 
+ 
+Se  encuentran  desarrollados 25  (veinticinco)  metodologías  y  base 
+de  datos  para  la  toma  oportuna  de  decisiones  de  política 
+económica.    Asimismo,    se  ha  desarrollado  e  implementado  un 
+sistema  de  alerta  temprana  sobre  las  variables  macroeconómicas 
+relevantes que sirve para el seguimiento y definición de la política 
+económica. (ver detalle anexo 3.5). De las bases de datos indicadas 
+en el Anexo 3.5, 11 de ellas están incorporadas al Sistema Monitor 
+de  Indicadores  el  cual  se  actualiza  periódicamente  por  áreas,  lo 
+que garantiza la vigencia de las mismas.  
+ 
+ 
+
+ 
+Se  han  desarrollado  los  siguientes  mecanismos:  (i)  Actualización 
+del  sistema  BAPIN  y  fortalecimiento  de  los  BAPINES  provinciales; 
+(ii)  Articulación  de  3  organismos  públicos  nacionales  para  la 
+elaboración y formulación de lineamientos para una  Estrategia de 
+Desarrollo  para  provincias  de  menor  desarrollo  relativo,  que  se 
+integran  en  un  Acuerdo  de  Cooperación;  y  (iii)  Taller  con  la 
+participación  de  funcionarios  responsables  de  22  provincias 
+relacionados con la ejecución de la inversión pública provincial,  a 
+fin  de  compatibilizar  criterios  de  evaluación  de  los  proyectos  e 
+impactos sobre los sectores económicos y reales de la economía. 
+ 
+
+ 
+
+7 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+ 
+
+Reformulación. Se realizó un redireccionamiento del Programa a través de un replanteo de las actividades del mismo en oportunidad de acordarse la 
+prórroga de 2 años. Es decir se amplió el plazo para el desarrollo de actividades y entrega de productos, tendientes a cumplir con el propósito inicial del 
+programa. El resultado fue el mejoramiento sustancial el ritmo de ejecución del Programa entre 2009 y 2010.La eliminación de la actividad  destinada al 
+INDEC, que fue inicialmente incorporada al Programa para apoyar el desarrollo del Sistema Estadístico Nacional, principalmente a nivel de las provincias, 
+no  pudo  implementarse  debido  a  los  cambios  de  autoridad  y  de  enfoque  en  el  Instituto.  Esta  modificación    no  afecto  el  objetivo  primario  de 
+fortalecimiento  de  la  SPE  ya  que  los  recursos  previstos  fueron  reorientados  a  otras  área  vinculada  al  fortalecimiento  del  desempeño  institucional  de 
+apoyo  a  la  toma  de  decisiones    como  la  construcción  y  puesta  en  marcha  de  un  sistema  de  alerta  temprana  a  través  del  monitoreo  de  indicadores 
+macroeconómicos seleccionados. Finalmente, si bien el INDEC se encuentra bajo la tuición de la SPE este posee autonomía de gestión, cuya actividad a 
+nivel  de  diseño  se  incluyó  en  la  etapa  final  para  poder  avanzar  en  una  primera  instancia  en  el  fortalecimiento  de  las  entidades  responsables  de  las 
+estadísticas en el ámbito provincial que coordinan sus labores con el INDEC. 
+
+Reajuste ISDP: indicar si y cuándo el ISDP fue reajustado, y explicar cambios que resultaron de este ejercicio. Se ajustaron los indicadores de cada uno 
+de los componentes. Estos cambios son explicados en detalle para cada componente en la sección C (Productos). 
+
+Resumen del(os) Objetivo(s) de Desarrollo Clasificación (OD):  
+
+[ ] Muy Probable(MP)  [ x ] Probable (P)  [ ] Poco Probable (PP)  [ ] Improbable (MI) 
+
+La clasificación de Probable en el cumplimiento de los objetivos de desarrollo obedece a que el Programa contribuyó a mejorar la estructura institucional 
+de  la  SPE  dotándola  de  un  proyecto  de  nueva  estructura  orgánico/funcional  que  responde  a  los  objetivos  estratégicos  de  la  misma,  la  cual  será 
+implementada plenamente cuando cuente con el Decreto de aprobación definitivo. Asimismo, se ha iniciado la implementación de un nuevo modelo de 
+gestión y control  por resultados en algunas de sus unidades relevantes. También, se ha fortalecido la capacidad técnica y analítica del personal  de la 
+Secretaria para el desarrollo de estrategias y políticas, a través de su capacitación y actualización, dotándolos además de nuevas metodologías, bases de 
+datos y sistemas de información.  
+
+Como  resultado  final  del  Programa, este  ha  contribuido  mejorar  la  capacidad de  gestión de  la SPE  en el  apoyo  al  diseño  y  la implementación de  una 
+política  económica  que  contribuya  al  crecimiento  sostenido  del  PIB  y  una  mejor  distribución  del  ingreso.  Para  ello,  se  dotó  a  la  SPE  de  nuevos 
+instrumentos  de  gestión,  sistemas  de  información,  nuevas  metodologías  de  análisis  y  proceso  de  trabajo,  así  como  capacitación,  de  manera  que  los 
+funcionarios de la SPE estuvieran en condiciones de desarrollar sus labores de mejor manera, ofreciendo nuevos productos como el diseño de nuevos 
+lineamientos    estratégicos  para  definir  medidas  de  política,  que  fueron  presentadas  por  el  Secretario  al  Ministro  para  su  posterior  consideración, 
+aprobación y posterior implementación. 
+
+ 
+
+Estrategia de País: El Programa se enmarcó dentro de la estrategia de país y contribuyó al logro de los objetivos relacionados con la reforma del Estado, 
+el crecimiento económico más equitativo y el equilibrio fiscal. El Programa contribuyó al desarrollo institucional de la SPE, contribuyendo a una mayor 
+eficiencia, previsibilidad y transparencia de la administración pública. 
+
+b.  Externalidades  
+
+La  ejecución  del  Programa  facilitó  una  mayor  integración  y  coordinación  institucional 
+con otros actores concurrentes en el diseño de la política económica, en la búsqueda de 
+una mayor coordinación de acciones y utilización de recursos para objetivos comunes. 
+En  este  sentido,  el  Programa  apoyó  el  desarrollo  de  una  estrategia  para  el  sector  de 
+energía, contribuyendo a las tareas vinculadas a la elaboración de un diagnóstico de los 
+sistemas  de  generación,  transmisión  y  distribución.  Adicionalmente,  el  Programa 
+también generó un efecto positivo en el MECON, ya que no sólo contribuyó al proceso 
+de rediseñó la página de la SPE, sino de todo el Ministerio. Por último, el Programa ha 
+contribuido  a  la  consolidación  del  sistema  nacional  de  administración  financiera 
+utilizado para la gestión de proyectos con financiamiento externo, implementado por la 
+Secretaría de Hacienda del MECON. 
+ 
+
+c.  Productos  
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+8 
+
+ 
+
+Componentes (Productos) 
+
+1.  Componente 1. Desarrollo Institucional 
+
+Costo total  Componente 1: US$ 1.910.920 
+
+Contrapartida: US$ 381.000 
+
+BID: US$ 2.291.920 
+
+Desembolso BID: 83% 
+
+ 
+
+la  SPE 
+
+Clasificación: S 
+ 
+1.1  Propuesta de Estructura orgánico y funcional 
+para 
+los  principales 
+productos,  procesos  e 
+indicadores  de 
+desempeño  de  la  SPE  por  área  funcional 
+identificados. 
+ 
+ 
+
+incluyendo 
+
+1.2  Adecuación de los procesos y procedimientos 
+administrativos  de  la  SPE,  considerando  los 
+criterios de funcionalidad y flexibilidad. 
+
+ 
+ 
+ 
+ 
+1.3  Personal  de  la  SPE  capacitado  (80  horas  por 
+cada  funcionario)  y  evaluado  de  acuerdo  a 
+los nuevos perfiles. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.4  Unidades de la SPE están implementando sus 
+
+planes de gestión anuales 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+1.5  Equipamiento (Hardware y Software) 
+ 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+PROGRESO EN LA IMPLEMENTACION (PI) 
+
+Productos planeados 
+
+Productos alcanzados 
+
+Indicadores Claves del Producto 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 Propuesta 
+ 
+ 
+ 
+ 
+ 
+ 
+16  manuales 
+optimizados  en 
+dependientes de la SPE. 
+
+procesos 
+y 
+las  unidades 
+
+ 
+ 
+ 
+ 
+
+264 personas capacitadas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Metodología  y  tres  planes  de 
+gestión anual 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+594 
+servidores, 
+provincias 
+UEPEX. 
+
+trabajo, 
+DNIP 
+actualización 
+
+puestos 
+
+y 
+
+de 
+
+equipo 
+
+Cumplido  100%.  Elaboración  de  una  Propuesta  de  Estructura 
+orgánica  y  funcional,  incluyendo  los  productos  para  toda  la 
+Secretaría  al  31/12/2008.  Asimismo  se  elaboró  un  Proyecto  de 
+decreto para la implementación de la nueva estructura ajustada al 
+30/10/2010. 
+
+ 
+
+Cumplido 100%.  En total se obtuvieron 26 manuales de procesos y 
+procedimientos  administrativos    actualizados  (9  en  el  2007 y  (13) 
+en  el  2008  y  (4)  en  el  2010.  Asimismo  se  implementó  la 
+reingeniería de procesos en ambas subsecretarías (SSCE y SSPE) la 
+DNPOIC, la DNPM y la DNPER.  
+
+ 
+
+Cumplido  80%.    En  total  se  capacitaron  212  diferentes  personas. 
+Se  han  desarrollado  entre  2006  Y  2010  72  cursos  (121,02  horas 
+promedio  por  alumno).  De  los  cuales  45  fueron  cursos  cortos  
+(60,07 HS)  y 27 largos (516hs) (maestrías y otros de postgrado). Se 
+desarrolló una metodología  para evaluar la capacitación (2007) y 
+se presentó  un informe al respecto. Se evaluaron en 2009 el 86,3% 
+de  los  cursantes,  sus  responsables  de  área  evaluaron  como  muy 
+positivo (70%) o positivo (30%) el impacto de la capacitación.  
+ 
+Cumplido 100%. Se cuenta con una nueva metodología y 3 planes 
+de  gestión.  La  SSPE,  SSCE  y  DNPOIC    actualizaron  los  planes  de 
+gestión  2010.  La  DNPOIC  tiene  un  plan  a  nivel  Dirección 
+Nacional, la SSPE tiene un Plan de Gestión: uno para la DNPER 
+y  otro  para  DNPM.  La  SSCE  tiene  un  Plan  a  nivel  de  la 
+Subsecretaría  y  uno  para  cada  dirección  que  opera  bajo  su 
+órbita  (DNIP, DAGP y PS, DCPP y DPEE). 
+ 
+
+Cumplido 100%. Se han adquirido puestos de trabajo, servidores, 
+equipo  DNIP  provincias  y  se  ha  realizado  la  actualización  del 
+UEPEX, renovando el equipamiento por un total de 1128 unidades 
+entre  hardware  y  software.  El  software  adquirido  se  vincula  con 
+sistemas de análisis económico que utiliza la SPE para el desarrollo 
+de  sus  funciones  (STATA,  SPSS,  soft  econométrico  matemático, 
+etc.) Ver detalle anexo 3.4.  
+
+Diferencias entre los productos planeados y actuales.  
+No  se  desarrolló  en  el  marco  del  componente  I  el  sistema  de  alerta  temprana  para  la  SSCE,  ni  el  sistema  de  base  de  datos  de  la  DNPM  ya  que  fueron 
+desarrolladas en el marco del Componente II. Se apoyo al sistema UEPEX. 
+Reestructuración.  Se realizó un re direccionamiento del Programa además de un replanteo de las actividades del mismo en oportunidad de acordarse la 
+prorroga de 2 años. A nivel del componente se decidió fortalecer a la Unidad Informática de la Secretaría de Hacienda (Sistema UEPEX) para lograr el objetivo 
+planteado en el Anexo A del contrato de préstamo punto (d) ii; es decir se amplió el plazo para el desarrollo de actividades y entrega de productos, 
+tendientes a cumplir con el propósito inicial del programa. 
+[ ] Muy Satisfactorio (MS) 
+
+[ ] Muy Insatisfactorio (MI) 
+A la luz de la entrega del 92% de los productos previstos por el componente 1, y en especial de los vinculados con los sistemas de gestión y procesos de 
+trabajo de la SPE se ha clasificado el progreso de la implementación del componente 1 como satisfactorio.  
+
+[ ] Poco Satisfactorio (PS) 
+
+[ x ] Satisfactorio (S) 
+
+2. Componente 2: Apoyo al diseño de 
+estrategias y políticas de desarrollo 
+
+Costo total  Componente 2: US$ 3.512.468 
+
+Contrapartida: US$ 1.054.000 
+
+Productos planeados 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+Productos alcanzados 
+
+9 
+
+ 
+
+BID: US$ 2.458.468 
+
+Desembolso BID: 70% 
+
+ 
+
+Clasificación: S 
+2.1  Unidad  de  Desarrollo  de  Estrategias, 
+Planificación  y  Diseño  de  Políticas 
+Económicas establecida y operando 
+
+ 
+ 
+ 
+ 
+ 
+ 
+2.2  Programa  de  Apoyo  al  Diseño  de 
+(PAEP) 
+
+Políticas 
+
+y 
+
+Estrategias 
+operativo 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.3  Sistema  de  alerta  temprana  para  la 
+toma  oportuna  de  decisiones  de  la 
+política económica desarrollado 
+
+ 
+ 
+2.4  Lineamientos 
+
+estratégicos 
+
+de 
+desarrollo  sectorial  elaboradas  para 
+cinco sectores 
+
+ 
+ 
+ 
+ 
+ 
+2.5  Metodologías y bases de datos para el 
+análisis  sectorial  que  facilite  la  toma 
+oportuna  de  decisiones  de  política 
+económica implementada 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.6  Fortalecimiento  y  rediseño  de 
+
+página Web de la SPE. 
+
+la 
+
+con 
+
+creada 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Una  unidad 
+objetivos y funciones 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reglamento desarrollado y 35 
+estudios de apoyo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sistema  de  alerta  temprana 
+diseñado e implementado. 
+ 
+ 
+ 
+5 lineamientos sectoriales 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25  Metodologías  y  bases  de 
+datos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Progreso en el desarrollo de la 
+pagina 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Cumplido 100%. La UEPPE está constituida por resolución, e integrada con 
+personal  contratado  y  personal  de  la  Secretaría.  Se  ha  financiado  la 
+realización  de  20  estudios  que  aportaron  información  valiosa  para  el 
+desarrollo  de  las  tareas  de  la  SPE.  Asimismo,  la  propuesta  de  nueva 
+estructura  orgánica/funcional  de  la  SPE  ha  incluido  las  funciones  de  la 
+UEPPE  en  una  nueva  Dirección  Nacional  de  Proyección  y  Desarrollo 
+Económico  contemplada  en  el  Proyecto  de  Decreto  que  está  siendo 
+considerado. Ello, dará sostenibilidad en el tiempo a esta actividad.  
+ 
+Cumplido  100%.  Ha  entrado  en  vigencia  el  reglamento  y  se  han 
+desarrollado 35 estudios de apoyo, destacándose los siguientes productos: 
+(i)  Metodología  de  análisis  de  resultados  e  impactos  del  Plan  Nacional  de 
+Inversión Pública (PNIP), (ii) Sistema de Cuentas Nacionales Argentina 2004: 
+desarrollo  metodológico  y  estimaciones,  (iii)  Análisis  comparativo  de  los 
+montos  presupuestados  de  los  proyectos  dictaminados  por  la  Dirección 
+Nacional de Inversión Pública (DNIP) y los resultantes de las licitaciones de 
+esos  proyectos,  (iv)  Análisis  Ambiental  de  los  Proyectos  de  Inversión 
+Pública, (v) Modelo de Programación Lineal que adapte la Matriz de Insumo 
+Producto  para  el  cálculo  de  los  precios  marginales  en  las  Cuentas 
+Nacionales-Parte  II,  (vi)  Manual  de  gestión  ambiental  de  los  proyectos  de 
+inversión  pública,  (vii)  Asistencia  técnica  para  la  preparación  y  emisión  de 
+informes  económicos  y  de  competitividad  provinciales,  (viii)  Asistencia 
+técnica  para  la  elaboración  de  propuestas  que  permitan  posibilidades  de 
+mayor  participación  del  mercado  financiero  regulado  para  el  acceso  a  la 
+vivienda  de  los  sectores  medios.  (ix)  Fortalecimiento  del  Sistema  de  la 
+Inversión Pública (BAPIN Fase II). Por otro lado, se está prestando apoyo a la 
+implementación del plan estratégico de energía. Asimismo, se ha elaborado 
+la programación macroeconómica de mediano y largo plazo. Ver Anexo 3.3.  
+ 
+Cumplido  100%.  Se  cuenta  con  un  sistema  de  monitoreo  y  seguimiento 
+(Sistema  de  Alerta  Temprana),  que  concentra  las  principales  variables  de 
+monitoreo  de  la  economía  para  evaluar  el  desempeño  de  la  política 
+económica. 
+ 
+Cumplido  100%.  Se  han  obtenido  8  (ocho)  lineamientos  estratégicos 
+sectoriales  para  los  siguientes  sectores:  (i)  cadenas  agroalimentarias 
+(cereales, oleaginosas, carnes y lácteos), (ii) sector farmacéutico, (iii) sector 
+manufacturas  de  cuero,  (iv)  cadenas  elaboradoras  de  hortalizas  para 
+consumo  fresco  (papa,  cebolla,  tomate,  hojas  verdes),  (v)  sector  turismo, 
+(vi)  sectores  Vitivinícola,  Maquinarias  Industria  Alimentación,  Químicos  y 
+Plásticos, (vii) desarrollo regional, y (viii) energía. 
+ 
+Cumplido  100%.  Se  han  confeccionado  11  (once)  metodologías  y  18 
+(dieciocho) bases de datos detalladas en el anexo 3.5.  
+ 
+Las  11  metodologías  se  relacionan  con  los  siguientes  grandes  temas:  (i) 
+economías 
+variables 
+macroeconómicas.  
+ 
+Las 18 bases de datos, éstas obedecen a las siguientes temáticas generales: 
+(i)  indicadores  de  competitividad;  (ii)  sector  agrario;  (iii)  inversión  pública; 
+(iv) sectores productivos; (v) mercado laboral;(vi) mercado de capitales; (vii) 
+política  económica;  y  (viii)  indicadores  macroeconómicos.  De  las  bases  de 
+datos  elaboradas,  11  de  ellas  están  incorporadas  al  Sistema  Monitor  de 
+Indicadores,  el  cual  se  actualiza  periódicamente  por  las  áreas,  lo  que 
+garantiza  la  vigencia  de  las  mismas.  Asimismo,    se  ha  desarrollado  e 
+implementado  un  sistema  de  alerta  temprana  sobre 
+las  variables 
+macroeconómicas relevantes. 
+ 
+Cumplido 80%. Se mejoró el diseño de la pagina web de la SPE, y se creó el 
+SIMPE  con  los  semáforos  de  alerta  temprana,  para  realizar  el seguimiento 
+de los indicadores económicos.  
+
+inversión  pública; 
+
+regionales; 
+
+(iii) 
+
+(ii) 
+
+y 
+
+ 
+
+10 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+
+Diferencias entre los productos planeados y actuales. 
+Como  resultado  de  la  evaluación  de  medio  término  y  las  dificultades  experimentadas  en  el  INDEC,  se  eliminó  la  actividad  planeada  originalmente  con  el 
+organismo,  en  lo respectivo  al  sistema de  seguimiento  y  evaluación  de  políticas  públicas.  Asimismo, no  se  hicieron  los  informes  periódicos  de  análisis  de 
+coyuntura económica planeados bajo el Programa. Estas actividades fueron sustituidas por el fortalecimiento del Sistema UEPEX (Componente 1) y el apoyo 
+al Plan Estratégico de Energía (Componente 2). 
+Reestructuración.  Se realizó un replanteo de las actividades del Programa debido al cambio de autoridades en la SPE. El mismo se efectuó en oportunidad 
+de la evaluación intermedia de la operación. Este cambio implicó la redefinición de actividades y de indicadores de logro a nivel de componente, en función 
+de las prioridades de política del nuevo Secretario. De esta forma, se estableció un plazo ampliado para la entrega de productos, tendientes a cumplir con el 
+propósito inicial del programa. 
+
+Resumen del Progreso en la Implementación Clasificación  (PI):  
+
+[ ] Muy Satisfactorio (MS) 
+
+[ x ] Satisfactorio (S) 
+
+[ ] Poco Satisfactorio (I) 
+
+[ ] Muy Insatisfactorio (MI) 
+
+La  clasificación  de  Satisfactorio  en  el  progreso  de  la  implementación  del  componente  2,  obedece  a  que  se  han  logrado  más  del  96%  de  los  productos 
+previstos,  en  especial  de  los  vinculados  a  la  elaboración  de  lineamientos  estratégicos,  el  desarrollo  de  metodologías,  sistemas  de  información y bases  de 
+datos que contribuyen a mejorar la calidad de los estudios e informes que elabora de manera periódica la SPE. 
+
+ 
+
+d.  Costos del Programa   
+
+Programa 
+
+(US$) 
+
+Costo Total del Programa Planeado 
+
+BID 
+
+A. Local 
+
+Total 
+
+BID 
+
+1910920 
+
+381000 
+
+2291920 
+
+1910920 
+
+Costo Total del Programa 
+
+Actual (US$) 
+
+A. Local 
+
+601335 
+
+% Diferencia 
+
+Total 
+
+2512256 
+
+BID 
+
+0,0% 
+
+A. Local 
+
+57,8% 
+
+Total 
+
+9,6% 
+
+Categoría de Inversión 
+01.00.00 Desarrollo 
+Institucional 
+02.00.00 Diseño, Estrategias y 
+Políticas 
+03.00.00 Gerencia y 
+Administración  
+
+01.03.00 Auditoria y Evaluación 
+
+Imprevistos 
+
+Costos Financieros 
+Fondo de Inspección y Vigilancia 
+(FIV) 
+
+2458468 
+
+1054000 
+
+3512468 
+
+2346357 
+
+275011 
+
+2621368 
+
+-4,6% 
+
+-73,9% 
+
+-25,4% 
+
+20744 
+
+144000 
+
+164744 
+
+20744 
+
+736206 
+
+756950 
+
+0,0% 
+
+411,3% 
+
+359,5% 
+
+278 
+
+0 
+
+278 
+
+278 
+
+0 
+
+0 
+
+0 
+
+201000 
+
+220000 
+
+201000 
+
+220000 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+278 
+
+0 
+
+217039 
+
+217039 
+
+0 
+
+0 
+
+0,0% 
+
+N/A 
+
+0,0% 
+
+N/A 
+
+N/A 
+
+N/A 
+
+-100,0% 
+
+-100,0% 
+
+-1,3% 
+
+-1,3% 
+
+N/A 
+
+N/A 
+
+4390410 
+
+2000000 
+
+6390410 
+
+4278299 
+
+Total del Programa 
+Explique brevemente las diferencias. Los datos consignados en "Costo Total del Programa Planeado" incluyen  una cancelación de USD 409.589,97 al momento de prorrogar 
+el plazo de ejecución por recursos comprometidos del Programa. Asimismo, se prevé una segunda cancelación parcial por un monto de USD 112.111,  debido a que se decidió 
+no seguir adelante con la continuidad de algunos estudios. La información sobre el costo total del Programa constituye proyecciones cuyo valor definitivo se constatará al 
+31/12/2010 y se expondrá en los Estados Financieros correspondientes. Finalmente, se indica que la cancelación parcial de fondos del programa no afectó el cumplimiento de 
+los objetivos de desarrollo, en la medida que los fondos no utilizados correspondieron a la partida destinada al financiamiento de estudios a demanda (Componente 2). El  
+aumento en los costos administrativos se debió fundamentalmente a la extensión del plazo del programa por dos años. Es importante aclarar que estos costos representaron 
+un 12.4% del monto total el Programa. 
+
+1829591 
+
+6107890 
+
+-2,6% 
+
+-8,5% 
+
+-4,4% 
+
+ 
+
+IV.  Implementación del Programa 
+
+a.  Análisis de los factores críticos 
+
+Entre  los  factores  positivos  que  explican  la  buena  ejecución  del  Programa  podemos 
+destacar: (i) la permanencia de los coordinadores de componente y personal técnico de 
+la  UEPFI  a  lo  largo  del  proceso  de  implementación  del  Programa,  lo  cual  permitió  la 
+estabilidad y seguimiento adecuado de las actividades de la operación; (ii) la apropiación 
+y acompañamiento de los estudios realizados por las áreas responsables de los mismos 
+en la SPE, lo cual aseguró que los productos sean relevantes para sus funciones; (iii) la 
+evaluación de  medio  término  fue un  elemento muy efectivo  para  organizar  y articular 
+
+ 
+
+11 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+las  prioridades  de 
+la  SPE  con  el  Programa  (ayudó  a  efectivizar  la  puesta  en 
+funcionamiento  de  la  UEPPE);  (iv)  el  fortalecimiento  del  vinculo  entre  la  Unidad 
+Ejecutora y las unidades de línea de la SPE después de la evaluación de medio término, 
+permitió  la  concreción  de  los  productos,  así  como  un  adecuado  seguimiento  de  los 
+indicadores  de  propósito  y  de  desempeño  del  Programa;  y  (v)  el  compromiso  de  las 
+nuevas autoridades en los dos últimos años de ejecución del Programa que permitió el 
+desembolso del 56% de los recursos del financiamiento en ese período.  
+ 
+Entre  los  factores  negativos  que  afectaron  la  implementación  del  Programa  podemos 
+destacar: (i) alta rotación de las autoridades políticas de la SPE, que durante la vigencia 
+del Programa tuvo cuatro diferentes Secretarios y cinco Coordinadores Generales de la 
+UEPFI, provocando demoras en el plazo de ejecución del Programa; (ii) el cambio en las 
+autoridades del INDEC generó la modificación en las prioridades para la ejecución de las 
+actividades  originalmente  programadas  con  ese  organismo  en  2007.  En  efecto,  éste 
+cambios  implicó  nuevas  aplicaciones  de  fondos,  reasignándose  a  trabajos  con  las 
+Secretarias  de  Hacienda  (Fortalecimiento  del  UEPEX)  y  Energía  (Fortalecimiento  del 
+Consejo Asesor de Estrategia Energética ECOESTRA); (iii) demoras administrativas en la 
+firma de los contratos de consultoría que requiere, por montos mayores a $ 3.5002, la 
+concurrencia previa a su suscripción por parte de la Jefatura de Gabinete de Ministros y 
+dificultades en los procesos de contratación de servicios de consultoría, generados por 
+la  desactualización  en  los  montos  de  honorarios  para  los  consultores  que  contrata  el 
+Estado  Nacional  (una  actualización  en  nueve  años)    y  las  demoras  en  el  pago  de  los 
+mismos.  Asimismo,  estas  demoras  se  vieron  acentuadas  por  las  dificultades  en  los 
+procesos de contratación de servicios de consultoría dado los cambios sucedidos en el 
+Área  Central  de  Servicios  Administrativos  (ACSA)  encargada  de  los  procesos  de 
+selección,  contratación  y  pagos;  y  (iv)  incumplimiento  en  la  entrega  de  los  Estados 
+Financieros Auditados (EFAs) del Programa, en los palcos contractuales establecidos, lo 
+que generó suspensión de los desembolsos en dos oportunidades. 
+ 
+
+b.  Desempeño del Prestatario/Agencia Ejecutora  
+
+Clasificación del Desempeño del Prestatario/Agencia Ejecutora 
+[ ] Muy Satisfactorio (MS) 
+
+[ x ] Satisfactorio (S) 
+
+[ ] Poco Satisfactorio (PS) 
+
+[ ] Muy Insatisfactorio (MI) 
+
+ 
+La Unidad Ejecutora del Programa de Fortalecimiento Institucional (UEPFI) ha tenido un 
+desempeño  satisfactorio  tomando  en  consideración 
+los  reiterados  cambios  de 
+autoridades.  En  este  sentido  la  UEPFI  gestionó  de  manera  adecuada  los  recursos 
+administrativos y financieros y acompañó la obtención de los productos financiados por 
+la Operación. A lo largo de la duración del Programa, la UEPFI cumplió con la entrega de 
+los 
+requerimientos  establecidos  en  el  contrato  de  préstamo 
+satisfactoriamente  y  en  oportunidad.  Finalmente,  es  importante  destacar  que  la 
+
+informes  y 
+
+                                                      
+2 Importe establecido por el  Decreto 2345/2008, sin embargo durante gran parte de la ejecución del proyecto estuvo vigente el 
+Decreto 1184/2001 cuyos valores eran sustancialmente menores. 
+
+ 
+
+12 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+estabilidad  de  los  coordinadores  de  componente  permitió  dar  continuidad  a  las 
+actividades  del  programa.  En  los  dos  últimos  años  del  programa  la  UEPFI  mejoro 
+sustancialmente el desempeño financiero de la operación. 
+ 
+
+c.  Desempeño del Banco  
+
+ 
+
+Clasificación del Desempeño del Banco 
+[ ] Muy Satisfactorio (MS) 
+
+[ x ] Satisfactorio (S) 
+
+[ ] Poco Satisfactorio (PS) 
+
+[ ] Muy Insatisfactorio (MI) 
+
+ 
+El  desempeño  del  Banco  ha  sido  satisfactorio,  respecto  a  su  actitud  de  colaboración 
+hacia  la  UEPFI  y al  Programa  en  general.  A  lo  largo  del  Programa,  se  ha  expedido  con 
+eficacia  en  respuesta  a  los  inconvenientes    derivados  de  los  cambios  de  autoridades, 
+habilitando  una  prórroga  en  el  plazo  de  desembolsos,  tal  como  fuera  explicado  con 
+anterioridad. 
+ 
+El Banco ha mostrado flexibilidad y muy buena disposición para los cambios propuestos 
+por  la  UEPFI,  tanto  en  lo  que  a  consultas  específicas  se  refiere,  cuanto  a  otras  que 
+implicaban  modificaciones  generales.  En  este  orden  de  cosas,  el  acompañamiento  del 
+Banco  en  la  última    etapa  fue  fundamental  para  fortalecer  al  Programa  y  asegurar  la 
+calidad de la gestión y la buena administración. En particular, después de la evaluación 
+de medio término, se percibió una participación más activa por parte del Banco.  
+ 
+
+V.  Sostenibilidad  
+
+a.  Análisis de Factores Críticos 
+
+Los  productos  y  resultados  generados  con  la  ejecución  del  Programa  FISPE  han 
+contribuido  a  mejorar  el  desempeño  de  la  SPE.  En  efecto,  los  nuevos  conocimientos 
+específicos  adquiridos  por  el  personal  de  la  SPE,  sumado  a  los  diversos  avances 
+informáticos  (licencias,  software,  hardware,  sistemas  más  dinámicos,  bases  de  datos, 
+metodologías,  etc.)  dotan  a  los  funcionarios  de  la  Secretaría  de  las  herramientas 
+necesarias  para  desempeñar  su  función  eficientemente  en  el  mediano  plazo, 
+colaborando  con  las  estrategias  de  crecimiento  económicas  del  país,  tal  como  estaba 
+planeado originalmente en el Programa. En definitiva, el personal más calificado ayuda 
+al cumplimiento de los objetivos de la SPE, asegurando la sostenibilidad del Programa a 
+futuro.  
+
+Los logros alcanzados en cuanto a la mejor planificación estratégica de la Secretaría y la 
+mejor  coordinación  institucional  con  otros  actores  concurrentes  en  el  diseño  de  la 
+política  económica,  promueven  la  permanencia  de  los  logros  obtenidos.  Sin  embargo, 
+debe reconocerse que estos logros deben ser mantenidos con la continua capacitación 
+del personal, tanto en conocimientos técnicos como informáticos. Adicionalmente, para 
+la  sostenibilidad  del  Programa  a  largo  plazo,  es  importante  realizar  un  seguimiento 
+
+ 
+
+13 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+sistemático  de  la  coyuntura  local,  regional  y  sectorial,  así  como  la  elaboración  de  
+informes periódicos con el contenido de indicadores relevantes que permitan evaluar el 
+impacto sobre la economía local de los cambios en la coyuntura mundial. Asimismo, es 
+fundamental  profundizar  la  articulación  con  otros  actores  con  competencia  en  la 
+implementación  de  la  política  económica.  En  definitiva,  si  bien  el  Programa  ha 
+contribuido  al  diseño  e  implementación  de  una  política  económica  que  habría 
+contribuido  entre  uno  de  sus  objetivos  al  crecimiento  del  PBI,  cuyo  crecimiento    en 
+promedio los últimos anos fue de 6,7%, este obviamente ha sido el resultado de muchas 
+otras variables.  
+
+Finalmente,  la  SPE  ha  elaborado  un  Proyecto  de  Decreto  con  una  propuesta  de 
+estructura orgánica funcional que fortalece sus funciones de planificación y consolidara 
+los  productos  logrados  en  el  marco  del  Programa.  Adicionalmente,  la  SPE  está 
+gestionando  la  incorporación  del  personal  de  la  UEPFI  a  la  planta  permanente  del 
+Ministerio  de  Economía  y  Finanzas  Públicas,  los  cuales  darían  continuidad  a  la 
+implementación del proceso de fortalecimiento de la SPE en el marco de una eventual 
+nueva operación con el Banco, que se ha incluido en el Plan Operativo para el 2011. La 
+nueva  operación  buscaría,  entre  otros,  completar  la  implementación  de  planes  de 
+gestión orientado a resultados de todas las dependencias de la SPE y el fortalecimiento 
+de  la  dos  nuevas  direcciones  que  se  crearían  cuando  se  apruebe  la  nueva  estructura 
+orgánica  funcional.  Finalmente,  considerando  la  fructífera  sinergia  alcanzada  en  la 
+colaboración  con  otras  áreas  del  MECON  (Secretaría  de  Hacienda,  Área  de  Prensa 
+MECON) se prevé que una nueva iniciativa incluya la posibilidad de articular el accionar 
+del Programa con otras áreas del MECON. 
+
+b.  Riesgos Potenciales  
+
+La elevada rotación de las autoridades de la SPE evidenciada en los últimos años, es un 
+riesgo  potencial  para  mantener  los  logros  del  Programa  y  asegurar  la  estabilidad  y 
+sostenibilidad  de  la  gestión  de  la  operación.  Sin  embargo,  este  riesgo  se  verá 
+minimizado  en  la  medida  que  las  autoridades  actuales  están  gestionando  un  nuevo 
+Decreto  de  estructura  orgánica  funcional  que  contempla  la  incorporación  de  las 
+personas  que  están  desempeñando  estas  funciones.  La  continuidad  de  estos  equipos 
+permitirá  el  mantenimiento  y  la  continuidad  de  políticas  de  largo  plazo,  evitando  que 
+estas  sean  interrumpidas  como  consecuencia  de  cambios  políticos  que  demoren  el 
+proceso de desarrollo del país.  
+
+Adicionalmente, teniendo en cuenta el importante rol que cumple la capacitación de los 
+recursos humanos, que dan el sostenimiento y continuidad al programa, existe el riesgo 
+de  la  paralización  de  los  distintos  cursos  y  programas  actualización  y  capacitación  del 
+personal.  No  hay  reforma  ni  modernización  posible  sin  contar  con  la  continua 
+especialización y educación de la mayoría del personal técnico de la SPE, en particular 
+de  sus  mandos  medios.  En  definitiva,  es  de  suma  importancia  que  se  mantenga  el 
+camino trazado en la institución independientemente de la autoridad que se encuentre 
+al frente de la misma. 
+
+ 
+
+14 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+
+c.  Capacidad Institucional  
+
+El  Organismo  Ejecutor  demostró  contar  con  capacidad  institucional  suficiente  para  el 
+desarrollo  y  ejecución  técnica  del  Programa  en  cuestión.  La  SPE  ha  cumplido  con  los 
+indicadores de desempeño previstos, sobreponiéndose a los inconvenientes surgidos en 
+la implementación del Programa, asegurando la idoneidad de la UEPFI.  
+ 
+
+Clasificación de Sostenibilidad (SO) 
+[ ] Muy Satisfactorio (MS) 
+
+[ x ] Satisfactorio (S) 
+
+[ ] Poco Satisfactorio (PS) 
+
+[ ] Muy Insatisfactorio (MI) 
+
+ 
+
+VI.  Evaluación y Seguimiento 
+
+a. 
+
+Información sobre Resultados  
+
+La supervisión y seguimiento del Programa se realizo en función de la gestión de riesgos 
+y  la  focalización  en  los  resultados  esperados.  Para  ello,  se  utilizaron  los  siguientes 
+instrumentos:    Planes  operativos  anuales  (POAs),  Planes  de  adquisiciones  (PDAs), 
+Informes  Semestrales,  Informes  de  seguimiento  del  desempeño  del  Programa  (ISDP), 
+visitas  de  inspección  y  un  taller  de  gestión  de  riesgo  del  Programa.  La  información 
+recabada ha permitido acompañar el avance en el logro de los objetivos de desarrollo 
+del Programa así como de los avances físicos y financieros de la operación. 
+
+Por otro lado, el programa contó con una evaluación de medio término externa, la cual 
+contribuyó a efectuar ajustes al Programa conforme a las demandas de la SPE.  
+
+b.  Seguimiento Futuro y Evaluación Ex-Post  
+
+El  Programa  no  incluyó  un  requerimiento  contractual  para  el  desarrollo  de  una 
+evaluación ex-post del Programa.  
+ 
+
+VII.  Lecciones Aprendidas   
+
+Durante  el  Programa  se 
+incorporaron  algunos  aprendizajes  muy  valiosos  que 
+consideramos  oportuno  subrayar  y  dejar  como  elementos  a  tener  en  cuenta  en  otros 
+proyectos similares. Los mismos los detallamos a continuación: 
+
+los  programas  de 
+
+1.  Flexibilidad  en  el  diseño  de  los  Programas  de  fortalecimiento  institucional.  Es 
+lo 
+necesario  que 
+suficientemente  flexibles  para  responder  a 
+los  cambios  de  autoridades 
+responsables  de  los  programas  que  frecuentemente  se  dan,  cuyo  impacto 
+repercute  en    el  normal  desenvolvimiento  de  las  operaciones,  al  modificarse  las 
+prioridades. En este sentido, se sugiere asegurar que el diseño de las operaciones 
+responda  a  los  objetivos,  funciones  y  responsabilidades  estratégicas  de  las 
+
+fortalecimiento 
+
+institucional  sean 
+
+ 
+
+15 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+ 
+
+entidades con las que se colabora, y que los programas focalicen sus diseños en 
+los resultados, permitiendo flexibilidad en las actividades a ser financiadas para el 
+logro  de  los  mismos.    Cambio  cultura  organizacional.  La  administración  central 
+puede  ser  reacia  ante  cambios  estructurales  (procedimientos,  organigramas, 
+procesos, etc.) que modifiquen la estructura organizacional, aunque una vez que 
+estos  cambios  están  en  marcha,  la  reacción  puede  ser  positiva,  acompañando  y 
+dando  apoyo  a  la  nueva  estructura.  En  este  sentido  se  recomienda  que  los 
+programas de fortalecimiento institucional se incluyan un componente de gestión 
+del  cambio  que  permita  informar  y  asegurar  la  participación  de  todos  los 
+involucrados en el proceso de fortalecimiento. En el caso del programa de la SPE, 
+si  bien  se  desarrollo  un  proceso  participativo  para  el  diseño  de  una  nueva 
+estructura  orgánica  funcional,  no  se  previó  un  mecanismo  de  seguimiento  e 
+información posterior. 
+
+2.  Alineamiento  de  los  estudios  y  las  actividades  a  financiar  con  los  planes  de 
+gestión  anual  (PGA).  Si  bien  en  el  marco  del  programa  se  estableció  un 
+mecanismo  por  el  cual  los  estudios  y  actividades  de  apoyo  técnico  fueran 
+aprobados por un comité técnico presidido por la máxima autoridad de la agencia 
+ejecutora,  no  en  todos  los  casos  estos  estuvieron  vinculados  con  los  planes  de 
+gestión  anuales  de 
+las  unidades  respectivas.  Para  futuros  programas  se 
+recomienda  establecer  un  mecanismo  que  priorice  el  financiamiento  de 
+actividades vinculadas a los PGAs, incluyendo recursos para el financiamiento de 
+estudios de coyuntura que se puedan requerir. 
+
+impulsan  reformas 
+
+3.   Mecanismo Sectorial de Desarrollo Institucional (MSDI)3. Si bien el uso del MSDI 
+permite la pronta aprobación del Proyecto por parte del Banco, éste establece un 
+plazo  máximo  de  ejecución  de  3  años,  el  cual  resulta  insuficiente  para  la 
+implementación  de  proyectos  que 
+institucionales,  cuyo 
+periodo de maduración es mayor, como en el caso del Programa de Argentina. Se 
+considera que un Préstamo para Programas de Fases Múltiples, con periodos de 
+ejecución  superiores  a  los  tradicionales  de  4  a  5  anos,    con  disparadores 
+detallados,  con  indicadores  y  metas  especifica  identificadas  de  manera  ex-ante, 
+resultaría una herramienta más adecuada para el financiamiento de este tipo de 
+operaciones,  ya  que  además  permitiría  acompañar 
+implementación  de 
+productos  diseñados  de  manera  gradual  y  selectiva  en  el  tiempo,  impulsando  la 
+labor sostenida y sistemática en un sector. 
+
+la 
+
+4.  Auditoría  externa.  Durante  la  implementación  del  programa  se  experimentaron 
+dificultades  en  la  entrega  oportuna  de  los  estados  financieros  auditados  en  los 
+plazos contractuales al Banco, lo cual generó la suspensión de desembolsos en dos 
+oportunidades.  Consecuentemente,  para  futuros  programas  donde  se  prevé  la 
+participación  de  entidades  de  auditoría  externa gubernamentales  se  sugiere  que 
+se   analice la disponibilidad de  recursos con las que cuenta  dicha entidad para 
+
+                                                      
+3 La aprobación de la operación esta delegada a la Administración hasta por un monto de US$5,0 millones. 
+Para mayor descripción del MSDI ver el documento GN-2223 7y GN-2085-2 
+
+ 
+
+16 
+
+1575/OC-AR 
+Informe de terminación de Proyecto 
+
+realizar  las  tareas  encomendadas,  evaluándose    la  posibilidad  de  reforzar  los 
+equipos  de  trabajo  así  como  acordar  un  cronograma  para  su  realización  entre 
+todas  las  partes  involucradas.  Caso  contrario,  ver  la  manera  de  subcontratar  los 
+servicios de auditoría externa para programas de pequeño monto y de bajo riesgo 
+
+ 
+
+ 
+
+VIII.  Anexos 
+
+1.  Actas del Taller de Cierre.  
+2.  Evaluación del Prestatario 
+3.  Productos 
+
+  
+
+ 
+
+17 
+
+  
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ANEXO 2 
+
+ 
+ 
+
+INFORME DEL EJECUTOR 
+
+ 
+
+Nombre del Proyecto: Programa de Fortalecimiento de la Secretaria de 
+Política Económica  
+
+País: Argentina 
+
+Sector/Subsector: Modernización del Estado 
+
+Equipo Unidad Ejecutora : José Luís Calvo, Rafael Perrotta, Gisela Chessi, 
+Valeria Dallera, Élida Ferrari, Carlos Fazzini, Constanza Harilaos, Ivana Kaech, 
+Damián Flam,  María  Eugenia Ojea y Emilia Ditloff  
+
+Número de Préstamo(s): 1575/OC-AR. 
+
+ 
+
+ 
+
+ 
+
+Programa de Fortalecimiento de la Secretaria de política Económica  
+
+Informe del Ejecutor  
+
+ 
+
+I.  El Proyecto 
+
+Revisión de la Calidad del Diseño  
+
+Se considera que el diseño del proyecto ha sido adecuado para el logro del objetivo de desarrollo dado que 
+las  actividades  y  productos  previstos  en  los  dos  componentes  contribuyeron  a  este  fin.  Sin  embargo,  el 
+plazo de ejecución previsto fue optimista tomando en consideración el alcance del programa y naturaleza de 
+las intervenciones, las cuales requieren para su ejecución el logro de consensos y la coordinación adecuada 
+entre  los  involucrados.  Este  es  el  caso  del  Componente  1,  vinculado  con  la  propuesta  de  una  nueva 
+estructura  orgánica  y  funcional  para  la  Secretaria,  la  cual  fue  diseñada  con  amplia  participación  de  las 
+diferentes  unidades  de  la  SPE  y  la  intervención  de  la  Secretaria  de  la  Función  Publica  de  la  Jefatura  de 
+Gabinete de Ministros. En cuanto al Componente 2 se destaca que su diseño fue lo suficientemente flexible 
+para  atender  las  demandas  de  la  Secretaría  tales  como  estudios,  asistencia  técnica  y  actividades  de 
+búsquedas  de  consensos  que  permitieron  disponer  de  estrategias  sectoriales  y  políticas  especificas  a  ser 
+implementadas. Todo ello, se desarrolló en el marco de un Reglamento Operativo que definió los criterios de 
+financiamiento, la modalidad  de desarrollo y los  resultados  esperados de las actividades  a ser financiadas. 
+Finalmente, se previó que la selección de las actividades a ser financiadas deberían  ser aprobadas por un 
+Comité Técnico Asesor, presidido por el Secretario lo cual aseguró que las mismas estén alineadas con las 
+prioridades de política y consecuentemente representen iniciativas de interés institucional.   
+ 
+Finalmente,  si  bien  la  herramienta  de  Mecanismo  Sectorial  de  Desarrollo  Institucional  utilizada  para  la 
+pronta aprobación del Proyecto por parte del Banco establece un plazo máximo de ejecución de 3 años, este 
+período resultó insuficiente para la ejecución del Programa dado que al tratarse de un programa de reforma 
+institucional, se requieren plazos de maduración mayores. 
+ 
+
+II.  Implementación del Proyecto 
+
+ 
+Análisis de los factores críticos 
+
+Entre los factores positivos que explican la buena ejecución del Programa podemos destacar: 
+(i) la elección de coordinadores y personal técnico de la UEP; (ii) el liderazgo de las autoridades 
+a  cargo  de  la  ejecución    que  han    permitido  logros  importantes  del  programa  en  lo  referido  al 
+fortalecimiento institucional y técnico de la SPE; (iii) el buen encadenamiento de la coordinación 
+técnica de la Unidad Ejecutora después de la ampliación del plazo de ejecución que permitió la 
+concreción de los productos, así como un adecuado seguimiento de los indicadores de propósito 
+y  de  desempeño  del  Programa,  (iv)  la  evaluación  de  medio  término    fue  un  elemento  muy 
+efectivo  para  organizar  y  articular  las  necesidades  prioritarias  con  las  que  el  banco  estaba 
+dispuesto  a  financiar  el  programa  (ayudó  a  efectivizar  la  puesta  en  funcionamiento  de  la 
+UEPPE).   
+
+ 
+Entre los factores negativos que afectaron la implementación del Programa podemos destacar: 
+(i) Durante la vigencia del préstamo la SPE tuvo cuatro diferentes Secretarios y una rotación aún 
+mayor a nivel de subsecretarios provocando altibajos en el ritmo de ejecución del Programa; (ii) 
+los  cambios  en  las  autoridades  del  INDEC,  conllevaron  una  modificación  de  las  actividades 
+originalmente  programadas.  Por  ello  se  desarrollaron  nuevas  aplicaciones  de 
+fondos, 
+reasignándose  a  trabajos  con  las  Secretarias  de  Hacienda  (Fortalecimiento  de  la  Unidad 
+Informática  y  su  sistema  Uepex)    y  Energía  (Fortalecimiento  del  Consejo  Asesor  de  Estrategia 
+Energética  ECOESTRA);  (iii)  demoras  administrativas  (firma  de  contrato  y  elegibilidad  para 
+primer  desembolso)  y  dificultades  en  los  procesos  de  contratación  de  servicios  de  consultoría 
+que causaron atrasos en los desembolsos. 
+
+ 
+
+Desempeño del Banco  
+
+Página 2 de 4 
+
+ 
+
+Programa de Fortalecimiento de la Secretaria de política Económica  
+
+Informe del Ejecutor  
+
+ 
+
+El  desempeño  del  Banco  ha  sido  satisfactorio,  respecto  a  su  actitud  de  colaboración  hacia  la 
+UEP y al Programa en general. A lo largo del proyecto, se ha expedido con eficacia en respuesta 
+a  los  inconvenientes    derivados  de  los  cambios  de  autoridades,  habilitando  una  prórroga  en  el 
+plazo de desembolsos, tal como fuera explicado con anterioridad. 
+ 
+El  Banco ha  mostrado flexibilidad  y  muy  buena  disposición  para  los  cambios  propuestos  por  la 
+UEP,  tanto  en  lo  que  a  consultas  específicas  se  refiere,  cuanto  a  otras  que  implicaban 
+modificaciones  generales.  En  este  orden  de  cosas,  el  acompañamiento  del  Banco  en  la  última  
+etapa fue fundamental para fortalecer al Programa y asegurar la calidad de la gestión y la buena 
+administración.  En  particular,  después  de  la  evaluación  de  medio  término,  se  percibió  una 
+participación más activa por parte del Banco.  
+ 
+
+III.  Sostenibilidad  
+
+ 
+Análisis de Factores Críticos 
+
+Los  productos  y  resultados  generados  mediante  la  ejecución  del  Programa  han  contribuido  a 
+mejorar  el  desempeño  de  la  Secretaría  de  Política  Económica.  En  efecto,  los  conocimientos 
+específicos adquiridos por  el personal de la SPE, sumados a los diversos avances informáticos 
+(licencias,  software,  hardware,  sistemas  más  dinámicos,  etc.)  dotaron  a  los  funcionarios  de  la 
+SPE de las herramientas necesarias para desempeñar su función eficientemente en el mediano 
+plazo, colaborando  con    las  estrategias  de  crecimiento tal  como estaba planeado originalmente 
+en  el  proyecto.  En  definitiva,  el  personal  más  calificado  garantiza  el  cumplimiento  de  sus 
+objetivos, asegurando la sostenibilidad del proyecto a futuro.  
+  
+Los  logros  alcanzados  en  cuanto  a  la  planificación  estratégica  de  la  Secretaría  y  la  mejor 
+coordinación institucional  con  otros  actores  concurrentes  en  el  diseño  de  la política económica, 
+aseguran  la  permanencia  de  los  logros  obtenidos.  Sin  embargo,  debe  reconocerse  que  estos 
+logros deben ser mantenidos con la continua capacitación del personal, tanto en conocimientos 
+técnicos como informáticos. Adicionalmente, para la sostenibilidad del proyecto a largo plazo, es 
+importante  realizar  un  seguimiento  sistemático  de  la  coyuntura  local,  regional  y  sectorial,  así 
+como  la  elaboración  de    informes  periódicos  con  el  contenido  de  indicadores  relevantes  que 
+permitan  evaluar  el  impacto  sobre  la  economía  local  de  los  cambios  en  la  coyuntura  mundial. 
+Asimismo,  es  fundamental  profundizar  la  articulación  con  otros  actores  con  competencia  en  la 
+implementación de la política económica. 
+ 
+En  definitiva,  el  programa  ha  logrado  apoyar  el  diseño  y  la  implementación  de  una  política 
+económica que contribuya al crecimiento sostenido del PIB y una  mejor distribución del ingreso, 
+en  coordinación  con  otros  actores  del  sector  publico,  aunque  hay  medida  adicionales  que 
+pueden tomarse para asegurar la sostenibilidad del programa, como fue explicitado en el párrafo 
+anterior. 
+ 
+Riesgos Potenciales  
+
+La elevada rotación de las autoridades de la SPE evidenciada en los últimos años, es un riesgo 
+potencial para mantener los logros del Programa y asegurar la estabilidad y sostenibilidad de la 
+gestión  del  Proyecto.  Consecuentemente  se  deberá  apoyar  la  continuidad  de  los  equipos 
+técnicos y del equipo gerencial. La continuidad de estos equipos permitirá el mantenimiento y la 
+continuidad  de  políticas  de  largo  plazo,  evitando  que  estas  sean  interrumpidas  como 
+consecuencia de cambios políticos que demoren el proceso de desarrollo del país. 
+ 
+Adicionalmente,  es  imprescindible  para  el  futuro  continuar  con  la  capacitación  de  los  recursos 
+humanos, que dan el sostenimiento y continuidad al programa. No hay reforma ni modernización 
+posible sin contar con la continua especialización y educación de la mayoría del personal técnico 
+
+Página 3 de 4 
+
+ 
+
+Programa de Fortalecimiento de la Secretaria de política Económica  
+
+Informe del Ejecutor  
+
+ 
+
+de  la  SPE,  en  particular  de  sus  mandos  medios.  En  definitiva,  es  de  suma  importancia  que  se 
+mantenga  el  camino  trazado  en  la  institución  independientemente  de  la  autoridad  que  se 
+encuentre al frente de la misma. 
+ 
+
+IV.  Lecciones Aprendidas   
+
+ 
+Durante  el  proyecto  se  incorporaron  algunos  aprendizajes  muy  valiosos  que  consideramos 
+oportuno subrayar  y  dejar  como elementos a tener en cuenta en otros proyectos similares. Los 
+mismos los detallamos a continuación: 
+ 
+Flexibilidad  en  el  diseño  de  los  Programas  de  fortalecimiento  institucional.  Es  importante 
+que  los  diseños  de  los  proyectos  de  fortalecimiento  institucional  tengan  la  flexibilidad  suficiente 
+para adaptarse a los cambios de autoridades y sus respectivas prioridades que pueden afectar el 
+normal  desenvolvimiento  del  mismo.  En  este  sentido  es  conveniente  que  las  operaciones 
+respondan  a  los  objetivos,  funciones  y  responsabilidades  estratégicas  de  las  entidades  con  las 
+que  se  colabora  y  que  los  programas  focalicen  sus  diseños  en  los  resultados  permitiendo 
+flexibilidad en las actividades a ser financiadas para el logro de los mismos.  
+
+Cambio  cultura  organizacional.  La  administración  central  puede  ser  reacia  ante  cambios 
+estructurales  (procedimientos,  organigramas,  procesos,  etc.)  que  modifiquen  la  estructura 
+organizacional,  aunque  una  vez  que  estos  cambios  están  en  marcha,  la  reacción  puede  ser 
+positiva, acompañando y dando apoyo a la nueva estructura. En este sentido se recomienda que 
+los programas de fortalecimiento institucional se incluyan un componente de gestión del cambio 
+que  permita  informar  y  asegurar  la  participación  de  todos  los  involucrados  en  el  proceso  de 
+fortalecimiento. En el caso del programa de la SPE, si bien se desarrollo un proceso participativo 
+para  el  diseño  de  una  nueva  estructura  orgánica  funcional,  no  se  previó  un  mecanismo  de 
+seguimiento e información posterior. 
+
+Alineamiento de los estudios y las actividades a financiar con los planes de gestión anual 
+(PGA). Si bien en el marco del programa se estableció un mecanismo por el cual los estudios y 
+actividades  de  apoyo  técnico  fueran  aprobados  por  un  comité  técnico  presidido  por  la  máxima 
+autoridad  de  la  agencia  ejecutora,  no  en  todos  los  casos  estos  estuvieron  vinculados  con  los 
+planes  de  gestión  anuales  de  las  unidades  respectivas.  Para  futuros  programas se recomienda 
+establecer  un  mecanismo  que  priorice  el  financiamiento  de  actividades  vinculadas  a  los  PGAs, 
+incluyendo recursos para el financiamiento de estudios de coyuntura que se puedan requerir.  
+
+Necesidad  de  contar  con  un  Reglamento  Operativo  para  la  ejecución.  Para  facilitar  la 
+ejecución  de  programas  como  el  FISPE  es  altamente  conveniente  establecer  un  Reglamento 
+Operativo  o  un  Manual  de  Procedimientos  que  rija 
+implementación  del  programa, 
+contemplando  las  modalidades  de  las  contrataciones  y  adquisiciones  a  seguir,  el  uso  de  los 
+recursos,  la  modalidad  de  seguimiento  y  evaluación,  y  la  responsabilidad  de  las  diferentes 
+unidades  participantes.  Estos  documentos  deberán  seguir  los  criterios  de  transparencia, 
+accountability y flexibilidad. 
+
+la 
+
+Auditoría externa. Durante la implementación del programa se experimentaron dificultades en la 
+entrega oportuna de los estados financieros auditados del programa al Banco, lo cual genero la 
+suspensión  de  desembolsos.  Consecuentemente,  para  futuros  programas  se  sugiere  que, 
+cuando  se  utilicen  entidades  auditoras  gubernamentales  para  la  realización  de  la  auditoría 
+externa  de  los  programas,  convenir  el  compromiso  de  las  partes  para  el  cumplimiento  de  un 
+calendario  de  trabajo,  caso  contrario  se  deberá  seleccionar  una  firma  auditora  independiente 
+aceptable para el Banco. 
+
+ 
+
+Página 4 de 4 
+
+Anexo 3.1 
+
+ 
+
+COMPONENTES  ACTIVIDADES Y PRODUCTOS 2006 /2010 
+
+ 
+2005  
+Productos Estratégicos tipificados como inadecuados y Productos Deseables necesarios 
+para alcanzar los objetivos Institucionales de la SPE identificados 
+2006 
+Procesos de generación de productos tipificados como inadecuados y diseño de los 
+procesos de los nuevos productos identificados como deseables rediseñados:  
+Direc. Nac. de Préstamos con Organismos Internac,. de Crédito:  
+Nota de Designación de Firmantes para Préstamos con el Banco Mundial  
+Préstamos de rápido desembolso 
+Preparación del Presupuesto para el proyecto de Ley 
+Recomendaciones para la toma de decisiones de la República Argentina en los distintos 
+temas de Agenda de los Organismos Internacionales de Crédito 
+Estrategias con cada Banco 
+Monitoreo de Proyectos y Préstamos 
+Definición de un sistema de evaluación de gestión de las UEPEX 
+Unidad de Coordinación Administrativa: 
+Contratos Decreto 1184/01, UNPRE, FOSIP, Fortalecimiento SPE y Ley Marco 
+Presupuesto de la Secretaría de Política Económica. 
+Subsec. de Coordinación Económica: 
+Registro y derivación de actuaciones  
+Gasto Público Social 
+Estudios y Propuestas para el desarrollo Sectorial 
+Análisis de comercio exterior 
+Plan Nacional de Inversiones Públicas 
+Construcción de modelos sobre dinámica de corto plazo de la economía 
+Subsec. de Programación Económica: 
+Análisis Trimestral de Coyuntura 
+Análisis de sostenibilidad macroeconómica y consistencia externa 
+Análisis de consistencia de la política fiscal 
+Análisis de consistencia de la política monetaria 
+Secretaría de Política Económica: 
+Sistema de Planificación 
+2007 
+Procesos de generación de productos tipificados como inadecuados y diseño de los 
+procesos de los nuevos productos identificados como deseables rediseñados: 
+Subsec. de Programación Económica: 
+Análisis de Sostenibilidad Macroeconómica y Consistencia Externa 
+Elaboración de Proyecciones a Mediano Plazo para la Confección del Presupuesto 
+Análisis de Medidas de Política Económica 
+
+                                              
+
+ 
+
+Página 1 
+
+Elaboración de Proyecciones a Corto Plazo 
+Informe de Empleo e Ingresos 
+Construcción de Modelo sobre Dinámica de Corto Plazo de la Economía 
+Documentación del Modelo de Proyecciones  
+Revisión del Comportamiento y Parámetros de las Ecuaciones del Modelo de 
+Proyecciones para el Presupuesto   
+Implementación del Modelo de Equilibrio General Computable  
+Utilización del Modelo de Equilibrio General Computable 
+Publicación de Información Semanal 
+Elaboración de Información al Día 
+Dirección Nac. de Préstamos con Organismos Internac. de Crédito: 
+Desembolso de Financiamiento de Gobierno a Gobierno 
+Desembolso de Financiamiento de Banco Comercial a Gobierno 
+Flujo Financiero de Desembolso 
+Creación y Actualización del Registro de Firmantes de Financiamiento 
+Seguimiento de Observaciones de Auditoría de Proyectos 
+Procedimiento para la Emisión del Voto de la República Argentina ante los distintos 
+Organismos Internacionales de Crédito 
+Asesoramiento a Gobernadores y/o Directores de los Organismos Internacionales de 
+Crédito 
+Aportes y Contribuciones de Capital a Organismos Internacionales de Crédito 
+Propuesta de Asignación de Créditos Presupuestarios para la Ejecución de Proyectos con 
+Financiamiento Externo. Manuales de procedimientos elaborados (9 manuales): 
+
+I.  Aportes y contribuciones de capital a los distintos organismos internacionales de 
+
+crédito 
+
+II.  Procedimiento para la emisión del voto de la República Argentina ante los 
+
+distintos Organismos Internacionales de Crédito 
+
+III.  Flujo financiero de desembolso 
+IV.  Creación y actualización de un registro de firmantes 
+V.  Manual seguimiento de observaciones de auditoría de proyectos 
+VI.  Estrategias con cada Banco (BM, BID). 
+VII.  Monitoreo de Proyectos y Préstamos 
+VIII.  Manual PNIP 
+
+IX.  Manual Informe Trimestral de Coyuntura 
+
+Estructura Orgánica que contempla y adecua las misiones y funciones de las áreas a los 
+nuevos desafíos de la gestión elaborada 
+Tablero de Gestión Estratégica (TGE) instalado y cargado 
+Confección y carga en el TGE de dos (2) POAS como prueba piloto 
+2008 
+Procesos de generación de productos tipificados como inadecuados y diseño de los 
+procesos de los nuevos productos identificados como deseables rediseñados (4 
+procesos): 
+Propuesta de Dictamen de Calificación de Proyectos con Financiamiento Interno. 
+Propuesta de Dictamen de Calificación de Proyectos con Financiamiento Externo 
+                                              
+
+Página 2 
+
+ 
+
+Propuesta de Asignación de Créditos Presupuestarios para la Ejecución de Proyectos 
+con Financiamiento Externo 
+Nota de designación de firmantes para préstamos con el Banco Mundial 
+Manuales de procedimientos elaborados (13 manuales): 
+Subsecretaría de Coordinación Económica 
+
+I.  Propuesta  de  Dictamen  de  Calificación  de  Proyectos  con  Financiamiento 
+
+Interno. 
+
+II.  Propuesta  de  Dictamen  de  Calificación  de  Proyectos  con  Financiamiento 
+
+Externo. 
+
+Dirección Nacional de Proyectos con Organismos Internacionales de Crédito 
+
+III.  Propuesta  de  Asignación  de  Créditos  Presupuestarios  para  la  Ejecución  de 
+
+Proyectos con Financiamiento Externo 
+
+IV.  Nota de designación de firmantes para préstamos con el Banco Mundial  
+
+Unidad de Coordinación Administrativa: 
+
+V.  Manual de Pasantías. 
+VI.  Manual de Contratos 1184 
+VII.  Manual de Contratación de locación de servicios. 
+VIII.  Manual de Contratación de locación de obra. 
+
+Manual de Contratación a través de la Ley Marco. 
+
+Dirección Nac. de Inversión Pública: Instructivos para la presentación de Proyectos de 
+Inversión Pública: 
+
+I.  Instructivo de Agua Potable y Saneamiento. 
+II.  Instructivo Vial. 
+
+Dirección Nac. de Préstamos con Organismos Int. de Crédito: 
+
+III.  Guía Conceptual para la Optimización del Sistema de Monitoreo y Control de 
+
+Operaciones de Préstamo. 
+
+2010 
+Plan de Gestión 2010 de la Subsecretaría de Programación Económica elaborado 
+Plan de Gestión 2010 de la Dirección Nacional de Programación Económica Regional 
+Plan de Gestión 2010 de la Dirección Nacional de Programación Macroeconómica 
+Metas e Indicadores de Resultado 
+Procesos y Manuales de procedimiento de la Dirección Nacional de Programación 
+Macroeconómica  
+Flujos de Procesos Regulares de la Dirección Nacional de Programación 
+Macroeconómica (DNPM 
+Procesos Anuales Procesos Trimestrales Procesos Mensuales 
+Procesos Semanales 
+Responsables de los Procesos / Productos 
+Manual de Procedimiento “Informe Económico Trimestral” 
+Reingeniería de los procesos de la Dirección Nacional de Programación Económica 
+Regional 
+Manuales de Procedimientos de la Dirección Nacional de Programación Económica 
+Regional 
+Manual de Procedimientos “Informe Complejos Exportadores Provinciales” 
+                                              
+
+ 
+
+Página 3 
+
+Plan gestión de la DNPOIC elaborado 
+Plan de Gestión de la Subsecretaría de Coordinación Económica  Elaborado 
+Plan de Gestión de la Dirección Nacional de Inversión Pública Elaborado 
+Plan de Gestión de la Dirección de Análisis de Gasto Público y Políticas Sociales 
+elaborado 
+Plan de Gestión de la Dirección de Políticas Productivas Elaborado 
+Plan de Gestión de la Dirección de Políticas Económica Externa Elaborado 
+
+                                              
+
+ 
+
+Página 4 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+Anexo 3.2 
+
+DETALLE INDICADOR 1 - COMPONENTE 2 
+
+Código 
+
+UEPPE 002 
+
+UEPPE 016 
+
+Articulación 006 
+
+Nombre 
+
+Asistencia Técnica para la Planificación Estratégica 
+
+Sectorial - Biotecnología y Maquinaria Agrícola 
+
+Asistencia Técnico/metodológica para la elaboración de 
+lineamientos para una estrategia de desarrollo sectorial. 
+Lineamientos para una  Estrategia de Desarrollo  de 10  
+provincias de menor desarrollo relativo:  
+
+ 
+
+                                              
+
+ 
+
+Página 5 
+
+ 
+
+Código 
+
+PAEP E- 035 
+
+Anexo 3.3 
+
+Nombre 
+
+Indicador  
+
+Con Alerta 
+Temprana 
+
+Fortalecimiento del seguimiento de la crisis 
+
+internacional: indicadores macroeconómicos y 
+políticas implementadas en países desarrollados 
+
+del G-7 y emergentes de relevancia para el 
+
+comercio de Argentina 
+
+Base de Datos para Análisis sectorial 
+
+PAEP E- 044 
+
+determinante en el proceso de crecimiento y 
+
+Estudio de los actores que tienen una influencia 
+
+desarrollo económico de la Argentina. 
+
+Base de Datos para Análisis sectorial ( En 
+
+ejecución) 
+
+PAEP E- 045 
+
+capital agrario pampeano, sobre la base del Censo 
+
+Asistencia técnica para la caracterización del 
+
+Nacional Agropecuario 2002 
+
+Base de Datos para Análisis sectorial ( En 
+
+ejecución) 
+
+PAEP E- 028 
+
+Estudios y Propuestas para la Coordinación de las 
+Propuestas de Políticas de Competitividad Fase II 
+
+Base de Datos para el Análisis Sectorial 
+
+PAEP - 002 
+
+Matriz de Insumo Producto para el cálculo de los 
+
+Modelo de Programación Lineal que adapte la 
+
+precios marginales en las Cuentas Nacionales 
+
+Estudios que sirvan de base para la 
+elaboración de la política económica 
+
+PAEP -003 
+
+Crecimiento cíclico en la Argentina: una estimación 
+de la renta diferencial de la tierra y su importancia 
+
+en el crecimiento y la distribución del ingreso 
+
+Estudios que sirvan de base para la 
+elaboración de la política económica 
+
+PAEP - 004 
+
+Análisis computacionales de la Matriz de Insumo 
+
+Producto de la Argentina (MIP) 
+
+Estudios que sirvan de base para la 
+elaboración de la política económica 
+
+PAEP -007 
+
+Elaboración de una metodología para el 
+diagnóstico de las economías regionales e 
+
+identificación de políticas estratégicas para el 
+
+desarrollo económico y social 
+
+Estudios que sirvan de base para la 
+elaboración de la política económica 
+
+PAEP-008 
+
+Estudios y Propuestas para la Coordinación de 
+
+Políticas de Competitividad 
+
+Estudios que sirvan de base para la 
+elaboración de la política económica 
+
+PAEP-011 
+
+para le institucionalización de un sistema de 
+
+Análisis histórico y formulación de alternativas 
+
+planificación económica 
+
+Estudios que sirvan de base para la 
+elaboración de la política económica 
+
+PAEP - 012 
+
+Propuestas para el desarrollo de un sistema de 
+
+programación y ejecución de políticas públicas, con 
+
+particular referencia al rol de la Secretaría de 
+
+Política Económica 
+
+Estudios que sirvan de base para la 
+elaboración de la política económica 
+
+PAEP - 013 
+
+críticos y obstáculos al desarrollo regional 
+
+Identificación de prioridades estratégicas, factores 
+
+percibidos a nivel municipal. 
+
+Estudios que sirvan de base para la 
+elaboración de la política económica 
+
+PAEP - 014                
+
+Relevamiento y análisis de proyectos de desarrollo 
+
+regional 
+
+Estudios que sirvan de base para la 
+elaboración de la política económica 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+                                              
+
+ 
+
+Página 6 
+
+Análisis de las fortalezas y debilidades de la 
+
+metodología propuesta para medir el impacto de la 
+
+PAEP E- 018 
+
+inversión pública sobre la competitividad de la 
+
+oferta de bienes y servicios en la región receptora 
+
+Estudios que sirvan de base para la 
+elaboración de la política económica 
+
+de la inversión mediante la realización de un 
+
+aprueba piloto 
+
+PAEP E- 023 
+
+“Asistencia Técnica para el fortalecimiento de la 
+Dirección Nacional de Programación Económica 
+
+Regional (DNPER) en el análisis de cadenas 
+
+agroalimentarias: Frutas Seleccionadas” 
+
+Estudios que sirvan de base para la 
+elaboración de la política económica 
+
+  
+
+  
+
+Asistencia Técnica para el Fortalecimiento de la 
+
+PAEP E- 025 
+
+DNPER y la DPP en el Análisis de cadenas 
+
+Lineamientos Estratégicos Sector 
+
+Agroalimentarias (cereales, oleaginosas, carnes y 
+
+Agroalimentos 
+
+Alerta 
+
+Temprana 
+
+lácteos) 
+
+PAEP E- 027 
+
+Asistencia técnica para el Fortalecimiento de la 
+
+Lineamientos Estratégicos Sector 
+
+SSCE en Análisis Sector farmacéutico 
+
+Farmacéutico 
+
+PAEP E- 036 
+
+Análisis del sector manufacturas de cuero y 
+
+Lineamientos Estratégicos Sector 
+
+recomendaciones de política 
+
+Manufacturas de Cuero ( en ejecución) 
+
+  
+
+  
+
+PAEP E- 030 
+
+Asistencia Técnica Análisis Cadenas Elaboradoras 
+de Hortalizas para consumo fresco (papa, cebolla, 
+
+tomate, hojas verdes) 
+
+Lineamientos Estratégicos Sector 
+
+Primario (Productos frescos) 
+
+Alerta 
+
+Temprana 
+
+PAEP E- 041 
+
+Análisis de la incidencia actual del turismo en la 
+actividad económica y fortalecimiento estratégico 
+
+de la cadena de desarrollo de clusters. 
+
+Lineamientos Estratégicos Sector 
+
+Turismo ( en ejecución) 
+
+PAEP E- 037 
+
+Asistencia técnica para el análisis de complejos 
+
+productivos de importancia regional. Definición de 
+
+Lineamientos Estratégicos Sectores 
+Vitivinícola, Maquinarias Industria 
+
+criterios metodológicos y estudio de complejos 
+
+Alimentación, Químicos y Plásticos  ( en 
+
+seleccionados. 
+
+ejecución) 
+
+A- 006 
+
+A- 009 
+
+Lineamientos para una  Estrategia de Desarrollo  de 
+10  provincias de menor desarrollo relativo:  
+
+Lineamientos Estratégicos Regional ( En 
+
+Ejecución) 
+
+Elaboración de Instrumentos para el Análisis Socio 
+─ Económico del Plan Estratégico de Energía 
+
+Lineamientos Estratégicos Sector Energía 
+
+( En Ejecución) 
+
+PAEP - 001 
+
+Metodología de análisis de resultados e impactos 
+
+del Plan Nacional de Inversión Pública (PNIP) 
+
+PAEP -006 
+
+Sistema de Cuentas Nacionales Argentina 2004: 
+
+desarrollo metodológico y estimaciones 
+
+PAEP-010 
+
+Análisis comparativo de los montos 
+
+presupuestados de los proyectos dictaminados por 
+la Dirección Nacional de Inversión Pública (DNIP) y 
+los resultantes de las licitaciones de esos proyectos 
+
+PAEP operativo  
+
+PAEP operativo  
+
+PAEP operativo  
+
+PAEP - 015 
+
+Análisis Ambiental de los Proyectos de Inversión 
+
+Publica 
+
+PAEP operativo  
+
+  
+
+  
+
+ 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+                                              
+
+ 
+
+Página 7 
+
+PAEP - 016 
+
+PAEP   - 017 
+
+Información e indicadores relevantes para diseñar, 
+evaluar y priorizar inversiones relacionadas con los 
+
+servicios de agua potable y desagües cloacales 
+
+ENHOSA 
+
+Modelo de Programación Lineal que adapte la 
+
+Matriz de Insumo Producto para el cálculo de los 
+precios marginales en las Cuentas Nacionales - 
+
+Parte II 
+
+PAEP E- 022 
+
+MANUAL DE GESTION  AMBIENTAL DE LOS 
+
+PROYECTOS DE INVERSION PUBLICA 
+
+PAEP E-034 
+
+Aplicación de la metodología de resultados e 
+
+impactos de los Planes de Inversión Pública (PNIP), 
+e incorporación al sistema de gestión conforme al 
+
+estudio sobre “Metodología de análisis de 
+resultados e impactos del Plan Nacional de 
+
+Inversión Pública  
+
+PAEP E- 040 
+
+Asistencia técnica a la Dirección de Programación 
+Económica Regional para la preparación y emisión 
+
+de informes de provincias y de  competitividad 
+
+provinciales. 
+
+PAEP E- 046 
+
+Asistencia técnica para la elaboración de 
+
+propuestas que permitan posibilidades de mayor  
+participación del mercado financiero regulado para 
+
+el acceso a la vivienda de los sectores medios.  
+
+PAEP operativo  
+
+PAEP operativo  
+
+PAEP operativo  
+
+PAEP operativo  
+
+PAEP operativo  
+
+PAEP operativo  
+
+UEPPE 020 
+
+ 
+
+Sector del software y servicios informáticos. 
+ 
+
+Lineamientos estratégicos 
+
+Articulación 005 
+
+Fortalecimiento del Sistema de la Inversión Pública 
+(BAPIN Fase II) 
+
+PAEP operativo 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+ 
+
+Articulación 0071 
+
+Construcción y puesta en operación de un  Monitor 
+de 
+la 
+Secretaría de Política Económica 2.  
+
+Indicadores  Macroeconómicos,  para 
+
+Sistema de alerta temprana funcionando 
+y rediseño de la página Web de la SPE (En 
+
+Ejecución). Propuesta metodológica de 
+
+indicadores y base de datos. Alerta 
+
+temprana 
+
+Simpe-  Alerta 
+
+Temprana 
+
+ 
+
+                                                      
+1  Estudio  PAEP  que    articulaba  todas  las  subsecretarias  y  direcciones  de  la  SPE,  que  fue  asignado  a  la  línea  de 
+financiamiento  como Articulación de la Política con otros Actores. 
+2  La  operación  del    Monitor  de  Indicadores  esta  establecida  en  una  plataforma  informática    cuyo  acceso  se  realiza,  en 
+principio, por Intranet del Mecon. Se espera que, una vez establecidos los niveles de confidencialidad de la información, 
+la misma podría ser incorporada  a la página web del Mecon, para consulta pública.  
+                                              
+
+Página 8 
+
+ 
+
+Anexo 3.4 
+
+ 
+ 
+
+2010 
+
+2010 
+
+1.4. Sistemas de Información  
+
+1.4.1. Software de Aplicación  
+
+2010  Actualización plataforma Microsoft Compra directa licencias MS  
+
+Soporte Premier  
+
+Licencias MS-SQL Server 
+
+Lic. Operation Manager SVR X1 + LOPM Agente X 60 
+
+2010 
+2010 
+2010 
+2010 
+2010  Generador de formularios ADOBE ACROBAT profesional 9 o s. similar 
+2010 
+
+Editor / generador de imagines ADOBE CS4 o substancialmente similar 
+
+LPNS-002/2009  (Comienza en 2009 finaliza 2010) 
+
+2010 
+
+Software de Oficina  Tipo: MICROSOFT OFFICE 2007Profesional o substancialmente similar 
+
+SQL Svr Web Ed 2008 OLP NL GOVT 1 Proc 
+
+SQL Svr Standard Edtn 2008 OLP NL GOVT 1 Proc 
+
+2010 
+2010 
+2010  Generador de Base de datos, tipo MS ACCESS o s. similar 
+2010 
+
+Software matemático Tipo MATLAB o substancialmente similar 
+
+2010 
+
+Módulo financiero para software matemático Tipo Financial Toolbox o substancialmente 
+similar 
+
+2010 
+
+Módulo de derivados para software matemático Tipo Financial Derivate Toolbox o 
+substancialmente similar 
+
+2010 
+
+Módulo Econométrico para software matemático Tipo GARCH Toolbox o substancialmente 
+similar 
+
+2010 
+
+Módulo de optimización para software matemático Tipo Optimization Toolbox o 
+substancialmente similar 
+
+Software Econométrico Estadístico  
+
+Software para creación de aplicaciones WEB 
+
+2010  Módulos Geostatistycal Analyst & Spatial Analyst  para software  Georeferencial  
+2010 
+2010 
+2010  Módulos de software econométrico matemático  
+2010  Módulos de software econométrico matemático 
+2010  Módulos de software econométrico matemático 
+
+2010  Módulo de para software matemático Tipo Static Toolbox o substancialmente similar 
+
+2010  Ampliación 20%  LPNS-002/2009   
+
+2010 
+
+Software de Oficina  Tipo: MICROSOFT OFFICE 2007Profesional o substancialmente similar 
+
+2010  Generador de Base de datos, tipo MS ACCESS o s. similar 
+
+2010  Necesidades para preparación de futuras acciones de la SPE 
+
+ 
+
+2010 
+
+ 
+
+2010 
+2010 
+
+Licencias Consultoría MOODLE Adobe C5 Master COLLECTION 
+
+Licencias Consultoría MOODLE Adobe CAPTIVATE  
+
+Licencias Consultoría MOODLE Adobe C5 Master COLLECTION (DCPP) 
+
+Licencias BAPIN SQL Svr Standard Edtn 2008 OLP NL GOVT 1 Pr 
+
+Servicios de Consultoría 
+
+                                              
+
+ 
+
+416 
+
+218 
+
+64 
+
+2 
+
+61 
+
+1 
+
+132 
+
+4 
+
+2 
+
+62 
+
+1 
+
+1 
+
+10 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+15 
+
+3 
+
+2 
+
+2 
+
+2 
+
+4 
+
+14 
+
+12 
+
+2 
+
+8 
+
+1 
+
+3 
+
+1 
+
+3 
+
+37 
+
+Página 9 
+
+2010 
+
+2010 
+
+LPP SU S001/2010 Instalación Operation Manager 
+
+Desarrollo plataforma Moodle para capacitación de usuarios y personal de Unidad 
+Informática 
+
+ 
+
+SIP DNPOIC UEPEX 
+
+2010  Actualización WEB SPE-MECON (Consultores Individuales) 
+2010  MIGRACIÓN BAPIN  II A WEB BAPIN III (consultor  individual) 
+2010 
+2010 
+
+ MIGRACIÓN BAPIN  II A WEB BAPIN III 
+
+1.4.3.Equipo 
+
+2010 
+
+2010 
+
+LPN H-001/2009 (Comienza 2009 finaliza 2010) 
+
+Servidor 
+
+2010  UPS 
+
+2010  Computadora Avanzada de Escritorio 
+
+2010  Computadora Estándar de Escritorio 
+
+2010  Computadora Portátil Avanzada 
+
+2010 
+
+2010 
+
+2010 
+
+2010 
+
+Impresora Láser Color  
+
+Impresora Laser Monocromo en red Normal 
+
+Impresora Multifunción 
+
+Proyector con Pantalla 
+
+2010  Ampliación de 2009 LPN H-001/2009  
+
+2010 
+
+Servidor 
+
+2010  UPS 
+
+2010  Computadora Avanzada de Escritorio 
+
+2010  Computadora Estándar de Escritorio 
+
+2010 
+
+2010 
+
+2010 
+
+2010 
+
+2010 
+
+Impresora Laser Monocromo en red Normal 
+
+Impresora Multifunción 
+
+LPN SUH 03/2009 
+
+Servidor Blade 
+
+Servidores Rackeables 
+
+2010  Rack 
+
+2010  Monitor, Teclado, Mouse y Switch KVM 
+
+2010  UPS 
+
+2010  Módulo adicional para UPS Existente 
+
+2010 
+
+2010 
+
+ampliación LPN SU H-003/2009  
+
+Servidor Blade 
+
+2009  Otras adquisiciones realizadas y en proceso 
+
+2010  CAPTOR DE DAATOS FISPE 
+2010  DISCOS DUROS EXTERNOS PARA BAPIN 
+2010  RACK PARA AMPLIACIÓN LPN 003/2009 
+2010 
+2010 
+
+IMPRESORA COLOR SSPE 
+
+PROYECTOR SSCE 
+
+6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+161 
+
+104 
+
+5 
+
+5 
+
+41 
+
+33 
+
+4 
+
+3 
+
+5 
+
+7 
+
+1 
+
+18 
+
+1 
+
+1 
+
+8 
+
+6 
+
+1 
+
+1 
+
+28 
+
+22 
+
+2 
+
+1 
+
+1 
+
+1 
+
+1 
+
+4 
+
+4 
+
+7 
+
+1 
+
+2 
+
+1 
+
+1 
+
+1 
+
+                                              
+
+ 
+
+Página 10 
+
+SALA DE VIDEO CONFERENCIA DNPOIC 
+
+2010 
+2010  MICROCINE MECON 
+
+2009 
+
+2009 
+
+1.4. Sistemas de Información  
+
+1.4.1. Software de Aplicación  
+
+2009 
+
+STATA 
+
+2009 
+
+SPSS Renovación mantenimiento licencias existentes 
+
+2009  Upgrade Indesign 
+
+2009 
+
+1.4.2 Consultoría 
+
+ 
+
+Adquisición Base de Datos Farmacia 
+
+2009  Actualización  imagen 
+
+2009 
+
+2009 
+
+1.4.3.Equipo 
+
+LPN H 01/2009 (Ver detalle 2010) 
+
+2009  Actualización UEPEX LPN SUH03/2009 (Ver 2010) 
+
+2009 
+
+2009 
+
+Equipamiento  Secretaría de Energía 
+
+Software Lotes Desiertos LP1/2007 
+
+ERDAS 
+
+2009  Auto Cad MAP 
+2009 
+2009  Global Mapper 
+2009  Crystal Ball 
+2009 
+
+Software asociado a Puestos de Trabajo 
+
+2009  Hardware 5 Puestos de Trabajo avanzados 
+
+2009  Renglones Vacantes LPP01/2008 
+
+2009 
+
+Proyector con pantalla 
+
+2009  Router 
+
+2009  Ampliación LPP001/2008 
+
+2009  Computadora  Normal de Escritorio  
+
+2009 
+
+Software de Oficina 
+
+2009  Computadora  Avanzada de Escritorio  
+
+2008 
+
+2008 
+
+1.4. Sistemas de Información SEGUNDO SEMESTRE 
+
+1.4.1. Software de Aplicación  
+
+2008  Math Type 6.0 para Windows 
+
+2008  Microsoft Office 2007  
+
+2008 
+
+Scientific Workplace 
+
+2008  Memoria RAM  DDM DDR2 SDRAM  
+
+ 
+
+ 
+
+Software Computadora Portátil (ampliación Lic.Privada01/2007)  
+
+Software PC de escritorio (ampliación Lic.Privada01/2007)  
+
+2008 
+
+1.4.3.Equipo  
+
+ 
+
+ 
+
+Disco externo Iomega 320 gigabytes (2 compras separadas) 
+
+Computadora Portátil (ampliación Lic.Privada01/2007)  
+
+                                              
+
+ 
+
+1 
+
+ 
+
+88 
+
+60 
+
+51 
+
+9 
+
+ 
+
+ 
+
+2 
+
+ 
+
+28 
+
+ 
+
+ 
+
+16 
+
+16 
+
+1 
+
+1 
+
+3 
+
+1 
+
+5 
+
+5 
+
+3 
+
+2 
+
+1 
+
+9 
+
+5 
+
+3 
+
+1 
+
+90 
+
+7 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+2 
+
+83 
+
+5 
+
+1 
+
+Página 11 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+Impresora Laser ByN (ampliación LP 001/2007) 
+
+Computadora  Normal de Escritorio (Ampliación LP001/2007) 
+
+Impresora Color 
+
+Impresora Blanco y Negro 3005 
+
+impresora multifunción 
+
+2008 
+
+2008 
+
+Servidor 
+
+ UPS 
+
+2008  Computadora  Normal de Escritorio  
+
+2008 
+
+Software de Oficina 
+
+2008  Computadora  Avanzada de Escritorio  
+
+2008 
+
+ Software de Oficina 
+
+2008  Computadora Portátil 
+
+2008 
+
+2007 
+
+2007 
+
+Software de Oficina 
+
+1.4. Sistemas de Información  
+
+1.4.1. Software de Aplicación  
+
+2007  Adquisición Software GIS Arcview 
+
+2007 
+
+Licencias Microsoft  Office 
+
+2007  Corel Draw 
+
+2007 
+
+2007 
+
+1.4.2. Consultoría  
+
+Preparación DDL BAPIN II 
+
+2007  Mejoras BAPIN 
+
+2007 
+
+1.4.3. Equipo  
+
+2007  Adquisición Hardware Varios 
+
+2007  Ampliación Concurso de Precios 5/2007 
+
+2006 
+
+2006 
+
+1.4. Sistemas de Información  
+
+1.4.1. Software de Aplicación  
+
+2006 
+
+STATA 
+
+2006 
+
+SPSS 
+
+2006 
+
+EVIWES Standard 
+
+2006  Gams 
+
+2006  GaussServer Locked 
+
+2006  Gauss CPU adicional 
+
+2006  Gauss Server Graphic Editor 
+
+2006  Gauss G. E. CPU Adic. 
+
+2006  Data TOOL 
+
+2006  Data Tool CPU Adicional 
+
+2006  MathLab 
+
+2006 
+
+Financial Derivatives Toolbox 
+
+                                              
+
+ 
+
+1 
+
+2 
+
+1 
+
+1 
+
+2 
+
+1 
+
+2 
+
+23 
+
+10 
+
+5 
+
+5 
+
+12 
+
+12 
+
+53 
+
+17 
+
+9 
+
+7 
+
+1 
+
+2 
+
+ 
+
+ 
+
+36 
+
+34 
+
+2 
+
+481 
+
+219 
+
+25 
+
+22 
+
+35 
+
+21 
+
+1 
+
+4 
+
+1 
+
+3 
+
+1 
+
+3 
+
+6 
+
+2 
+
+Página 12 
+
+2006 
+
+Financial Toolbox 
+
+2006  GARCH Toolbox 
+
+2006  Optimization Toolbox 
+
+2006 
+
+Statistic Toolbox 
+
+2006  Adobe Acrobat Professional 
+
+2006  Adobe InDesign 
+
+2006  Adobe Photoshop Professional 
+
+2006  Microsoft Project Professional 
+
+2006  Microsoft Project 
+
+2006  Adobe Acrobat Professional 
+
+2006  Adobe InDesign 
+
+2006  Adobe Photoshop Professional 
+
+2006  Microsoft Project Professional 
+
+2006  Microsoft Project 
+
+2006 
+
+2006 
+
+2006 
+
+2006 
+
+1.4.2. Consultorías 
+
+Preparación DDL 
+
+Preparación DDL BAPIN II 
+
+1.4.3. Equipo  
+
+2006 
+
+Servidor 
+
+2006  UPS 
+
+2006  Computadora Avanzada de Escritorio 
+
+2006  Computadora Intermedia de Escritorio 
+
+2006  Computadora Normal de Escritorio  
+
+2006  Microsoft Office XP Pro 
+
+2006  Microsoft Office Pyme 
+
+2006  Computadora Portátil 
+
+2006  Microsoft Office XP Pro 
+
+2006 
+
+2006 
+
+2006 
+
+2006 
+
+2006 
+
+Impresora Color a chorro de tinta 
+
+Impresora Laser color 20ppm 
+
+Impresora Laser Monocromo en red Normal 
+
+Impresora Laser para papel A3 Monocromo 
+
+Impresora Laser de alto volumen  
+
+2006 
+
+Scanner 
+
+2006  Unidad de Grabación y Lectura de CD 
+
+ 
+ 
+ 
+ 
+ 
+
+3 
+
+3 
+
+3 
+
+3 
+
+19 
+
+5 
+
+5 
+
+1 
+
+20 
+
+3 
+
+0 
+
+0 
+
+5 
+
+25 
+
+3 
+
+ 
+
+ 
+
+262 
+
+3 
+
+2 
+
+20 
+
+48 
+
+42 
+
+68 
+
+42 
+
+4 
+
+4 
+
+4 
+
+1 
+
+10 
+
+1 
+
+1 
+
+2 
+
+10 
+
+                                              
+
+ 
+
+Página 13 
+
+ 
+
+ 
+
+ 
+
+Anexo 3.5 
+
+DETALLE DE LAS METODOLOGÍAS GENERADAS POR LOS 
+
+CLASIFICACION POR TEMAS 
+
+ESTUDIOS DEL FISPE 
+
+ 
+
+Para  el  diagnóstico  de 
+las  economías  regionales  e 
+identificación  de  políticas  estratégicas  para  el  desarrollo 
+económico y social 
+
+Economías Regionales 
+
+ Para  la  clasificación  de  las  provincias  de  acuerdo  a  
+indicadores de competitividad 
+
+Economías  Regionales 
+
+Para  la  secuencia  de  elaboración  de  la  Matriz  Insumo 
+Producto. 
+
+Variables macroeconómicas  
+
+De  análisis  para  identificación  de  prioridades  estratégicas, 
+factores críticos y obstáculos al desarrollo regional  a nivel 
+municipal. 
+
+Economías  Regionales 
+
+De  análisis  de  resultados  e  impactos  del  Plan  Nacional  de 
+Inversión Pública (PNIP) 
+
+Inversión Publica 
+
+De  prácticas  para  poder  considerar 
+integralmente 
+ambiental dentro de los proyectos de inversión pública 
+
+lo 
+
+Inversión Publica 
+
+Para el análisis de los  precios de cuenta a emplear por el 
+SNIP en lo referente salarios, tipo de cambio y  tasa social 
+de descuento 
+Para la Gestión Ambiental de la Inversión Pública 
+
+Para  medir  el  impacto  de  la  inversión  pública  sobre  la 
+competitividad  de  la  oferta  de  bienes  y  servicios  en  la 
+región receptora de la inversión mediante la realización de 
+una prueba pilo 
+
+Variables Macroeconómicas 
+
+Inversión Publica 
+
+Inversión Publica 
+
+los  ajustes  y  actualización  de 
+
+Para 
+Contabilidad Social  y Matriz de Contabilidad Financiera 
+
+las  Matriz  de 
+
+Para  obtener  e  identificar  y  medir  la  línea  de  base  de  los 
+indicadores  a  proponer  para  el  desarrollo  de  los  sectores 
+líderes  así  como  de  las  variables  macroeconómicas  más 
+relevantes  para 
+la 
+implementación de la estrategia de desarrollo a proponer.  
+
+como  parte  de 
+
+acompañar 
+
+Variables macroeconómicas 
+
+Variables macroeconómicas 
+
+DETALLE DE LAS BASES DE DATOS  GENERADAS POR LOS ESTUDIOS DEL FISPE 
+
+ 
+
+Sobre fertilidad diferencial de la tierra en la Pampa Húmeda,  
+
+De desempeño empresarial y de indicadores de competitividad 
+
+De los proyectos de Inversión Pública,  respecto a la evolución los precios de 
+cada rubro que lo componen.  
+
+INCLUIDOS EN 
+
+MONITOR 
+
+INDICADORES  
+CON ALERTA 
+TEMPRANA 
+
+ 
+
+ 
+
+SI 
+
+                                              
+
+ 
+
+Página 14 
+
+Para priorizar y medir impactos de inversiones en obras de saneamiento 
+
+Sobre  las cadenas alimentarías (cereales, oleaginosas , carnes y lácteos) 
+
+Cuantitativos del sector farmacéutico 
+
+De instrumentos para el desarrollo productivo (BDIDP)  
+
+Sobre el consumo fresco de hortalizas 
+
+De  los    indicadores  macroeconómicos  y  políticas  implementadas  en  países 
+desarrollados  del  G-7  y  emergentes  de  relevancia  para  el  comercio  de 
+Argentina 
+
+Bases  de  Datos  con  la  identificación  y  caracterización  de  los  principales 
+complejos productivos  
+
+De  las  características  estructurales  de  los  actores  que  tienen  una  influencia 
+determinante  en  el  proceso  de  crecimiento  y  desarrollo  económico  de  la 
+Argentina. 
+
+Sobre el uso del suelo que efectúan las diversas fracciones del capital agrario 
+en la región pampeana.  
+
+Cualitativos  vinculado al mercado de trabajo y condiciones de empleo. 
+
+Cualitativos  del  mercado  de  capitales:  identificación  de  actores,  revisión 
+normativa,  
+
+Sobre información  internacional que permita identificar las herramientas las 
+políticas  y/o  instituciones  de  financiamiento  destinadas  a  fortalecer  a  los 
+sectores  productivos  existentes  y/o  a  impulsar  nuevas  industrias  en  los 
+distinto 
+
+Con el relevamiento y consolidación de datos sobre inversiones recíprocas con 
+Asia Pacifico 
+
+   Con  información  cuantitativa  sobre  el  empleo  de  todas  las  provincias 
+argentinas  a)  sobre  el  sector  público  y  las  políticas  públicas  de  empleo, 
+contemplando  la  desagregación  según  el  nivel  de  gobierno,  el  ámbito 
+geográfico 
+
+Como  de soporte  para   la  Matriz de Negociaciones Internacionales (MNI)  
+
+SI 
+
+SI 
+
+ 
+
+SI 
+
+ 
+
+SI 
+
+SI 
+
+ 
+
+ 
+
+SI 
+
+SI 
+
+ 
+
+SI 
+
+SI 
+
+SI 
+
+ 
+ 
+
+                                              
+
+ 
+
+Página 15 
+
+

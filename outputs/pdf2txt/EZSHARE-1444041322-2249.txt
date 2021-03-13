@@ -1,0 +1,2369 @@
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+Informe de Terminación de Proyecto 
+
+ 
+ 
+
+PCR 
+
+ 
+Nombre del Proyecto: PROGRAMA MODERNIZACION TECNOLOGICA III 
+ 
+País: ARGENTINA 
+ 
+Sector/Subsector: Ciencia y Tecnología 
+ 
+Equipo de Proyecto Original: Gregorio Arévalo, RE1/FI1, Jefe; Nicolás Uauy 
+(RE1/FI1);  Juan  Ketterer  (RE1/FI1);  Juliana  Parahyba  (RE1/FI1);  Paula 
+Giraldez (LEG/OPR);  Gonzalo Rivas (SDS/EST);  Carlos  Abeledo  (Consultor, 
+FI1);  Hernán  Aspiazu  (Consultor,  FI1);  Sandra  Whiting  (Consultora,  FI1); 
+Guillermo  Salvatierra  (Consultor,  FI1);  Claudio  Maggi  (Consultor,  FI1);  Raúl 
+Novoa  (COF/CAR);  Dino  Caprirolo  (COF/CAR);  Ignacio  Vinocur  (COF/CAR); 
+Maximiliano  Marques  (Consultor,  COF/CAR);  y  Almudena  Carrasco  y 
+Annabella  Gaggero  (RE1/FI1),  quienes  asistieron  en  la  producción  del 
+documento. 
+ 
+Número de Proyecto: AR – L1012 
+ 
+Número de Préstamo:  1728/OC-AR 
+ 
+Fecha del QRR: 17 de diciembre de 2010 
+ 
+Fecha de Aprobación Final del PCR: 
+ 
+
+ 
+PCR  Equipo: Pablo Angelelli (SCT/CUR), Juan José LListerri (SCL/SCT), 
+Gabriela Szarfer (CSC/CAR), Patricia Reyna (SCL/SCT) y Miryam Aldabalde 
+(consultora). 
+ 
+
+ 
+ 
+ 
+
+Versión 1.2 -  1 de febrero de 2010
+
+                                                                     
+
+ 
+ 
+
+ 
+ 
+ 
+Índice 
+ 
+I. 
+II. 
+
+III. 
+
+INFORMACIÓN BÁSICA ........................................................................................ 2 
+EL PROYECTO ........................................................................................................ 3 
+A.  CONTEXTO DEL PROYECTO .................................................................................. 3 
+B.  DESCRIPCIÓN DEL PROYECTO .............................................................................. 4 
+i.  Objetivo(s) de Desarrollo ............................................................................................................... 4 
+ii.  Componentes .................................................................................................................................. 4 
+C.  REVISIÓN DE LA CALIDAD DEL DISEÑO (SI APLICA) ................................................... 4 
+D.  EFECTOS DIRECTOS ........................................................................................... 5 
+E.  EXTERNALIDADES .............................................................................................. 9 
+F.  PRODUCTOS .................................................................................................. 10 
+G.  COSTOS DEL PROYECTO ................................................................................... 16 
+IMPLEMENTACIÓN DEL PROYECTO .................................................................... 17 
+A.  ANÁLISIS DE LOS FACTORES CRÍTICOS .................................................................. 17 
+B.  DESEMPEÑO DEL PRESTATARIO/AGENCIA EJECUTORA .............................................. 18 
+C.  DESEMPEÑO DEL BANCO ................................................................................... 18 
+SOSTENIBILIDAD ............................................................................................... 19 
+A.  ANÁLISIS DE FACTORES CRÍTICOS ....................................................................... 19 
+B.  RIESGOS POTENCIALES .................................................................................... 19 
+C.  CAPACIDAD INSTITUCIONAL ............................................................................... 19 
+EVALUACIÓN Y SEGUIMIENTO ........................................................................... 20 
+A.  INFORMACIÓN SOBRE RESULTADOS ..................................................................... 20 
+B.  SEGUIMIENTO FUTURO Y EVALUACIÓN EX-POST ..................................................... 20 
+LECCIONES APRENDIDAS ................................................................................... 20 
+VI. 
+VII.  REFERENCIAS BIBLIOGRÁFICAS ........................................................................ 23 
+VIII.  ANEXO 1: ACTA DEL TALLER DE CIERRE ............................................................ 24 
+
+IV. 
+
+V. 
+
+ 
+
+ 
+ 
+
+ 
+Abreviaturas y Acrónimos 
+ 
+AC&T 
+ 
+Agencia 
+ANLIS    
+ 
+BID  
+CTI  
+ 
+CICYT   
+INTA  
+ 
+ 
+INTI  
+ 
+INA  
+I+D  
+ 
+MINCYT 
+OCTs    
+SECYT  
+
+ Actividades científicas y tecnológicas  
+ Agencia Nacional de Promoción Científica y Tecnológica 
+Administración Nacional de Laboratorios de Salud 
+Banco Interamericano de Desarrollo 
+Ciencia, Tecnología e Innovación 
+Consejo Interinstitucional de Ciencia y Tecnología 
+Instituto Nacional de Tecnología  Agropecuaria 
+Instituto Nacional de Tecnología Industrial 
+Instituto Nacional del Agua 
+Investigación y desarrollo 
+Ministerio de Ciencia, Tecnología e Innovación Productiva 
+Organismos de Ciencia y Tecnología  
+Secretaría de Ciencia y Tecnología 
+
+ 
+
+                                                                 
+1
+
+ 
+ 
+
+ 
+
+Información Básica  
+
+I. 
+ 
+
+DATOS BÁSICOS (MONTO EN US$) 
+
+NO. PROYECTO: AR-L1012 
+ 
+ 
+Prestatario: REPUBLICA  
+ARGENTINA 
+Agencia ejecutora: Ministerio de 
+Ciencia, Tecnología e Innovación 
+Productiva – Agencia Nacional de 
+Promoción Científica y Tecnológica 
+ 
+Préstamo(s): No hay operaciones 
+relacionadas 
+Sector: CIENCIA Y TECNOLOGIA 
+ 
+Instrumento de préstamo: Investment 
+/ Inversión Específica 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Reducción de Pobreza (PTI): No 
+Equidad Social (SEQ): No  
+Clasificación ambiental:  
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+TITULO: PROGRAMA MODERNIZACION 
+TECNOLOGICA III 
+ 
+Fecha aprobación Directorio: 26/Abr./2006 
+
+Fecha efectividad contrato préstamo: 9/Ago/2006 
+
+Fecha elegibilidad primer desembolso: 8/Set/ 2006 
+ 
+
+Meses en ejecución 
+* aprobación - último desembolso: 47 
+* efectividad contrato - último desembolso: 43 
+
+ 
+Períodos de desembolso 
+Fecha original desembolso final: 9/Feb/ 2011 
+Fecha actual desembolso final: 31/Mar/2010 
+Extensión acumulativa (meses): 0 
+Extensión especial (meses): 0 
+ 
+Monto préstamo(s) 
+* Monto original: 280.000.000 
+* Monto actual: 280.000.000 
+* Pari Passu (si aplica): 54,48% 
+ 
+Desembolsos 
+Monto a la fecha: 280.000.000  (100%) 
+ 
+Costo Total del Proyecto (Estimado Original): 
+510.000.000 
+ 
+Redireccionamiento  
+Este proyecto: 
+- recibió fondos de otro proyecto? 
+- Envió fondos a otro proyecto?  
+ 
+ 
+
+[NO] 
+[NO] 
+
+ 
+ 
+En estado de “Alerta 
+Está el proyecto "en alerta" por PAIS: No 
+De ser afirmativo, favor indicar razones (Clasificaciones 
+OD, PI,  y/o indicadores relevantes de PAIS): 
+Comentarios de relevancia de la clasificación de alerta de 
+este proyecto (si aplica): 
+
+                                                                 
+2
+
+ 
+Resumen de la Clasificación de Desempeño 
+ 
+OD 
+
+[ x] Probable (S) 
+
+[ ] Muy 
+Probable(MP) 
+[ ] Muy Satisfactorio 
+(MS) 
+[ ] Muy Satisfactorio 
+(MS) 
+
+[x ] Satisfactorio (S) 
+
+[ x] Satisfactorio (S) 
+
+[ ] Poco Probable 
+(PP) 
+[ ] Poco 
+Satisfactorio (I) 
+[ ] Poco 
+Satisfactorio (PS) 
+
+[ ] Improbable (MI) 
+
+[ ] Muy Insatisfactorio 
+(MI) 
+[ ] Muy Insatisfactorio 
+(MI) 
+
+ 
+ 
+
+PI 
+
+SO 
+
+ 
+
+ 
+
+II.  El Proyecto 
+
+ 
+a.  Contexto del Proyecto  
+
+ 
+El Programa de Modernización Tecnológica III (PMT III)1 se diseñó y aprobó en un contexto de 
+recuperación económica, posterior a la profunda crisis que sufrió la Argentina en 2001-2002, en 
+la que se registró una pérdida del 20% de su producto bruto interno (PBI). 
+ 
+El PMT III fue aprobado en abril de 2006, y cinco meses más tarde recibió el primer desembolso 
+de recursos del Banco. La ejecución insumió menos de cuatro años. Hasta 2008, la operación se 
+implementó  en  un  contexto  de  crecimiento  económico,  con  una  considerable  expansión  del 
+consumo interno y de las exportaciones. Por el lado fiscal, la situación también fue favorable, con 
+cuentas públicas que arrojaron en general resultados primarios superavitarios. En la fase final de 
+la  ejecución  del  programa  se  produjo  una  crisis  internacional  que  no  tuvo  gran  impacto  en  la 
+economía  argentina.  La  misma  tuvo  lugar  en  un  momento  en  que  los  agentes  económicos 
+locales no tenían deudas relevantes. Eso moderó el impacto en el sector financiero, aunque la 
+incertidumbre global repercutió en el mercado de activos. El año 2009 fue de bajo crecimiento 
+del PBI, pero se observó una mejora en los primeros meses de 2010. En síntesis, el PMT III se 
+desarrolló bajo un contexto macroeconómico estable, tal como se había asumido en su diseño.  
+ 
+El  contexto  sectorial  del  PMT  III  también  fue  favorable.  Desde  2003,  se  produjo  una  fuerte 
+recuperación de la inversión pública en actividades científicas y tecnológicas (AC&T). En aquel 
+año, el presupuesto dedicado a AC&T fue de US$828 millones, mientras que en 2010 llegó a 
+US$5270  (aproximadamente  US$1.320  millones).  Asimismo,  la  inversión  en  AC&T  creció  más 
+que el presupuesto nacional en su conjunto, aumentando su participación desde 1.38% en 2003 
+a 1,91% en 2010. Con respecto al PBI, la inversión en AC&T pasó de representar un 0,46% en 
+2003 a un 0,61% en 2007 (último dato disponible)2.  
+ 
+Junto  al  crecimiento  en  la  inversión  pública  en  AC&T,  también  se  produjeron  cambios  en  la 
+institucionalidad. En 2007 se creó el Ministerio de Ciencia, Tecnología e Innovación Productiva 
+(MINCYT) 3 ,  reemplazando  a  la  antigua  Secretaría  de  Ciencia,  Tecnología  e  Innovación 
+                                                      
+1 La acción del Banco en el sector de ciencia y tecnología (CyT) se inició en 1966 con un préstamo (91/SF-
+AR)  por  US$1,0  millón  para  equipar  laboratorios  de  metalurgia  de  la  Comisión  Nacional  de  Energía 
+Atómica (CNEA). Posteriormente, el Banco aprobó préstamos por US$66 millones (348/OC-AR; 1979), 
+US$61  millones  (515/OC-AR;  1986),  US$95  millones  (PMT  I;  802/OC-AR;  1993),  US$140  millones 
+(PMT  II;  1201/OC-AR;  1999),  y  US$50  millones  (PROSAT;  1777/OC/AR,  2006).  En  2009,  el  Banco 
+acordó una  Línea  Condicional  de  Crédito para  CyT por US$750  millones,  en  el  marco de  la  cual ya  se 
+aprobaron dos operaciones, el PIT I por US$100 millones (AR-L1073) y el PIT II por US$200 millones 
+(AR-L1111). 
+2 Para mayor información sobre gasto público en AC&T se puede consultar en el siguiente LINK: 
+www.mincyt.gov.ar/index.php?contenido=presupuesto  
+3 Las estructuras organizativas del MINCYT y de la Agencia se pueden consultar en los siguientes LINKS: 
+www.mincyt.gov.ar/index.php?contenido=estructura y www.agencia.mincyt.gov.ar/spip.php?article21  
+
+ 
+
+                                                                 
+3
+
+Productiva  (SECYT)  del  Ministerio  de  Educación,  Ciencia  y  Tecnología  (MECYT).  El  MINCYT 
+asumió las responsabilidades de ejecución que por contrato de préstamo tenía la SECYT. Por su 
+parte, y tal como se había previsto, la Agencia Nacional de Promoción Científica y Tecnológica 
+(Agencia) mantuvo su papel en la ejecución de los Subprogramas 1 y 2 del PMT III, mientras que 
+el  Subprograma  3  pasó  de  ser  ejecutado  por  la  antigua  Dirección  Nacional  de  Planificación  y 
+Evaluación (DNPE) a la nueva Subsecretaría de Evaluación institucional.  
+ 
+Con la creación del MINCYT la política de Ciencia, Tecnología e Innovación se elevó a política 
+de  estado.  Las  acciones  del  MINCYT,  y  el  propio  programa  PMT  III,  tuvieron  como  marco 
+general el Plan Nacional Estratégico de CTI “Bicentenario” (2006-2010), el cual definió tres ejes 
+centrales:  fortalecer  la  innovación  a  nivel  de  empresas,  clústeres  y  sectores  estratégicos; 
+aumentar y federalizar las capacidades científicas y tecnológicas y lograr una mayor articulación 
+del  sistema.  Actualmente,  el  Ministerio  está  impulsando  un  nuevo  plan  para  el  período  2011-
+2014, el cual se orienta a cuatro grandes desafíos: (i) fortalecer el diseño e implementación de 
+políticas focalizadas hacia áreas y sectores de alto impacto económico y social; (ii) impulsar la 
+cultura  emprendedora  y  la  innovación  con  miras  a  generar  un  nuevo  perfil  productivo; 
+(iii)  fortalecer el capital humano, los recursos para investigar y la infraestructura tecnológica; y 
+(iv) mejorar la articulación y coordinación de los actores del SNI.  
+ 
+En síntesis, el PMT III se desarrolló en un entorno macroeconómico e institucional favorable, lo 
+cual ayudó a  que  las  empresas  y  los centros  de investigación  (y  sus  investigadores)  efectúen 
+una demanda sostenida de los incentivos ofrecidos y un uso efectivo de los mismos, generando 
+buenos  resultados  en  términos  de  innovación  y  generación  de  conocimientos,  tal  como  se 
+describe en las secciones siguientes del presente informe.  
+ 
+
+ 
+
+b.  Descripción del Proyecto 
+ 
+
+i.  Objetivo(s) de Desarrollo  
+
+ 
+El fin del programa fue contribuir a fortalecer la capacidad del país en ciencia y tecnología para 
+dar  respuesta  a  problemas  sectoriales  y  sociales  prioritarios  y  aumentar  la  competitividad 
+estructural de la economía argentina. 
+ 
+
+ii.  Componentes  
+
+ 
+El  PMT  III  se  estructuró  en  tres  subprogramas,  uno  de  apoyo  a  la  innovación  en  el  sector 
+productivo, otro de consolidación de capacidades de Investigación y Desarrollo  y el tercero de 
+consolidación institucional de organismos del sistema nacional de innovación. 
+ 
+
+•  Subprograma  I:  Innovación  en  el  Sector  Productivo.  Incluyó  dos  componentes: 
+(i) Fortalecimiento  de  las  Capacidades  de  Innovación  Tecnológica  en  el  Sector 
+Productivo; y (ii) Consolidación de la Asociatividad en el Sector Productivo. 
+
+•  Subprograma  II:  Consolidación  de  Capacidades  de  Investigación  y  Desarrollo. 
+Incluyó dos componentes:   (i) Fortalecimiento de la Capacidad en Ciencia y Tecnología; 
+y (ii) Fortalecimiento de la Capacidad de Recursos Humanos.  
+
+•  Subprograma III: Consolidación Institucional de Organismos del Sistema Nacional 
+de  Innovación.  Incluyó  dos  componentes:  i)  de  Evaluación  Institucional  de  OCT,  y 
+ii) Consolidación Institucional de los OCT. 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+c.  Revisión de la Calidad del Diseño (si aplica) 
+
+Revisión de la Calidad del Diseño  
+[ ] Muy Satisfactorio (MS) 
+
+[x] Plenamente 
+Satisfactorio (PS) 
+
+[ ] Menos que  
+Satisfactorio (MS) 
+
+[ ] Insatisfactorio (I) 
+
+                                                                 
+4
+
+d.  Efectos Directos 
+
+LOGRO DEL LOS OBJETIVOS DE DESARROLLO  (OD) 
+Objetivos de Desarrollo(s) (Propósito)  
+ 
+El  propósito  del  programa  fue  contribuir  al  fortalecimiento  del  Sistema  Nacional  de  Innovación  y  de  los 
+Sistemas Regionales de Innovación, aumentando las capacidades innovativas y de asociatividad de sus 
+actores, contribuyendo al desarrollo de una infraestructura científica y tecnológica moderna que apoyará 
+los  esfuerzos  nacionales  orientados  a  generar  conocimientos  útiles  para  las  diversas  actividades  y 
+sectores de la sociedad argentina. 
+ 
+Clasificación: SATISFACTORIO  
+
+Indicadores Claves de Efectos Directos 
+Efectos Directos Planeados: 
+
+Incremento de 20% del 
+coeficiente de inversión en 
+I+D respecto de las ventas, 
+en el grupo de empresas 
+beneficiarias de proyectos 
+del programa  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Efectos Directos Logrados4 
+ 
+Para calcular este efecto se consideraron empresas apoyadas a través 
+de  tres  instrumentos:  aportes  no  reembolsables  para  proyectos  de 
+innovación  y  desarrollo  tecnológico  (ANR-PDT);  ANR  para  proyectos 
+de  creación  de  unidades  de  investigación  (ANR-I+D)  y  créditos  para 
+modernización tecnológica (CAE).  
+ 
+Según  una  encuesta  a  una  muestra  representativa  de  empresas 
+beneficiarias  de  proyectos  ANR-PDT  (40  casos),  para  la  mayoría  de 
+los  entrevistados,  hubo  un  fuerte  impacto  sobre  los  gastos  en 
+actividades  de  innovación;  en  particular,  en  materia  de  formación  y 
+capacitación  de  los  recursos  humanos.  En  efecto,  77%  de  las 
+empresas  consideró  que  el  impacto  sobre  el  gasto  en  I+D  fue  “Alto” 
+(53%) o “Muy alto” (24%). Asimismo, en cuanto a los resultados de los 
+esfuerzos en I+D, 68% manifestó haber obtenido nuevos productos y 
+48%  nuevos  procesos.  A  su  vez,  54%  logró  mejoras  de  productos  y 
+51% de procesos. En cuanto a desempeño comercial, un 43% de las 
+empresas indicó un impacto alto o muy alto en las ventas al mercado 
+local.  
+ 
+Con  respecto  al  CAE,  la  muestra  estudiada  incluyó  34  casos,  y 
+también se observó un impacto positivo en los gastos en actividades 
+de innovación: 25% de los entrevistados calificó el impacto como “Muy 
+alto” y 32% como “Alto”. El CAE, por la magnitud de los montos que 
+financia (superiores a los ANR-PDT), generó un “salto” en el gasto en 
+I+D  de  las  empresas.  El  56%  de  las  usuarias  de  CAE  entrevistadas 
+logró  mejoras  en  la  gestión  de  la  producción,  requiriendo  esfuerzos 
+innovativos  adicionales  con  efectos  positivos  en  aspectos  de 
+organización,  en  la  adquisición  de  software  de  gestión,  en  la  gestión 
+administrativa  de  la  empresa  y  en  la  incorporación  de  personal 
+calificado  para  operar  un  nuevo  software.  Además,  83%  de  las 
+empresas  calificaron  el  impacto  del  proyecto  sobre  la  calidad  de  sus 
+productos como Alto o Muy alto y  74% señalo un impacto Alto o Muy 
+alto en ventas. 
+ 
+Para  los  ANR-I+D,  dado  que  el  número  de  proyectos  fue  bajo,  la 
+
+                                                      
+4 Los efectos directos que se reportan se basan en el documento “Evaluación del Programa de 
+Modernización Tecnológica III”, elaborado por la Universidad Nacional de Quilmes en Octubre de 2010. 
+
+ 
+
+                                                                 
+5
+
+ 
+ 
+
+Incremento de 20% en 
+facturación por servicios a 
+empresas de las 
+instituciones beneficiarias 
+del componente ARAI.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 
+
+ 
+
+3. 
+
+innovación 
+
+realizados  por 
+
+realizando 
+
+los  cinco  casos  estudiados,  en 
+
+estrategia  de  evaluación  se  basó  en  estudios  de  casos.  Aunque  hay 
+cierta  variabilidad  en 
+términos 
+agregados  se  aprecia  una  tendencia  positiva  en  los  esfuerzos  en 
+actividades  de 
+las  empresas.  La 
+composición de este tipo de gastos está fuertemente concentrada en la 
+adquisición  de  maquinarias  y  equipos  y  en  gastos  en  I+D  interna, 
+aunque  también  se  registran  gastos  considerables  en  consultorías, 
+software y capacitación. Es de destacar, que cuatro de los cinco casos 
+estudiados  señalaron  estar 
+innovaciones  a  nivel 
+internacional en el marco de los proyectos apoyados por el programa. 
+ 
+El análisis conjunto de los tres instrumentos muestra que se produjo un 
+impacto favorable sobre la inversión en actividades innovativas de las 
+empresas  apoyadas,  y  que  esto  redituó  en  nuevos  o  mejorados 
+productos y procesos, lo que a su vez llevó a nuevas ventas5. Queda 
+pendiente  una  evaluación  expost  que  cuantifique  el  incremento  del 
+gasto en I+D de los beneficiarios respecto a un grupo de control. 
+Para  constatar  este  efecto  se  estudiaron  en  profundidad  siete 
+instituciones  que  recibieron  aportes  reembolsables  (ARAI´s)  para 
+implementar  proyectos  tendientes  al  desarrollo  o  fortalecimiento  de 
+servicios  tecnológicos  para  pymes.  El  resultado  del  estudio  muestra 
+que  cinco  de  las  seis  instituciones  apoyadas  lograron  un  fuerte 
+aumento de sus ventas gracias a la implementación de sus proyectos. 
+Si  bien  este  tipo  de  instituciones  (institutos  públicos  y  universidades) 
+suele  no  conocer  con  precisión  su  market-share  y  el  de  sus 
+competidores,  todas  reconocen  que  el  impacto  sobre  sus  ventas  fue 
+“alto o “muy alto”. En particular, es contundente el testimonio de dos de 
+los  cinco  centros  que,  gracias  al  equipamiento  adquirido  se  han 
+reposicionado como referentes nacionales en su campo, a la vez que 
+señalan  que,  de  no  haber  actualizado  sus  tecnologías,  habrían 
+desaparecido del mercado por la obsolescencia de su equipamiento. 
+ 
+Otro punto relevante a la hora de analizar los ARAI es el impacto de 
+los  proyectos  en  la  venta  de  servicios  al  exterior.  Estas  ventas 
+permitieron:  (i)  aprovechar  la  capacidad  ociosa  de  los  equipos  cuya 
+demanda  local  no  agotan  sus  posibilidades  de  uso,  (ii)  disminuir  la 
+volatilidad de los ingresos por ventas de servicios, y (iii) incrementar la 
+presión  competitiva  sobre  las  instituciones,  enfrentándolas  al  estado 
+del  arte  internacional.  De  las  seis  instituciones  consultadas,  tres 
+lograron  realizar  ventas  al  exterior  (principalmente  a  Latinoamérica, 
+pero también a otros países).  
+ 
+Los subsidios que se otorgaron a través del PMT III para proyectos de 
+investigación científica y tecnológica (PICT) tuvieron efectos positivos 
+en la productividad científica de los investigadores beneficiados. 
+ 
+Según el estudio econométrico realizado en el marco de la evaluación 
+final  del  programa,  que  incluyó  a  investigadores  apoyados  y  no 
+apoyados por el mismo, recibir un subsidio para PICT por primera vez 
+causaría un incremento del 35% en el número de publicaciones para 
+los  investigadores  beneficiarios,  respecto  del  escenario contra  fáctico 
+en  que  no  son  beneficiarios.  Asimismo,  cuando  en  el  modelo  se 
+
+Incremento de 15% entre la 
+relación de productividad 
+científica (publicaciones por 
+investigador) de los 
+investigadores que 
+participan en proyectos 
+financiados por FONCYT 
+respecto de un grupo de 
+control de investigadores no 
+financiados por FONCYT. 
+                                                      
+5 La evidencia recogida va en la misma dirección que los recientes hallazgos de Arza y López (2010), 
+quienes señalan que las inversiones en I+D llevan a innovaciones y mejoras de productos y procesos y a 
+mejoras en la productividad en el mediano plazo. 
+
+ 
+
+                                                                 
+6
+
+ 
+ 
+
+ 
+
+4.  Aumento de 20% en la 
+
+participación del 
+financiamiento de empresas 
+(públicas / privadas) y/o 
+entidades públicas en 
+proyectos PID comparado 
+con lo alcanzado en el 
+marco del PMT II.  
+
+5.  Aumento de 25% en la 
+
+cantidad total de proyectos 
+de I+D en Áreas 
+Estratégicas y aumento del 
+25% en el monto total 
+financiado (línea de base 
+PMT II).  
+
+ 
+
+ 
+
+6.  Aumento de 20% en la 
+
+participación de las regiones 
+
+ 
+
+incorporan otros regresores, tales como la edad y la interacción entre 
+tener  un  doctorado  y  ser  beneficiario  del  programa,  el  efecto  es  aún 
+mayor:  los  nuevos  beneficiarios  del  PMT  III  tienen  alrededor  de  una 
+publicación  más  que  los  no  beneficiarios.  Por  su  parte,  todos  los 
+modelos  son  consistentes  en  cuanto  el  efecto  de  la  edad  sobre  el 
+número  de  publicaciones:  los  investigadores  de  mayor  edad  exhiben 
+entre un 3% y un 4% más de publicaciones. 
+ 
+De la comparación entre los proyectos de investigación y desarrollo en 
+los que participan grupos de investigadores y adoptantes (que pueden 
+ser  empresas,  instituciones  gubernamentales  y  organizaciones  no 
+gubernamentales (ONGs) financiados en el PMT II y el PMT III, no se 
+puede  concluir  que  se  produjo  un  aumento  en  la  participación  de  la 
+inversión  privada  en  las  actividades  científicas  y  tecnológicas.  Sin 
+embargo,  sí  se  pudo  constatar  que  los  PID  en  los  que  participaron 
+gobiernos  locales  tienen  transferencias  concretas  de  conocimientos 
+desde  el  sector  académico.  En  efecto,  se  han  logrado  mayores 
+transferencias en proyectos con adoptantes del sector público que con 
+el privado, aunque este no fue el objetivo planificado.  
+ 
+El PMT III fue exitoso en asignar y financiar proyectos de investigación 
+orientados hacia áreas estratégicas. La línea de base del PMT II (10 
+proyectos  financiados  con  un  monto  de  US$11,9  millones)  fue 
+ampliamente superada. En el PMT III se financiaron 19 proyectos de 
+I+D  en  áreas  estratégicas  y  US$23,8  millones.  A  través  de  estos 
+proyectos, denominados PAE, se abordaron temas tales como:  
+ 
+•  Biología del suelo y producción agraria sustentable 
+•  Generación, transferencia y difusión de conocimientos científicos y 
+
+tecnológicos para fortalecer la vitivinicultura argentina  
+•  Caracterización genómica funcional de girasol para su 
+
+mejoramiento en características de tolerancia a estreses bióticos y 
+abióticos utilizando herramientas moleculares 
+
+•  Herramientas de biotecnología aplicadas a sumar competitividad y 
+
+sustentabilidad a la cadena de trigo  
+
+•  Contribución e inserción de la genómica en el desarrollo de la 
+
+cadena agroindustrial lechera bovina 
+
+•  Acciones coordinadas de investigación y desarrollo de fiebre aftosa 
+
+para asegurar el status de país libre de la enfermedad 
+
+•  Producción, purificación y aplicaciones del hidrógeno como 
+
+combustible y vector de energía 
+Investigación y desarrollo de nuevas terapias y sistemas de 
+diagnóstico de base molecular en cancer 
+
+• 
+
+•  Nodo para el diseño, fabricación y caracterización de micro y 
+
+nanodispositivos para aplicaciones en el área espacial, la 
+seguridad y la salud-fase 1 
+
+•  Producción de una vacuna calendario nacional de vacunación 
+
+• 
+
+argentina. Empleo de estrategias ómicas para el mejoramiento y 
+diseño de nuevas formulaciones 
+I+d para el desarrollo de un modelo de salud orientado a la 
+prevención, diagnóstico y tratamiento de la tuberculosis en 
+Argentina 
+ 
+
+El  PMT  III  contribuyó  a  fortalecer  las  capacidades  de  investigación  y 
+desarrollo tecnológico de las regiones más relegadas en esta temática. 
+
+                                                                 
+7
+
+En  el  PMT  II  se  habían  financiado  14%  de  los  proyectos  de 
+investigación científica y tecnológica orientados (PICTOs) (y 17,7% de 
+los montos) fuera de las regiones Centro y Bonaerense. En el PMT III, 
+las regiones de Cuyo, NEA, NOA y Patagonia concentraron el 42,8% 
+de los proyectos y representaron el 49,5% del monto de subsidio.  
+ 
+
+Durante el PMT III, siete Organismos de Ciencia y Tecnología (OCTS) 
+iniciaron  el  proceso  de  fortalecimiento  institucional:  4  concluyeron  su 
+autoevaluación, 2 han diseñado su plan de mejoramiento y otras tienen 
+su ejecución muy avanzada.  
+ 
+Las  dos  OCTs  que  iniciaron  la  ejecución  del  plan  de  fortalecimiento 
+son  la  Administración  Nacional  de  Laboratorios  e  Institutos  de  Salud 
+(ANLIS) y el Instituto Nacional del Agua (INA) .  
+ 
+La ANLIS con objetivos tanto de reorganización institucional como de 
+fortalecimiento de sus funciones sustantivas como institución de salud   
+y  el  INA  con  los  objetivos  de  impulsar  el  posicionamiento  del 
+organismo como articulador de políticas. 
+  
+El  impacto  del  proceso  de  autoevaluación,  evaluación  externa  y  la 
+implementación ha sido significativo: en el caso del ANLIS el proceso 
+movilizó al organismo a detectar debilidades de manera sistemática y a 
+proyectar  mejoras  en  la  gestión  con  vistas  al  establecimiento  del 
+planeamiento estratégico ordenados por resultado. 
+ 
+ANLIS  como  el  INA  son  dos  ejemplos  donde  se  destaca  que  los 
+impactos de los procesos iniciados en los OCTs no debe medirse sólo 
+en materia de avance o metas físicas y sí en grados de avance en la 
+maduración y aprendizaje institucional, objetivos que requieren tiempos 
+más dilatados que el resto de los instrumentos de promoción y que se 
+detectan en los dos casos analizados. 
+ 
+
+ 
+ 
+
+con menor desarrollo 
+científico y tecnológico 
+respecto de las regiones 
+más desarrolladas (en 
+montos asignados a grupos 
+de I+D), respecto a las 
+participaciones alcanzadas 
+en el marco del 
+subcomponente PICTO del 
+PMT II.  
+
+ 
+7.  Al menos 4 Organismos de 
+
+Ciencia y Tecnología 
+participan en el proceso de 
+fortalecimiento institucional 
+que incluye autoevaluación, 
+evaluación externa y 
+formulación de un plan 
+estratégico de desarrollo y 
+mejoras institucionales. 90% 
+de los planes auditados 
+muestran resultados de 
+avance exitosos, según 
+indicadores propuestos en 
+planes. 
+
+ 
+
+Reformulación. NO. Los objetivos del programa y su estructura de componentes no fueron modificados. 
+
+Reajuste ISDP:  SI (Febrero de 2009) 
+ 
+El marco de resultados del PMT III fue revisado  en febrero de 2009. Los ajustes realizados al diseño y a 
+las metas se basaron en distintas velocidades de ejecución entre instrumentos así como a nuevas 
+necesidades surgidas durante el programa. Los principales cambios fueron los siguientes:  
+
+ 
+
+•  Se redujo el presupuesto y las metas de cantidad de proyectos financiados para ANR-I+D desde 
+37 a 10, PITEC desde 10  a 6 y PID desde 150 a 75. El recorte de presupuesto y metas también 
+afecto al PIDRI, cuya previsión paso de 160 a 80 
+
+•  Los instrumentos que vieron fortalecido su presupuesto fueron el CAE y los PICT, así como 
+
+también el PME.  
+
+•  Durante la ejecución también se crearon nuevos instrumentos y líneas de acción. Se destaca el 
+PRAMIN, la financiación de tres centros interdisciplinarios e internacionales de investigación en 
+biomedicina, nanotecnología y ciencias sociales y la iniciativa del Sistema Nacional de 
+
+ 
+
+                                                                 
+8
+
+ 
+ 
+
+Microscopia. 
+
+•  A lo largo del programa también se hizo un esfuerzo permanente por mejorar la definición y las 
+
+fuentes de información para calcular los indicadores de desempeño. 
+
+ 
+Resumen del(os) Objetivo(s) de Desarrollo Clasificación (OD): 
+[ ] Muy Probable(MP) [ X] Probable (S) [ ] Poco Probable (PP) [ ] Improbable (MI) 
+ 
+Justifique  brevemente  la  clasificación  basada  en  el  grado  de  cumplimiento  de  las    metas 
+planeadas, explicando las diferencias entre los efectos directos planeados y los logrados, así como 
+otros factores relevantes.  Indicar referencias sobre la evidencia que respalda dichos resultados. 
+ 
+El  PMT  III  ha  logrado  un  nivel  satisfactorio  de  cumplimiento  de  los  efectos  directos  planeados.  Se 
+fortalecieron las capacidades de innovación de las empresas, las cuales como consecuencia de participar 
+en el programa reconocen estar realizando mayores inversiones en actividades de I+D, en formación de 
+recursos  humanos  y  en  maquinas  y  equipos  especializados.  También  se  mejoró  la  oferta  de  servicios 
+tecnológicos para pymes. Por el lado de la generación de conocimientos originales, el PMT III ha mostrado 
+un impacto significativo en la productividad de los investigadores apoyados. El programa también tuvo un 
+efecto positivo en la descentralización de la actividad científica y en la focalización de recursos hacia áreas 
+estratégicas. Estos resultados confirman que el PMT III ha contribuido a fortalecer el sistema nacional de 
+innovación argentino.  
+ 
+
+ 
+
+e.  Externalidades  
+
+ 
+Además  de  los  efectos  directos  e  impactos  reseñados  anteriormente,  las  innovaciones 
+generadas a partir de los apoyos del PMT III a empresas e investigadores han generado distintos 
+tipos de externalidades. A fin de poder medir estas externalidades y cuantificar el beneficio social 
+del programa, el Banco encargó un estudio cuyos resultados se sintetizan a continuación.  
+ 
+Según Peirano y Vismara (2010), quienes realizaron una estimación de beneficio social de un 
+conjunto  de  proyectos  virtuosos  apoyados  mediante  ANR-PDT  y  CAE,  señalan  que  ambos 
+instrumentos  generan  un  beneficio  social  que  excede  al  costo  que  los  mismos  generan.  Se 
+estimó  que  los  subsidios  otorgados  generaron  derrames  o  externalidades  para  los  clientes  y 
+proveedores  de  las  empresas  beneficiarias  equivalentes  al  12%  del  valor  agregado  total  o 
+beneficio  social.  Las  estimaciones  permitieron  establecer  que  por  cada  100  pesos  que  se  
+otorgan,  los  proyectos  apoyados  generan  resultados  con  un  beneficio  social  del  orden  de  los 
+1102  pesos.  A  su  vez,  desde  la  perspectiva  fiscal,  por  cada  100  pesos  que  se  transfieren  al 
+sector  privado  para  realizar  proyectos  de  innovación  se  genera  un  incremento  de  actividad 
+económica que se traduce en ingresos tributarios equivalentes a 456 pesos. En definitiva, si el 
+9,07% de los fondos se destinó a proyectos con resultados similares a los proyectos estudiados 
+en este trabajo, los recursos que demandó la ejecución del ANR-PDT para el período 2006-2010 
+ya estaría cubierto por los beneficios obtenidos. Con una tasa más alta de proyectos exitosos, el 
+saldo social del programa ANR puede considerarse superavitario. El análisis de los CAE ofrece 
+resultados similares. La existencia de estos créditos expandieron los resultados de los proyectos, 
+en término de beneficio social, en 38%. Por cada 100 pesos otorgados en calidad de préstamos 
+destinados  a  financiar  actividades  de  innovación,  el  beneficio  social  generado  asciende  a  488 
+pesos.  A  su  vez,  desde  la  perspectiva  fiscal,  cada  100  pesos  de  financiamiento  genera  un 
+impacto sobre el nivel de actividad que redunda en un aumento de la recaudación del orden de 
+los  449  pesos.  En  este  caso,  se  requiere  que  el  20,5%  de  los  fondos  se  haya  aplicado  a 
+proyectos  con  resultados  en  promedio  similares  a  los  estudiados  en  este  trabajo  para  los 
+beneficios que generaron esta proporción de proyectos haya cubierto el total de los costos que 
+demando  ejecutar  la  totalidad  de  los  CAE.  A  partir  de  ese  porcentaje,  todo  proyecto  exitoso 
+contribuyó a generar un saldo social superavitario. 
+ 
+
+ 
+
+                                                                 
+9
+
+ 
+ 
+
+f.  Productos  
+ 
+
+PROGRESO EN LA IMPLEMENTACION  (PI) 
+Subprograma I: Innovación en el Sector Productivo. 
+Componentes (Productos) 
+
+ 
+
+1.1 Capacidades de innovación 
+
+tecnológica en el sector 
+productivo fortalecidas. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1.2 Asociatividad para resolver 
+problemas tecnológicos en 
+aglomeraciones 
+productivas promovida. 
+
+ 
+
+Indicadores Claves del Producto 
+           Productos Planeados 
+•  240 créditos (CAEs) otorgados a 
+
+empresas para proyectos de 
+modernización tecnológica. 
+
+•  825 ANRs para proyectos de 
+
+innovación y desarrollo tecnológico 
+financiados. 
+
+•  ANR para la creación de 10 nuevas 
+
+unidades de I+D en empresas. 
+
+•  61 aportes reembolsables a 
+
+instituciones (ARAIs) para 
+desarrollar o fortaleces servicios 
+tecnológicos financiados   
+•  Al menos 6 proyectos de 
+
+integrados de innovación en 
+aglomerados productivos (PITEC) 
+financiados  
+
+ 
+
+Fin de Proyecto 
+
+•  315 CAE financiados, 
+
+268 finalizados. 
+
+•  1209 ANRs financiados, 
+
+789 finalizados.  
+
+•  12 unidades de I+D 
+
+financiadas.  
+
+•  56 ARAIS financiados, 24 
+
+finalizados. 
+ 
+
+•  7 PITEC financiados. 
+
+Costo total: US$207,3 MILL. 
+Contrapartida: US$88,3  MILL.  
+BID: US$119 MILL.  
+Desembolso BID %: 100 
+Clasificación: Satisfactorio 
+ 
+ 
+Explique brevemente diferencias entre los productos planeados y actuales.  
+ 
+El  nivel  de  logro  de  productos  correspondientes  al  Subprograma  de  Innovación  en  el  sector  productivo 
+puede  considerarse  como  satisfactorio.  Algunos  instrumentos,  como  los  créditos  y  los  aportes  no 
+reembolsables  para  proyectos  de  modernización  tecnológica  e  innovación  y  desarrollo  superaron  las 
+metas previstas, mientras que otros (ANR-I+D y PITEC) registraron un desempeño menor al esperado. A 
+continuación se hace una síntesis de cada instrumento.  
+ 
+El CAE es un crédito de hasta US$1 millón, con devolución obligatoria, que financia hasta el 80% del costo 
+total de un proyecto de modernización tecnológica y llega a las empresas a través de bancos comerciales 
+públicos  y  privados  (quienes  asumen  el  riesgo  crediticio).  La  meta  prevista  (240  CAEs  otorgados)  fue 
+superada, habiéndose iniciado el financiamiento de 315 proyectos de un total de 500 propuestas recibidas, 
+lo  que  significó  una  tasa  de  financiación  del  63%.  A  su  vez,  de  los  315  CAE  iniciados,  268  fueron 
+finalizados en el marco del programa, lo que implicó una excelente tasa de cierre. Más de dos tercios de 
+las  empresas  apoyadas  se  concentraron  en  las  regiones  bonaerense  y  centro  y  fueron  del  sector 
+industrial.  Las  empresas  encuestadas  señalaron  que  de  no  haber  contado  con  el  financiamiento  del 
+FONTAR habrían pospuesto o reducido el alcance de sus proyectos. El atributo más valorado del CAE por 
+parte de los empresarios fue el costo financiero. 
+ 
+Los ANR financian hasta el 50% del costo de un proyecto de innovación y desarrollo tecnológico, con un 
+máximo  de  US$200  mil.  Como  en  el  caso  del  CAE,  la  meta  prevista  en  el  programa  fue  superada.  Se 
+
+ 
+
+                                                                 
+10
+
+ 
+ 
+
+PROGRESO EN LA IMPLEMENTACION  (PI) 
+financiaron 1209 proyectos de un total de 2981 propuestas, con una tasa de financiación de 40%. A su 
+vez, los proyectos que finalizaron fueron 789, lo que significó una tasa de cierre de 65%. Las empresas 
+que recibieron ANR se ubican principalmente en las regiones bonaerense y centro y son de los sectores 
+industria y servicios empresariales. El ANR es considerado por las empresas argentinas como la principal 
+fuente  de  financiamiento  de  la  innovación.  De  hecho,  aproximadamente  la  mitad  de  las  empresas 
+apoyadas ya tienen financiamiento previo del FONTAR. 
+ 
+En el caso de los ANR para financiar la creación o fortalecimiento de unidades de  I+D en empresas, 
+los resultados alcanzados también estuvieron por encima de la meta prevista, ya que se financiaron 12 
+proyectos para crear unidades de I+D en empresas, de un total de 95 propuestos (tasa de financiamiento 
+de  12%).  A  su  vez,  todos  los  proyectos  financiados  aún  se  encuentran  en  ejecución,  lo  que  refleja  la 
+dificultad  de  implementar  iniciativas  en  las  que  hay  colaboración  entre  empresas  e  instituciones 
+(adoptantes) con grupos de investigadores. Precisamente estas dificultades de ejecución y para conseguir 
+proyectos de calidad fueron las que llevaron a reducir la meta inicial de 35 proyectos a 10.  
+ 
+Los ARAIs son aportes reintegrables, de hasta US$2 millones, para que instituciones públicas y privadas 
+desarrollen o mejoren servicios tecnológicos para las empresas, especialmente para las pymes. De los 61 
+ARAIs  que  se  pusieron  como  meta,  se  logró  financiar  56  durante  el  programa,  sobre  un  total  de  74 
+propuestas, lo que representó una tasa de financiamiento de 75%. A su vez, los proyectos terminados son 
+24,  cerca  de  la  mitad  de  los  financiados.  A  diferencia  de  los  instrumentos  antes  comentados,  los  ARAI 
+están mejor distribuidos en el territorio. En las regiones bonaerense y centro solo se ubican el 40% de los 
+proyectos. Los principales beneficiarios del ARAI son los institutos públicos de investigación y tecnología 
+así como centros de servicios de universidades públicas y gremios empresariales. 
+ 
+Los  PITEC  fueron  una  modalidad  novedosa  de  apoyo  a  innovación  diseñada  en  el  PMT  III,  la  cual 
+consistió en el financiamiento, por hasta US$4 millones, de programas comprensivos de actividades de 
+investigación,  desarrollo  e  innovación  en  las  que  participaban  empresas,  entidades  empresariales, 
+organismos científicos y/o tecnológicos y gobiernos de un aglomerado productivo. La previsión inicial fue 
+financiar 10 PITECS, pero debido a las dificultades encontradas en la ejecución, la meta se redujo a 6. 
+Finalmente, se logró financiar 7 proyectos sobre un total de 33 propuestas recibidas (tasa de financiación 
+de 21%).  A pesar que el número de casos apoyados fue bajo, los aglomerados productivos que lograron 
+concretar la etapa de planificación, reconocieron que mejoraron sus niveles de asociatividad e innovación. 
+Entre  los  casos  destacados,  incluyendo  a  los  PITEC  que  además  del  proceso  de  planificación  también 
+realizaron implementación de actividades de innovación con resultados exitosos, pueden mencionarse los 
+aglomerados  de  maquinaria  agrícola  en  las  provincias  de  Santa  Fé  y  Córdoba,  forestal  en  Misiones  y 
+Corrientes y de metalmecánica en la provincia de Buenos Aires6. 
+ 
+Reestructuración.  Indique  si  este  componente  del  proyecto  ha  sido  reestructurado.  Describir 
+brevemente las consecuencias de estos cambios. 
+
+A solicitud del organismos ejecutor, en 2008, el Banco y el ejecutor acordaron reasignar recursos desde el 
+componente  de  asociatividad  al  de  innovación  en  el  sector  productivo.  En  particular,  se  fortaleció  el 
+presupuesto  del  instrumento  CAE,  que  registró  una  demanda  mayor  a  la  esperada.  Al  contrario,  el 
+componente  de  asociatividad  tuvo  serias  dificultades  de  arranque.  Para  mayor  información  ver  notas 
+CSC/CAR 843/2008 y CSC/CAR 837/2008 e informe misión de administración 18 -23 de febrero de 2008. 
+
+                                                      
+6 En Lengyel y Botino (2009) se hace un análisis de la evolución reciente del cluster de maquinaria 
+agrícola, con un énfasis especial en los temas de innovación. Alvarez y otros (2010), hacen una evaluación 
+preliminar del instrumento PITEC y de otros programas similares de Chile, Uruguay y Colombia. 
+
+ 
+
+                                                                 
+11
+
+ 
+ 
+
+ 
+
+PROGRESO EN LA IMPLEMENTACION (PI) (cont.) 
+
+Subprograma II: Consolidación de Capacidades de Investigación y Desarrollo. 
+Componentes (Productos) 
+ 
+2.1 Capacidades de la base 
+científica y tecnológica 
+fortalecidas y 
+consolidadas 
+
+Indicadores Claves del Producto 
+         Productos Planeados 
+•  2750 proyectos de investigación 
+
+científica y tecnológica (PICT) 
+financiados  
+
+Fin de Proyecto 
+
+•  500 proyectos de investigación 
+
+científica y tecnológica orientada 
+(PICTO)  financiados  
+
+•  75 proyectos de investigación y 
+
+desarrollo (PID) financiados. 
+
+•  15 proyectos de investigación en 
+
+áreas estratégicas (PAE) 
+financiados  
+
+•  155 proyectos de modernización de 
+equipamiento (PMEs) financiados  
+
+•  150 PRAMIN financiados 
+•  80 investigadores incorporados en 
+
+instituciones beneficiarias de 
+Proyectos de Investigación y 
+Desarrollo para la Radicación de 
+Investigadores (PIDRIs. 
+
+•  270 Becarios incorporados en 
+instituciones beneficiarias de 
+proyectos Programa para la 
+Formación de Doctores en Áreas 
+Tecnológicas Prioritarias (PFDTs)  
+
+•  3.553 PICTs financiados. 
+
+1608 finalizados. 
+
+•  632 PICTOs financiados. 
+
+235 finalizados. 
+
+•  69 PIDs financiados. 39 
+
+PIDs finalizados. 
+
+•  19 PAE financiados.  
+•  158 PMEs financiados. 
+•  147 proyectos PRAMIN 
+
+financiados 
+
+•  196 investigadores 
+
+incorporados en 
+proyectos en las IB en el  
+marco de PIDRIS 
+financiados 
+
+•  384 becarios 
+
+incorporados en 
+proyectos en las IB en el 
+marco de los PFDTs 
+
+•  57 proyectos de RRHH 
+
+financiados 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2.2 Capacidades de recursos 
+humanos en I+D en áreas 
+prioritarias ampliadas y 
+fortalecidas 
+
+ 
+
+Costo total: US$293 MILL. 
+Contrapartida: US$148 MILL.  
+BID: US$145 MILL.  
+Desembolso BID %: 100 
+Clasificación: S  
+ 
+Explique brevemente diferencias entre los productos planeados y actuales.  
+ 
+El nivel de logro de productos en el Subprograma de Consolidación de Capacidades de Investigación y 
+Desarrollo fue más que satisfactorio. A continuación se hace un resumen por cada instrumento.  
+ 
+Los PICT tienen como objetivos la generación de nuevos conocimientos científicos y tecnolóficos así como 
+la formación de investigadores. Se trata del instrumento más importante del país para el financiamiento de 
+la investigación de alto nivel, tanto por el número de proyectos como por la magnitud de los fondos que se 
+aplican anualmente. En el PMT III se financiaron 3553 PICTs, sobre un total de 10.472 propuestas (lo que 
+equivale a una tasa de financiación del 33%). A su vez, los proyectos finalizados fueron 1.608, un 15% de 
+los presentados. Los PICT se concentraron en la región bonaerense, donde están radicados la mayoría de 
+los  centros  e  institutos  de  investigación  del  país,  y  en  las  ciencias  biomédicas.  Las  evaluaciones 
+
+ 
+
+                                                                 
+12
+
+ 
+ 
+
+intermedia  y  final  del  programa  señalaron  que  hay  oportunidades  para  mejorar  el  seguimiento  de  los 
+PICTs (se observó que algunos proyectos demoran más que los 2 o 3 años previstos para su ejecución), 
+lo  que  posiblemente  redundaría  en  un  mayor  impacto  sobre  la  productividad  científica  de  los 
+investigadores apoyados.  
+ 
+Los  proyectos  de  investigación  científica  y  tecnológica  orientados  (PICTO)  se  asignan  y  financian  de 
+manera  conjunta  entre  universidades  y  centros  de  investigación  públicos  o  privados  y  la  Agencia.  El 
+objetivo es generar capacidades de investigación en temas o áreas específicas seleccionadas de común 
+acuerdo  entre  la  Agencia  y  las  instituciones  cofinanciadoras.  Como  en  el  caso  de  los  PICTs,  la  meta 
+prevista para los PICTOs se superó ampliamente, habiéndose financiado 632 proyectos sobre un total de 
+1.343  propuestas  (tasa  de  financiación  de  47%).  Los  proyectos  concluidos  fueron  235  (17%  de  los 
+propuestos). Los PICTOS fueron un instrumento clave para potenciar la investigación en regiones menos 
+desarrolladas  del  país.  En  efecto,  se  estima  que  un  45%  de  los  proyectos  se  implementaron  en  las 
+regiones Cuyo, NOA, NEA y Patagonia. En cuanto a áreas temáticas, se destacan las ciencias sociales y 
+humanas  y  las  exactas.  Como  en  el  caso  del  PICT,  hay  oportunidades  para  mejorar  los  procesos  de 
+seguimiento. 
+ 
+Los proyectos de investigación y desarrollo (PID) buscan que la investigación científica y tecnológica se 
+oriente  hacia  aplicaciones  de  interés  de  empresas  o  instituciones,  promoviendo  la  interacción  entre 
+investigadores y sectores productivos y sociales. Inicialmente se previó el apoyo a 150 PIDs, pero esta 
+meta  se  redujo  a  75  debido  a  dificultades  para  el  establecimiento  de  alianzas  de  mediano  plazo  entre 
+investigadores y empresas e instituciones. Al final del programa se logró financiar 69 PIDs, de un total de 
+143 propuestas recibidas. Además, los proyectos finalizados fueron 39, un 27% de los presentados. La 
+experiencia  del  PID  muestra  que  en  el  país  todavía  existen  serias  dificultades  para  el  trabajo  conjunto 
+entre empresas y universidades7, un aspecto que se debe seguir fortaleciendo en el futuro.   
+ 
+Los proyectos en áreas estratégicas (PAE) fueron introducidos por el PMT III como una nueva modalidad 
+asociativa de apoyo a la investigación, mediante la cual se buscó desarrollar “clusters de conocimientos” 
+en áreas y temas prioritarios del Plan Nacional de Ciencia Tecnología e Innovación. A través de los PAE 
+se apoyó a redes de grupos de investigación mediante múltiples proyectos que incluían desde la formación 
+de recursos humanos hasta infraestructura y equipos científicos de tamaño medio.  A través del PMT III se 
+apoyaron 19 PAEs, sobre un total de 119 ideas presentadas. Los PAE tuvieron ciertas dificultades en su 
+arranque, pero una vez que se establecieron los arreglos básicos para la gestión, su ejecución se aceleró. 
+Esto  estaría  mostrando  que,  con  los  incentivos  correctos,  se  puede  estimular  la  colaboración  entre 
+investigadores de distintos centros e institutos del país y la focalización de recursos hacia la investigación 
+en temas estratégicos (entre otros temas, los PAE abordan cuestiones vinculadas al uso sostenible del 
+suelo, prevención y control de microtoxinas en cadenas alimentarias, biotecnología aplicada al trigo y al 
+girasol, genómica en la cadena láctea, etc.).  
+ 
+Los  proyectos  de  modernización  de  equipamiento  (PME)  ayudaron  a  fortalecer  las  capacidades  de  los 
+laboratorios y centros de I+D mediante la compra de accesorios o repuestos de equipamiento existente o 
+la adquisición de equipamiento nuevo, instalación, desarrollo o adaptación de equipamiento, destinado a la 
+investigación  científica  tecnológica.  A  través  del  PMT  III  se  apoyaron  158  proyectos  (sobre  232 
+propuestas),  frente  a  una  meta  ampliada  de  155  (originalmente  se  habían  planificado  100).  Según  las 
+encuestas realizadas, el equipamiento adquirido en el marco del PMT III ha sido clave para posicionar a 
+los equipos de investigación argentinos en niveles más cercanos a la frontera internacional.  
+ 
+Los proyectos de adecuación y de mejoras de infraestructura (PRAMIN) buscaron mejorar la disponibilidad 
+de  espacios  aptos  para  la  instalación  de  equipos,  principalmente  los  adquiridos  mediante  PME,  y  de 
+nuevos  investigadores.  Este  instrumento,  que  no  fue  previsto  en  el  diseño  del  PMT  III,  se  incorporó 
+durante  la  ejecución  para  dar  respuesta  a  los  requerimientos  de  los  centros  que  estaban  incorporando 
+equipamiento y recursos humanos. La meta prevista en el año 2008 fue lograda, aunque hubo dificultades 
+para poner en marcha los proyectos por falta de experiencia en los beneficiarios en el manejo de obras.  
+
+                                                      
+7 Para una revisión de la temática de cooperación entre la universidad y la empresa en Argentina se puede 
+ver Arza y Lopez (2009). 
+
+ 
+
+                                                                 
+13
+
+ 
+ 
+
+ 
+ 
+
+ 
+Los  PIDRI  apuntaron  al  fortalecimiento  y  consolidación  de  las  capacidades  de  I+D+I,  a  través  de  la 
+radicación  de  investigadores  en  centros  e  institutos  de  investigación,  mientras  que  con  los  PFTD  se 
+estimuló  la  formación  de  doctores  en  las  áreas  tecnológicas  estratégicas  del  Plan  Nacional  de  Ciencia, 
+Tecnología  e  Innovación.  Las  metas  previstas  para  los  proyectos  PIDRI  y  PFDT  fueron  superadas 
+ampliamente en número de beneficiaros.  
+ 
+Reestructuración.  Indique  si  este  componente  del  proyecto  ha  sido  reestructurado.    Describir 
+brevemente las consecuencias de estos cambios. 
+ 
+A solicitud del organismo ejecutor, en 2008, el Banco acordó reasignar recursos desde el componente de 
+de 
+fortalecimiento  de  capacidades  de  CyT, 
+particularmente  para  el  instrumento  PME.  Asimismo  se  acordó  aplicar  recursos  del  componente  2.2  al 
+financiamiento de obras menores para la adecuación de laboratorios y centros de investigación (PRAMIN). 
+Para  mayor  información  ver  notas  CSC/CAR  843/2008,  CSC/CAR  1014/2008,  informe  misión  de 
+administración 18 -23 de febrero de 2008, y CSC/CAR 3181/2008. 
+ 
+Adicionalmente,  a  principios  de  2009,  y  debido  a  restricciones  de  financiamiento  a  través  recursos  del 
+tesoro  y  al  menor  grado  de  avance  de  Programa  de  Recursos  Humanos  se  acordó  que  podrán  aplicar 
+hasta US$8 millones del mencionado programa para financiar becas PICT. (para mayor información ver 
+nota CSC/CAR 1773/2009). 
+
+fortalecimiento  de  recursos  humanos  hacia  el  de 
+
+ 
+
+ 
+
+                                                                 
+14
+
+ 
+ 
+
+ 
+
+PROGRESO EN LA IMPLEMENTACION (PI) (cont.) 
+
+Subprograma III: Consolidación Institucional de Organismos del Sistema Nacional de Innovación. 
+Componentes (Productos) 
+ 
+3.1 Evaluación externa de los 
+Organismos de Ciencia y 
+Tecnología (OCTs) 
+
+Indicadores Claves del Producto 
+        Productos Planeados 
+•  11 OCTs presentan autoevaluaciones 
+
+•  7 OCTs  con proceso 
+
+de autoevaluación 
+comenzado. 
+
+Fin de Proyecto 
+
+•  4 OCTs con proceso 
+
+autoevaluación 
+finalizado 
+
+•  2 OCTs diseñaron su 
+plan de mejoramiento 
+
+•  2 OCTs iniciaron su 
+
+plan de mejoramiento. 
+
+•  60% de avance. 
+
+3.2 Implementación planes de 
+mejora de la gestión de los 
+OCTs 
+
+3.3 Construcción de 3 Centros 
+
+Interdisciplinarios e 
+Internacionales en 
+nanotecnología, 
+biomedicina y  ciencias 
+sociales. 
+
+ 
+
+y firman actas de compromiso para 
+someterse a evaluación externa. 
+•  11 OCTs evaluados por expertos 
+externos e informes de evaluación 
+aprobados y validados por Consejo 
+Asesor para la Evaluación y 
+Mejoramiento de los OCTs. 
+
+•  4 Planes de Mejoramiento de la 
+Gestión de OCTs formulados y 
+validados por Consejo Asesor. 
+•  4 Planes de Mejoramiento de la 
+Gestión de OCTs con ejecución 
+iniciada. 
+
+•  Construcción de 3 centros 
+
+interdisciplinarios en nanotecnología, 
+biomedicina y  ciencias sociales 
+
+Costo total: US$7,7 MILL.  
+Contrapartida: US$0,27 MIL  
+BID: US$7,4 MILL. 
+Desembolso BID %: 100 
+Clasificación:  S 
+ 
+Explique brevemente diferencias entre los productos planeados y actuales (sin aplica).   
+ 
+Los productos de este subprograma estuvieron por debajo de lo esperado en el diseño. El arranque del 
+sistema de evaluación y fortalecimiento de OCTs se vio dificultado por dos razones principales. En primer 
+lugar el pasaje institucional de la SECyT al MINCyT, que produjo un cambio total del equipo de 
+profesionales a cargo de la actividad. En segundo lugar, el diseño del subprograma resultó demasiado 
+rígido, por lo que fue necesario introducir cambios en el reglamento operativo. Teniendo en cuenta las 
+demoras comentadas, el MINCYT solicitó al Banco la posibilidad de incorporar al subprograma el 
+financiamiento parcial de 3 centros interdisciplinarios e internacionales en nanotecnología, biomedicina y  
+ciencias sociales, los que funcionarán en el polo científico tecnológico de Palermo en la ciudad de Buenos 
+Aires (edificio ex Bodegas Giol). Este cambio permitió un buen desempeño financiero del subprograma.  
+ 
+Reestructuración.  Indique  si  este  componente  del  proyecto  ha  sido  reestructurado  (fecha 
+aprobación Gerente)(si aplica).  Describir brevemente las consecuencias de estos cambios. 
+Se incorporó un componente adicional al subprograma, destinado a la financiación parcial de centros in-
+terdisciplinarios e internacionales en biomedicina, nanobiotecnología y ciencias sociales. Asimismo, se 
+flexibilizaron las condiciones de financiamiento (montos y rubros elegibles) para los procesos de evalua-
+ción y asistencia técnica (para mayor información ver nota CSC/CAR 3181/2008) 
+
+ 
+
+Resumen del Progreso en la Implementación Clasificación  (PI):  
+[ ] Muy Satisfactorio (MS) 
+
+[X] Satisfactorio 
+(S) 
+
+[ ] Poco 
+Satisfactorio (I) 
+
+[ ] Muy Insatisfactorio 
+(MI) 
+
+ 
+
+                                                                 
+15
+
+ 
+ 
+
+ 
+
+g.  Costos del Proyecto   
+
+Categoría de Inversión 
+
+1.  Administración y evaluaciones 
+2. Costos Directos 
+
+Subprograma de innovación en el sector productivo
+
+Componente de Innovación Tecnológica 
+
+Componente de asociatividad en el sector productivo 
+
+Subprograma de consolidación de capacidades de I+D
+Componente de fortalecimiento de capacidades de CyT 
+
+CAE 
+ANR – CAE 
+ANR 
+ARAI 
+
+PITEC 
+
+PICT 
+PICTO 
+PID 
+PME 
+SNM 
+PAE 
+
+PRH 
+PRAMIN 
+BECAS 
+
+Componente de capacidades en recursos humanos 
+
+Subprograma consolidación Institucional de OCTs
+
+Evaluación Externa de OCTs 
+Implementación Gestión OCTs 
+Laboratorios internacionales 
+
+3. Costos Financieros 
+
+Intereses 
+Comisión de Crédito 
+F.I.V. 
+
+4. Sin Asignación Específica 
+
+TOTAL 
+
+PARI PASSU 
+
+ 
+ 
+
+ 
+
+Presupuesto inicial 
+
+Presupuesto Ejecutado
+
+B.I.D.
+7,500,000
+270,500,000
+120,000,000
+90,000,000 
+40,000,000 
+5,000,000 
+30,000,000 
+15,000,000 
+30,000,000 
+30,000,000 
+145,000,000
+100,000,000 
+50,000,000 
+5,000,000 
+5,000,000 
+20,000,000 
+0 
+20,000,000 
+45,000,000 
+45,000,000 
+0 
+0 
+5,500,000
+1,400,000 
+4,100,000 
+0 
+0
+0 
+0 
+0 
+2,000,000
+280,000,000
+
+54.90% 
+
+Aporte Local 
+6,500,000
+193,000,000
+75,000,000
+65,000,000 
+10,000,000 
+5,000,000 
+45,000,000 
+5,000,000 
+10,000,000 
+10,000,000 
+115,000,000
+72,000,000 
+50,000,000 
+5,000,000 
+5,000,000 
+7,000,000 
+0 
+5,000,000 
+43,000,000 
+43,000,000 
+0 
+0 
+3,000,000
+100,000 
+2,900,000 
+0 
+30,000,000
+28,000,000 
+2,000,000 
+0 
+500,000
+230,000,000
+45.10% 
+
+TOTAL
+14,000,000
+463,500,000
+195,000,000
+155,000,000
+50,000,000
+10,000,000
+75,000,000
+20,000,000
+40,000,000
+40,000,000
+260,000,000
+172,000,000
+100,000,000
+10,000,000
+10,000,000
+27,000,000
+0
+25,000,000
+88,000,000
+88,000,000
+0
+0
+8,500,000
+1,500,000
+7,000,000
+0
+30,000,000
+28,000,000
+2,000,000
+0
+2,500,000
+510,000,000
+
+  
+
+BID 
+8,500,000
+271,500,000
+119,000,000
+116,077,875 
+69,000,000 
+0 
+33,018,161 
+14,059,714 
+2,922,125 
+2,922,125 
+145,074,825
+117,000,000 
+57,300,031 
+7,690,033 
+2,963,999 
+33,485,572 
+68,274 
+15,492,091 
+28,074,825 
+6,482,961 
+6,604,219 
+14,987,645 
+7,425,175
+127,647 
+297,528 
+7,000,000 
+0
+0 
+0 
+0 
+0
+280,000,000
+
+54.17% 
+
+Aporte Local 
+6,038,906
+216,561,200
+88,334,097
+87,089,250 
+38,009,435 
+0 
+41,310,583 
+7,769,232 
+1,244,847 
+1,244,847 
+127,955,729
+122,915,049 
+83,446,723 
+14,441,615 
+8,137,166 
+8,334,452 
+248,682 
+8,306,411 
+5,040,680 
+2,137,610 
+1,363,555 
+1,539,515 
+271,374
+32,024 
+239,350 
+0 
+14,298,215
+13,709,128 
+589,087 
+0 
+0
+236,898,321
+45.83% 
+
+TOTAL
+14,538,906
+488,061,200
+207,334,097
+203,167,125
+107,009,435
+0
+74,328,744
+21,828,946
+4,166,972
+4,166,972
+273,030,554
+239,915,049
+140,746,754
+22,131,648
+11,101,165
+41,820,024
+316,956
+23,798,502
+33,115,505
+8,620,571
+7,967,774
+16,527,160
+7,696,549
+159,671
+536,878
+7,000,000
+14,298,215
+13,709,128
+589,087
+0
+0
+516,898,321
+
+  
+
+                                                                 
+16
+
+ 
+ 
+
+ 
+
+Explique brevemente diferencias entre el presupuesto original y el real.  
+ 
+Durante la ejecución del PMT III se realizaron varios ajustes al presupuesto para dar respuesta a 
+diferentes  velocidades  en  la  ejecución  de  los  instrumentos  así  como  para  atender  nuevas 
+necesidades  identificadas  por  el  MINCYT  y  la  Agencia.  De  todas  maneras,  la  estructura  de 
+costos a nivel de grandes categorías se mantuvo relativamente estable, habiéndose registrado 
+incrementos  leves  en  los  costos  directos  y  de  administración  y  una  caída  en  los  costos 
+financieros. Es importante destacar que los costos de administración y evaluación del programa 
+se mantuvieron en el entorno del 3%, tal como había sido previsto en el diseño de la operación.    
+ 
+Las modificaciones más significativas se produjeron al interior de los subprogramas. En el caso 
+del subprograma de innovación en el sector productivo se destaca el aumento en el componente 
+de  innovación  tecnológica,  absorbido  principalmente  por  el  instrumento  CAE,  y  la  caída  en  el 
+componente de asociatividad. Estos cambios fueron producto de una mayor demanda por parte 
+de las empresas por créditos para modernización tecnológica que por proyectos asociativos de 
+innovación a nivel de aglomerados productivos. 
+ 
+En  el  subprograma  de  consolidación  de  capacidades  de  I+D  también  hubo  modificaciones.  El 
+componente de fortalecimiento de capacidades de CyT se incrementó, sobre todo para reforzar 
+los instrumentos PME, PICT y PICTO, mientras que el componente de recursos humanos redujo 
+su  costo,  incluso  cuando  en  su  interior  se  creó  una  nueva  modalidad  de  apoyo  denominada 
+PRAMIN.  Al  respecto,  es  importante  anotar  que  aunque  los  instrumentos  del  programa  de 
+recursos  humanos  y  el  PRAMIN  tuvieron  buena  demanda  por  parte  de  la  comunidad  de 
+científica, la implementación de los mismos demandó tiempos mayores que los planeados. 
+ 
+Finalmente,  en  el  subprograma  de  consolidación  Institucional  de  OCTs  se  observó  un 
+sobredimensionamiento  en  el  presupuesto  inicial  junto  a  dificultades  iniciales  por  parte  del 
+organismo  ejecutor,  en  parte  justificadas  en  los  procedimientos  establecidos  en  el  ROP,  para 
+poner en marcha el proceso de evaluación y fortalecimiento de OCTs. Finalmente, los recursos 
+ejecutados  para  esta  actividad  estuvieron  muy  por  debajo  de  los  planeados.  Sin  embargo,  el 
+financiamiento  parcial  de  tres  laboratorios  internacionales  que  operarán  en  el  polo  científico 
+tecnológico de Palermo en la ciudad de Buenos Aires ayudó a que el desempeño financiero del 
+subprograma fuese cercano a lo previsto inicialmente. 
+ 
+ 
+
+III. 
+
+Implementación del Proyecto 
+
+a.  Análisis de los factores críticos  
+
+ 
+Considerando los productos y efectos alcanzados, así como los tiempos, la implementación del 
+PMT III puede considerarse como muy satisfactoria. Además, debe destacarse que los cambios 
+institucionales  (creación  del  MINCYT)  y  de  autoridades  (cambio  del  presidente  de  la  Agencia) 
+durante  el  programa  no  tuvieron  efectos  significativos  en  la  velocidad  de  ejecución  ni  en  la 
+cantidad y calidad de los resultados planeados.  
+
+ 
+
+Uno  de  factores  críticos  para  explicar  la  buena  ejecución  del  programa  es  la  experiencia  y 
+profesionalidad de los funcionarios de la Agencia y del MINCYT. En particular, ha sido clave la 
+experiencia  y  la  estabilidad  en  el  cargo  de  los  directores  y  el  personal  clave  del  FONTAR,  el 
+FONCYT y la DIGFE, lo que les ha permitido generar aprendizaje para hacer una administración 
+cada vez más eficiente de los instrumentos de promoción de la innovación y la investigación.  
+ 
+El segundo factor que también ha contribuido a una exitosa implementación del PMT III fue el 
+haber  contado  con  un  entorno  macroeconómico  y  sectorial  favorable.  Ambos  elementos 
+impulsaron  la  demanda  de  los  diferentes  instrumentos  del  PMT  III,  tanto  los  orientados  a  las 
+empresas  como  los  dirigidos  a  los  investigadores.  A  modo  de  ejemplo  se  puede  citar  el  gran 
+crecimiento de investigadores y becarios financiados por el Consejo Nacional de Investigaciones 
+
+ 
+
+                                                                 
+17
+
+ 
+ 
+
+ 
+
+tercer 
+
+factor  que  se  considera  ayudó  al  buen  desempeño  del  programa 
+
+Científicas  y  Técnicas,  quienes  son  grandes  usuarios  de  los  recursos  de  promoción  de  la 
+Agencia. 
+ 
+Un 
+fue  el 
+acompañamiento  que  proporcionó  el  Banco  durante  su  ejecución.  El  equipo  de  proyecto, 
+incluyendo  a  los  especialistas  sectoriales  y  fiduciarios,  así  como  la  gerencia  de  la  División  de 
+Ciencia y Tecnología y de la Representación de Argentina, estuvieron en contacto permanente 
+con las autoridades y el equipo técnico a cargo del programa y actuaron de manera proactiva 
+para realizar ajustes al diseño que potencien la ejecución y los resultados del programa.  
+ 
+También debe mencionarse que en forma paralela a la ejecución del PMT III, en el marco de la 
+Agencia,  se  crearon  nuevas  unidades  organizativas  para  dar  respuesta  a  algunas  debilidades 
+que se habían identificado en el diseño de la operación, entre las que se destacan: la unidad de 
+sistemas informáticos (USI), la unidad de Evaluación y Aseguramiento de la Calidad (UEAC), la 
+unidad de Gestión Socio Ambiental (UGSA) y la Unidad de Promoción Institucional (UPI). 
+ 
+Al  final  del  PMT  III  todas  las  unidades  antes  mencionadas  se  encuentran  operativas.  Sin 
+embargo,  en  el  proceso  de  puesta  en marcha  y  la  operación  de  las  mismas existieron  ciertas 
+dificultades  que  influyeron  negativamente  en  la  ejecución  del  programa.  En  primer  lugar,  se 
+produjeron  varios  cambios  de  personal  en  la  Unidad  de  Evaluación  y  Aseguramiento  de  la 
+Calidad,  lo  que  limitó  el  proceso  de  aprendizaje.  En  segundo  lugar,  se  registraron  muy  pocos 
+avances en cuanto a integración y mejora de sistemas de gestión de proyectos, responsabilidad 
+principal de la USI. Pero también se verificaron algunos problemas en FONCYT y FONTAR para 
+la  originación  y  gestión  de  proyectos  de  innovación  e  investigación  de  tipo  asociativo  (PITEC, 
+PID,  PAE)  así  como  en  el  seguimiento  de  proyectos  de  investigación  (PICT).  Estos  aspectos 
+fueron  identificados  en  la  evaluación  intermedia  del  programa  y  comunicados  al  organismos 
+ejecutor, quien desarrolló un plan con medidas pertinentes.  
+ 
+
+b.  Desempeño del Prestatario/Agencia Ejecutora  
+
+ 
+El  desempeño  de  la  Agencia  Ejecutora  fue  satisfactorio.  El  préstamo  se  ejecutó  en  tiempos 
+menores a los previstos y se lograron la mayoría de los productos y efectos planeados. Hacia el 
+futuro  quedan  pendientes  esfuerzos  de  mejora  en  proyectos  que  impliquen  asociatividad 
+(privado-privado  y  público  privado)  y  en  temas  de  evaluación  y  seguimiento  y  sistemas  de 
+información.  Desde  el  punto  de  vista  de  adquisiciones  y  manejo    financiero,  no  se  verificaron 
+problemas durante la ejecución. 
+ 
+
+Clasificación del Desempeño del Prestatario/Agencia Ejecutora 
+[ ] Muy Satisfactorio (MS) 
+
+[X ] Satisfactorio (S) 
+
+[ ] Poco Satisfactorio 
+(PS) 
+
+[ ] Muy Insatisfactorio 
+(MI) 
+
+c.  Desempeño del Banco  
+
+ 
+Los  párrafos  que  se  presentan  a  continuación  fueron  elaborados  por  la  Unidad  Ejecutora  del 
+programa. 
+ 
+"El  acompañamiento  del  Banco  a  los  sucesivos  Programas  de  Modernización  Tecnológica  ha 
+sido estratégico para Argentina. En el caso del PMT III, el hecho de haberse ejecutado en un 
+plazo  menor  al  previsto  originalmente,  estuvo  directamente  relacionado  a  la  capacidad  de 
+adaptación a la coyuntura macroeconómica y flexibilidad de los funcionarios del Banco a cargo 
+de la supervisión" 
+ 
+
+ 
+
+ 
+
+                                                                 
+18
+
+ 
+ 
+
+Clasificación del Desempeño del Banco 
+[ ] Muy Satisfactorio (MS) 
+
+[ X] Satisfactorio (S) 
+
+ 
+ 
+
+IV.  Sostenibilidad  
+
+ 
+
+[ ] Poco Satisfactorio 
+(PS) 
+
+[ ] Muy Insatisfactorio 
+(MI) 
+
+a.  Análisis de Factores Críticos 
+
+ 
+Existen  múltiples  factores  que  juntos  configuran  un  ambiente  favorable  para  la  continuidad  y 
+sostenibilidad de las actividades realizadas en el marco del PMT III.  
+ 
+En  primer  lugar,  existe  una  tendencia  positiva  en  el  volumen  de  recursos  del  presupuesto 
+nacional dedicado a actividades de ciencia y tecnología, la cual se potenció con la creación del 
+MINCYT en el año 2007. 
+ 
+En segundo lugar, el MINCYT y el Banco, en el año 2009, acordaron una línea condicional de 
+crédito  para  fortalecer  el  sistema  nacional  de  innovación  a  10  años  de  plazo  por  US$750 
+millones.  Ese  mismo  año,  se  aprobó  la  primera  operación  de  crédito  de  la  línea  por  US$100 
+millones,  mientras  que  en  2010  se  aprobó  un  segundo  préstamo  por  US$200  millones.  Los 
+nuevos programas, denominados Programa de Innovación Tecnológica I y II (PIT I y PIT II), dan 
+continuidad a las líneas de acción más dinámicas e innovadoras del PMT III. 
+ 
+Por  último,  concluido  el  periodo  del  Plan  Estratégico  Nacional  de  Ciencia,  Tecnología  e 
+Innovación  “Bicentenario”  (2006-2010),  el  MINCYT  ya  tiene  avances  en  la  elaboración  de  un 
+nuevo  plan  para  el  periodo  2011-2014,  el  cual  contiene  líneas  de  acción  preliminares  en  las 
+cuales se pueden enmarcar las actividades iniciadas con el PMT III. El nuevo plan se orienta a 
+cuatro grandes desafíos: (i) fortalecer el diseño e implementación de políticas focalizadas hacia 
+áreas y sectores de alto impacto económico y social; (ii) impulsar la cultura emprendedora y la 
+innovación con miras a generar un nuevo perfil productivo; (iii) fortalecer el capital humano, los 
+recursos  para  investigar  y  la  infraestructura  tecnológica;  y  (iv)  mejorar  la  articulación  y 
+coordinación de los actores del SNI.  
+ 
+
+b.  Riesgos Potenciales  
+
+ 
+No  se  visualizan  riesgos  altos  para  la  continuidad  de  los  esfuerzos  iniciados  con  el  PMT  III. 
+Desde lo político, parece existir consenso entre actores de distintos partidos e instituciones sobre 
+la  importancia  que  tiene  para  el  desarrollo  del  país  seguir  invirtiendo  en  ciencia,  tecnología  e 
+innovación. Este consenso se está observando en las jornadas de elaboración del nuevo plan de 
+CTI para el período 2011-2014, en las que participan múltiples actores del sistema de innovación 
+y  los  sectores  productivos.  De  todas  maneras,  el  cambio  de  autoridades  que  tendrá  lugar  en 
+2012 podría traer algunos cambios en la dirección de las políticas del sector. 
+ 
+Tampoco  se  perciben  riesgos  altos  en  las  dimensiones  económica  e  institucional.  En  lo 
+económico, las perspectivas sobre la macroeconomía del país son favorables. En lo institucional, 
+tanto el MINCYT como la Agencia están recorriendo exitosamente un proceso de consolidación 
+dentro de la administración pública nacional.  
+ 
+
+c.  Capacidad Institucional  
+
+Como se mencionó anteriormente, tanto la Agencia como el MINCYT han demostrado un buen 
+nivel de capacidad institucional para administrar instrumentos de promoción de la innovación y la 
+investigación.  
+
+Clasificación de Sostenibilidad (SO) 
+
+ 
+
+                                                                 
+19
+
+ 
+ 
+
+[ ] Muy Satisfactorio (MS) 
+
+[ x] Satisfactorio (S) 
+
+[ ] Poco Satisfactorio 
+(PS) 
+
+[ ] Muy Insatisfactorio 
+(MI) 
+
+ 
+
+ 
+
+ 
+
+V.  Evaluación y Seguimiento 
+
+a. 
+
+Información sobre Resultados  
+
+ 
+Durante  la  ejecución  del  PMT  III,  la  UEAC  fue  la  responsable  de  recolectar  datos  para  el 
+monitoreo  de  los  indicadores  de  productos  de  la  operación.  Para  ello,  la  UEAC  trabajó  de 
+manera coordinada con el FONTAR, el FONCYT, la DIGFE y la UGSA para estandarizar datos e 
+indicadores.  Actualmente,  las  bases  de  datos  de  la  Agencia  cuentan  con  información  de 
+proyectos  presentados,  adjudicados,  financiados  y  en  ejecución  para  cada  uno  de  los 
+instrumentos del PMT III. 
+ 
+Este esfuerzo de estandarización fue fortalecido en ocasión de la evaluación intermedia del PMT 
+III, la cual fue realizada por la empresa BSI WORLD en 2009. En esta evaluación también se 
+realizaron consultas directas y a través de teléfono e internet a los beneficiaros a fin de conocer 
+su  percepción  de  los  resultados  alcanzados  en  términos  de  desarrollo  de  capacidades 
+innovativas  y  de  generación  y  transferencia  de  conocimientos.  Este  ejercicio  también  fue 
+importante  para  analizar  los  tiempos  y  la  calidad  de  los  procesos  de  recepción,  evaluación  y 
+seguimiento de proyectos en cada uno de los instrumentos del programa.  
+ 
+Sin embargo, fue con la evaluación final del programa, realizada por un grupo de investigadores 
+de la Universidad Nacional de Quilmes en 2010, con la que se generó una primera aproximación 
+a los efectos y resultados del programa, algunos de los cuales se detallaron en la sección previa 
+de  este  informe  sobre  efectos  directos.  En  la  evaluación  final  también  se  hizo  una 
+sistematización  de  los  informes  de  avance  y  de  cierre  que  presentan  los  beneficiarios  de  la 
+Agencia,  los  que  constituyen  una  fuente  poco  explotada  hasta  el  momento  pero  de  gran 
+potencial. 
+ 
+
+b.  Seguimiento Futuro y Evaluación Ex-Post  
+ 
+
+En el marco de los Programas de Innovación Tecnológica I y II se han previsto estudios de cuasi-
+experimentales  para  medir  el  impacto  de  los  aportes  no  reembolsables  para  proyectos  de 
+innovación tecnológica presentados por PYMES y de los subsidios a proyectos de investigación 
+científica y tecnológica. Asimismo, se han previsto instancias de capacitación del personal de la 
+UEAC en técnicas modernas de evaluación de impacto. 
+
+ 
+ 
+
+VI.  Lecciones Aprendidas   
+
+ 
+ 
+
+ 
+El  Programa  de  Modernización  Tecnológica  III  puede  considerarse  como  una  iniciativa 
+sumamente exitosa, ya que dentro de los plazos y el presupuesto previstos, alcanzó o superó las 
+metas  de  productos  y  resultados  previstas  en  su  diseño.  Varios  factores  explican  el  éxito 
+alcanzado: la capacidad institucional del MINCYT y la Agencia, un entorno macroeconómico y de 
+política sectorial favorable y el acompañamiento del Banco a la ejecución. 
+ 
+Se describen a continuación una serie de lecciones aprendidas en la ejecución del PMT III, las 
+cuales  buscan  aportar  elementos  para  mejorar  el  diseño,  gestión  y  evaluación  de  futuras 
+iniciativas de fomento de la CTI.  
+ 
+
+•  Los instrumentos que apoyan de manera individual a empresas, como por ejemplo los 
+ANR y los créditos, son efectivos para generar capacidades de innovación y procesos de 
+modernización tecnológica. Sin embargo, estos instrumentos presentan limitaciones para 
+
+ 
+
+                                                                 
+20
+
+ 
+ 
+
+ 
+
+tejidos  productivos  débiles  o  con  participación  exclusiva  de 
+
+llegar a empresas sin experiencia innovadora previa o que están situadas en territorios 
+con 
+los  sectores 
+agropecuario y comercial. En estos casos, parece necesario poner a disposición de las 
+firmas nuevos instrumentos de extensión tecnológica y capacitación, administrados por 
+una institucionalidad local apropiada, para ayudarlas a desarrollar competencias básicas 
+para  adoptar  tecnologías  y  para  formular  proyectos  que  puedan  ser  meritorios  de 
+créditos y ANRs para procesos más complejos modernización e innovación tecnológica. 
+El  desarrollo  y/o  fortalecimiento  de  institucionalidad  local,  como  por  ejemplo  las 
+Unidades de Vinculación Tecnológica, es de especial importancia si se tiene en cuenta 
+que la Agencia no cuenta con oficinas descentralizadas. 
+ 
+
+•  Los  instrumentos  que  requieren  que  las  empresas  y  los  centros  de  investigación  se 
+asocien para llevar adelante un proyecto de innovación y desarrollo tecnológico son de 
+“difícil” ejecución, tal como los demuestran la experiencia del PMT III con los PITEC, los 
+ANR-I+D y los PID. Al respecto, un primer aprendizaje tiene que ver con los plazos para 
+generar confianza entre los actores y para planificar las acciones, que pueden llegar a 
+demorar dos o más años. Por lo tanto, estas iniciativas requieren plazos mayores a los 
+de un típico programa con financiamiento internacional. Otro tema tiene que ver con la 
+definición  de  objetivos  estratégicos  y  las  posibilidades  posteriores  de  medición  de 
+resultados.  En  la  experiencia  del  PITEC  la  tendencia  fue  a  diversificar  objetivos  para 
+atender  todas  las  necesidades  de  los  actores  involucrados,  lo  que  hizo  muy  difícil 
+enfocar  recursos  a  los  temas  tecnológicos  y  comerciales  más  críticos  e  impidió  el 
+seguimiento y la evaluación de los resultados en el tiempo. Por último, en el caso de los 
+instrumentos  asociativos,  mucho  más  que  en  los  individuales,  parece  recomendable 
+partir por la construcción de capacidades institucionales locales que ayuden a identificar 
+y organizar las demandas empresariales y canalizar los proyectos hacia los instrumentos 
+más apropiados, reduciendo en la mayor medida posible la brecha burocrática entre los 
+organismos  especializados  y  los  empresarios.  También  es  importante  fortalecer  las 
+capacidades de la Agencia en materia de inteligencia competitiva vinculada a cadenas 
+productivas y clusters y en seguimiento de proyectos asociativos.  
+ 
+
+•  Los instrumentos para subsidiar proyectos de investigación, como los PICT y los PICTO, 
+han mostrado efectos positivos en la producción de conocimiento original y de calidad 
+(artículos  publicados,  patentes  solicitadas  y  la  calidad  de  ambos).  También  juegan  un 
+papel en la formación de recursos humanos, y en el caso del PICTO, ayuda a  fortalecer 
+de  capacidades  de  investigación  en  centros  e  institutos  del  interior  del  país.  Sin 
+embargo, tanto la evaluación intermedia como la final señalaron que hay oportunidades 
+para  mejorar  el  seguimiento  de  los  proyectos  financiados,  por  ejemplo,  mediante  una 
+gestión más eficiente de los informes de avance y cierre técnico de los proyectos. Los 
+investigadores  también  reclaman  contar  con  mejores  herramientas  para  difundir, 
+gestionar y transferir los conocimientos que se generan. 
+ 
+
+•  Los  instrumentos  para  fortalecer  recursos  humanos  e  infraestructura  y  equipamiento 
+deben administrarse en forma integral y balanceada. La experiencia del PMT III, y de la 
+evolución del sistema de innovación de Argentina en general, muestra que si se hace un 
+esfuerzo  significativo  en  formación  de  investigadores  (PIDRI  y  PFDT)  y  equipamiento 
+(PAE)  que  no  es  acompañado  de  inversiones  en  infraestructura,  pueden  generarse 
+cuellos de botella en la producción y difusión de conocimientos. Otro aspecto importante 
+de  destacar  cuando  se  compra  de  equipamiento  científico  mediano  y  grande,  es  que 
+estas  compras  deben  estar  acompañadas  de  inversiones  en  sistema  de  gestión  que 
+ayuden a que los equipos se utilicen de manera intensiva.  
+ 
+
+•  Las actividades de evaluación y fortalecimiento de organismos de ciencia y tecnología 
+(OCTs) que el MINCYT llevó adelante a través del PMT III se implementaron a un ritmo 
+más lento que el planeado. Como se comentó, los cambios en el equipo de trabajo y la 
+rigidez del diseño fueron elementos que explican dicha demora. Sin embargo, es posible 
+
+                                                                 
+21
+
+ 
+ 
+
+   
+
+ 
+
+que  también  haya  existido  un  problema  de  incentivos  de  los  OCTs  a  participar  en  el 
+proceso, ya que de no hacerlo esto no impedía participar en los demás instrumentos de 
+promoción  de  la  Agencia.  Hacia  el  futuro,  considerando  la  experiencia  adquirida  en  el 
+PMT III, el MINCYT debería generar mejores vínculos entre los procesos de evaluación y 
+fortalecimiento y el acceso a instrumentos de promoción. 
+ 
+
+•  Sistemas de información. A pesar de los avances realizados en el PMT III para fortalecer 
+e integrar los sistemas de información, todavía queda un gran camino por recorrer. En 
+especial,  hay  oportunidades  de  mejora  en  la  presentación  online  de  proyectos,  la 
+evaluación  online  de  los  mismos  y  el  seguimiento  de  los  proyectos.  Hacia  el  futuro  la 
+relación entre la Agencia y sus beneficiarios debería requerir cada vez menos papel. 
+ 
+
+•  Seguimiento y evaluación de resultados. A partir de los logros del PMT III, la Agencia y el 
+MINCYT  deberían  hacer  un  esfuerzo  adicional  para  contar  con  mejores  indicadores 
+sobre los procesos de presentación, evaluación, contratación y ejecución de proyectos. 
+Al mismo tiempo, se debería seguir avanzando en la generación de bases de datos que 
+permitan  realizar  evaluaciones  de  impacto  con  metodologías  basadas  en  las  mejores 
+prácticas internacionales. 
+ 
+
+                                                                 
+22
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+VII.  Referencias Bibliográficas 
+
+ 
+ 
+
+ 
+
+nológica III- 
+  
+
+Tecnológica III. 
+ 
+
+from Argentina.   
+ 
+
+•  Álvarez, R., Benavente, J., Contreras, C. y Contreras, J., 2010, Consorcios Tecnológicos 
+en América Latina: Una primera exploración de los casos de Argentina, Chile, Colombia 
+y Uruguay, Nota Técnica, Banco Interamericano de Desarrollo 
+www.iadb.org/document.cfm?id=35242324 
+     
+
+•  BSI World, 2009, Evaluación de Medio Término del Programa de Modernización Tec-
+
+•  Universidad Nacional de Quilmes, 2010, Evaluación del Programa de Modernización 
+
+•  Peirano, F. y Vismara F., 2010, Análisis costo beneficio de instrumentos de fomento de 
+la Ciencia, tecnología e innovación de Argentina: Estimación  del Beneficio Social de las 
+líneas Aportes No Reembolsables (ANR) y Créditos a las Empresas (CAE) del FONTAR 
+y análisis de impacto del Programa de Investigación Científica y  Tecnológica (PICT) del 
+FONCYT en base a publicaciones y patentes. 
+http://idbdocs.iadb.org/wsdocs/getDocument.aspx?DOCNUM=35327431  
+ 
+
+•  Ubfal D. y Maffioli, A., 2010, The Impact of Funding on Research Collaboration: Evidence 
+
+•  Arza, Valeria. Innovation and productivity in the Argentine manufacturing sector / Valeria 
+
+Arza, Andrés López. p. cm. (IDB working paper series ; 187) 
+http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=35327637  
+ 
+
+•  Miguel Lengiel y Gabriel Bottino (2009), La co-producción de la innovación y su diseño 
+
+institucional: evidencia de la industria Argentina 
+http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=35327916  
+ 
+
+•  Arza, V. y López, A., 2009, Firm’ linkages with universities and public research institutes 
+in Argentina: Drivers and effects of interacting from a firms’ perspective. Documento de 
+Trabajo, CENIT.  
+ 
+
+ 
+
+                                                                             
+ 
+
+ 
+ 
+
+ 
+
+VIII.  Anexo 1: Acta del Taller de cierre 
+
+Una versión previa del Informe de Terminación de Proyecto (PCR) fue enviada para comentarios 
+a las autoridades del Ministerio de Ciencia, Tecnología e Innovación Productiva y de la Agencia 
+Nacional de Promoción Científica el 30 de noviembre de 2010. 
+ 
+El  7  de  diciembre  se  hizo  una  teleconferencia  con  la  Directora  General  de  Proyectos  con 
+Financiamiento  Externo,  Cdra.  Silvia  Oliver,  quien  manifestó  que  el  informe  de  Terminación  de 
+Proyecto preparado por el Banco había sido revisado por las autoridades de la Agencia y estaban 
+totalmente de acuerdo con el mismo. Adicionalmente, la Cdra. Oliver envió al Banco un correo 
+electrónico con la calificación del desempeño del Banco. Esta información fue incluida en el punto 
+III.C. de este PCR. 
+ 
+
+ 
+
+ 
+
+                                                                             
+ 
+
+(AR-L1012 – 1728/OC-AR) 
+
+INFORME DE TERMINACIÓN DE PROYECTO 
+
+Revisión de Calidad y Riesgo (QRR) – Informe de Resultados y Procedimientos 
+
+ 
+
+ Informe de Resultados y Procedimientos QRR 
+Página 1 de 1 
+ 
+ 
+
+ 
+
+ A. 
+
+B. 
+ 
+C. 
+
+PROCESO QRR 
+El PCR  fue distribuido al QRR solicitando comentarios el 10 de diciembre de 2010.  No se recibieron comentarios.  
+Asuntos no resueltos 
+
+Ninguno 
+
+COMENTARIOS 
+
+  Nombre/Dept. 
+
+Tema 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Comentarios 
+
+Respuestas 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
